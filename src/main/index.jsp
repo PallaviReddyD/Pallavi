@@ -1,719 +1,951 @@
 
-
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <h1> THIS IS MY PAGE  </h1>
-    <html>
-      <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="preconnect" href="https://googleads.g.doubleclick.net">
-      <link rel="preconnect" href="https://jumbo.zomato.com">
-      <link rel="preconnect" href="https://accounts.google.com">
-      <link rel="preconnect" href="https://securepubads.g.doubleclick.net">
-      <link rel="preconnect" href="https://www.google-analytics.com">
-      <link rel="preconnect" href="https://www.googleadservices.com">
-      <link rel="preconnect" href="https://bat.bing.com">
-      <link rel="preconnect" href="https://8391443.fls.doubleclick.net">
-      <title data-rh="true">Zomato</title>
-      <meta data-rh="true" charset="utf-8"/><meta data-rh="true" name="robots" content="NOODP,NOYDIR"/><meta data-rh="true" name="description" content="India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people."/><meta data-rh="true" name="twitter:card" content="summary"/><meta data-rh="true" property="og:title" content="Zomato"/><meta data-rh="true" property="og:image" content="https://b.zmtcdn.com/images/square_zomato_logo_new.svg"/><meta data-rh="true" property="og:description" content="India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people."/><meta data-rh="true" name="google-site-verification" content="wpKLzkoQQlIQcu2LzlVmxVTVJbvUyazijG6QYaTzXqw"/>
-      <link data-rh="true" rel="alternate" hrefLang="en-in" href="https://www.zomato.com"/><link data-rh="true" rel="alternate" hrefLang="hi-in" href="https://www.zomato.com/hi"/><link data-rh="true" rel="alternate" hrefLang="bn-in" href="https://www.zomato.com/bn"/><link data-rh="true" rel="alternate" hrefLang="te-in" href="https://www.zomato.com/te"/><link data-rh="true" rel="alternate" hrefLang="ta-in" href="https://www.zomato.com/ta"/><link data-rh="true" rel="alternate" hrefLang="kn-in" href="https://www.zomato.com/kn"/><link data-rh="true" rel="alternate" hrefLang="mr-in" href="https://www.zomato.com/mr"/><link data-rh="true" rel="alternate" hrefLang="gu-in" href="https://www.zomato.com/gu"/><link data-rh="true" rel="alternate" hrefLang="pa-in" href="https://www.zomato.com/pa"/><link data-rh="true" rel="alternate" hrefLang="ml-in" href="https://www.zomato.com/ml"/><link data-rh="true" rel="alternate" hrefLang="or-in" href="https://www.zomato.com/or"/><link data-rh="true" rel="alternate" hrefLang="hi-en-in" href="https://www.zomato.com/hi-en"/><link data-rh="true" rel="alternate" hrefLang="x-default" href="https://www.zomato.com"/><link data-rh="true" rel="canonical" href="https://www.zomato.com/"/>
-      <script data-rh="true" type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","name":"Zomato","url":"https://www.zomato.com"}</script><script data-rh="true" type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Zomato","description":"India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.","url":"https://www.zomato.com/","logo":"https://b.zmtcdn.com/images/square_zomato_logo_new.svg","sameAs":["https://www.facebook.com/zomato","https://www.twitter.com/zomato","https://www.instagram.com/zomato","https://plus.google.com/+zomato","https://en.wikipedia.org/wiki/Zomato","https://www.linkedin.com/company/zomato"]}</script>
-      <style data-styled="bfWosR ghwkLF xJRQm fhmVqS kMEczH duqWUC ityGjU dPFcIR dcQUaZ gNayD jRryuq iXiquQ ewThiX dyPSTk jSdVus dOXmkw bdrdHY htMNyq hHpkgQ jwVXyW ifdVMV gpdnUW bmbqmX rQzcn kkPOQi fvCyAU OcEMG hxTfPc fIVbKv cndLHu kAUthO eHRMNA jqhLIW iFnyeo gvsUip iRDDBk ezrcri kyPUnV iwHbVQ jKmKoK cvuzKA dWVyOc hFHYzA kkURgz khHvmd kYnyFA fUpGmB chgPqJ gAhmYY eirtPp fkgYik fAlecG hZnlZG ePKcUH jGGRwE huStkG jHSamn iGErOi TYobw gEBoKt brkODe fZrmeM iHNBTS ffoBAl fIuLDK gJKavv lcfsHG fvVOZY gyXHqH imUMiD foDMxx MKgTV gLbmAn gGzIKR jdRPl kvUFhz jfiZBb jYqkIa iOAEPc grmOkY ibrfpG iEvIbV fxuOHl dqJnoA cqxheR jkbaMx eDNByN bBZBLJ JFgnp hdkbbD cHkolX bPGePZ kAWycP jIXZve gPAuGS cndCgo jElEZC foqEXy pADbf hWJzOE dCaTuj kiQNBG jKbzqi klIMFG eWaNHQ evvRGa UnHcy gBVqqT eBQidV hIAzbj eGLeLy nTDQq fnBlOe kruCDf cLGFhn jtjAdV ffjHop hXVpmg MLjOP kJNHeA fFQLQR hAFpnh kptErf jWMuRL fgJBOk hZKXXE jrHtYr eiwrnG ctMLcL bIgyOk icOLAW hLkMFn gBeNIg jDzwTz gXbCjv ioJwpZ bbrwhB kdnpos QjbsL kBWLpU elxuhW jrAmIP eXneOi iiMxKS dkwpEa eNCSrd REiDQ bsFvqy blTnzu grciEW iHNJzf kuEcnP dMfNQn hmiUFh fVldHU hferSp bBVhRP ihgAwA jYkmEI ipHUyL bJqgGM ivZvxu eKfesM gHAVJq gKUxko bnXfGy bJnFan fgKeBV bGfHbP gzcbGg ixsoFB cvsUXu cDEyWL jPUyxY gJYvaX ceanFw jzrEzn erXsJY oEoRv iYiNyG fYFzFe hVtcrz DHMyd ehBfFg mtUrN dirNi epQgJy fyCgPB iFttwN jNqlkW bvogHW iWeJHV kVcJCg dOFWhj iMPEip btDUHh llOEHd jWound dLsZWW jYhtHx gQXbfm iFsnCv iDzUMo dxcfRo gfYSur HEzmM fvpjYk RAjVl jBOGYb eHuOnX bskCAo kBllqA jWjfGz gEhFjv" data-styled-version="4.4.1">
-/* sc-component-id: sc-1kx5g6g-1 */
-.elxuhW{min-width:15rem;min-height:44px;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;border-radius:0.6rem;background:transparent;padding:0;border:none;cursor:pointer;} .elxuhW:focus,.elxuhW:active{outline:none;box-shadow:none;}.jrAmIP{min-width:auto;min-height:32px;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:stretch;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;border-radius:0.6rem;background:transparent;padding:0;border:none;cursor:pointer;} .jrAmIP:focus,.jrAmIP:active{outline:none;box-shadow:none;}
-/* sc-component-id: sc-1kx5g6g-2 */
-.eXneOi{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;vertical-align:middle;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;height:100%;width:100%;min-width:15rem;min-height:44px;line-height:44px;margin-top:0;margin-left:0;outline:none !important;white-space:nowrap;font-size:1.6rem;font-weight:300;background:#EF4F5F;border-color:#EF4F5F;border-width:0;border-style:solid;border-radius:0.6rem;color:#FFFFFF;padding:0 1.6rem;opacity:1;background-clip:border-box;-webkit-transition:-webkit-transform 0.25s,opacity 0.25s,box-shadow 0.25s ease;-webkit-transition:transform 0.25s,opacity 0.25s,box-shadow 0.25s ease;transition:transform 0.25s,opacity 0.25s,box-shadow 0.25s ease;} .eXneOi > *:not(:last-child):not(:only-child){margin-right:0.8rem;line-height:1;} .sc-1kx5g6g-1:focus .eXneOi{background:#E03546;border-color:#24963F;box-shadow:0 0 0 4px #fff,0 0 0 5px #717171,0 0 0 6px rgba(255,255,255,0.5);} .eXneOi:not(:-moz-focusring):focus{box-shadow:none;} .sc-1kx5g6g-1:active .eXneOi{background:#E03546;border-color:#24963F;outline:none;box-shadow:0 0.4rem 0.6rem rgba(0,0,0,.16);} @media (hover:hover){.eXneOi .sc-1kx5g6g-1:hover,.eXneOi .sc-1kx5g6g-1:focus{background:#E03546;border-color:#24963F;}.eXneOi:hover{background:#E03546;border-color:#24963F;}.eXneOi:hover i{-webkit-transform:translate(-4px,0);-ms-transform:translate(-4px,0);transform:translate(-4px,0);}} @media (hover:none){.sc-1kx5g6g-1:focus .eXneOi{outline:none;box-shadow:none !important;}} @media (max-width:480px){.eXneOi{position:relative;overflow:hidden;}.eXneOi:after{content:"";display:block;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%) scale(0);-ms-transform:translate(-50%,-50%) scale(0);transform:translate(-50%,-50%) scale(0);width:50rem;height:50rem;background-color:#FFFFFF;border-radius:100%;opacity:0.6;}.eXneOi:not(:active):after{-webkit-animation:bXTtfc 1s ease-out;animation:bXTtfc 1s ease-out;}.eXneOi:after{visibility:hidden;}.eXneOi:focus:after{visibility:visible;}}.iiMxKS{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;vertical-align:middle;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;height:100%;width:100%;min-width:auto;min-height:32px;line-height:32px;margin-top:0;margin-left:0;outline:none !important;white-space:nowrap;font-size:1.4rem;font-weight:300;background:#EF4F5F;border-color:#EF4F5F;border-width:0;border-style:solid;border-radius:0.6rem;color:#FFFFFF;padding:0 1.6rem;opacity:1;background-clip:border-box;-webkit-transition:-webkit-transform 0.25s,opacity 0.25s,box-shadow 0.25s ease;-webkit-transition:transform 0.25s,opacity 0.25s,box-shadow 0.25s ease;transition:transform 0.25s,opacity 0.25s,box-shadow 0.25s ease;} .iiMxKS > *:not(:last-child):not(:only-child){margin-right:0.8rem;line-height:1;} .sc-1kx5g6g-1:focus .iiMxKS{background:#E03546;border-color:#24963F;box-shadow:0 0 0 4px #fff,0 0 0 5px #717171,0 0 0 6px rgba(255,255,255,0.5);} .iiMxKS:not(:-moz-focusring):focus{box-shadow:none;} .sc-1kx5g6g-1:active .iiMxKS{background:#E03546;border-color:#24963F;outline:none;box-shadow:0 0.3rem 0.6rem rgba(0,0,0,.16);} @media (hover:hover){.iiMxKS .sc-1kx5g6g-1:hover,.iiMxKS .sc-1kx5g6g-1:focus{background:#E03546;border-color:#24963F;}.iiMxKS:hover{background:#E03546;border-color:#24963F;}.iiMxKS:hover i{-webkit-transform:translate(-4px,0);-ms-transform:translate(-4px,0);transform:translate(-4px,0);}} @media (hover:none){.sc-1kx5g6g-1:focus .iiMxKS{outline:none;box-shadow:none !important;}} @media (max-width:480px){.iiMxKS{position:relative;overflow:hidden;}.iiMxKS:after{content:"";display:block;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%) scale(0);-ms-transform:translate(-50%,-50%) scale(0);transform:translate(-50%,-50%) scale(0);width:50rem;height:50rem;background-color:#FFFFFF;border-radius:100%;opacity:0.6;}.iiMxKS:not(:active):after{-webkit-animation:bXTtfc 1s ease-out;animation:bXTtfc 1s ease-out;}.iiMxKS:after{visibility:hidden;}.iiMxKS:focus:after{visibility:visible;}}
-/* sc-component-id: sc-1kx5g6g-3 */
-.dkwpEa{display:inline-block;vertical-align:middle;line-height:normal;font-size:inherit;-webkit-transition:-webkit-transform 0.4s;-webkit-transition:transform 0.4s;transition:transform 0.4s;} .dkwpEa *:last-child:not(:only-child){margin-top:0.1rem;}
-/* sc-component-id: sc-rbbb40-0 */
-.gvsUip{display:inline-block;vertical-align:middle;line-height:1;width:10px;height:10px;}.iRDDBk{display:inline-block;vertical-align:middle;line-height:1;width:20px;height:20px;}.ezrcri{display:inline-block;vertical-align:middle;line-height:1;width:12px;height:12px;}.kyPUnV{display:inline-block;vertical-align:middle;line-height:1;width:14px;height:14px;}.iwHbVQ{display:inline-block;vertical-align:middle;line-height:1;width:18px;height:18px;}.jKmKoK{display:inline-block;vertical-align:middle;line-height:1;width:15px;height:15px;}.cvuzKA{display:inline-block;vertical-align:middle;line-height:1;width:22px;height:22px;}
-/* sc-component-id: sc-rbbb40-1 */
-.iFnyeo{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:inherit;}
-/* sc-component-id: sc-1hez2tp-0 */
-.bBZBLJ{font-size:inherit;line-height:1.5;margin:0 0;color:#363636;}
-/* sc-component-id: sc-1ly0uwc-0 */
-.htMNyq{background:#E23744;top:0;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;height:2px;z-index:20000000;position:fixed;left:0;width:0;opacity:1;contain:content;-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1);-webkit-transform-origin:left;-ms-transform-origin:left;transform-origin:left;-webkit-animation:dbnfkf 2s cubic-bezier(0.65,0.05,0.36,1) forwards;animation:dbnfkf 2s cubic-bezier(0.65,0.05,0.36,1) forwards;will-change:transform;}
-/* sc-component-id: sc-bke1zw-0 */
-.fIuLDK{width:100%;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}
-/* sc-component-id: sc-bke1zw-1 */
-.gJKavv{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:33.33333333333333%;padding:0 13.333333333333334px 20px 0px;} @media (max-width:480px){.gJKavv{padding:0 10px 20px 0px;max-width:50%;}}.lcfsHG{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:33.33333333333333%;padding:0 6.666666666666668px 20px 6.666666666666666px;} @media (max-width:480px){.lcfsHG{padding:0 0px 20px 10px;max-width:50%;}}.fvVOZY{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:33.33333333333333%;padding:0 0px 20px 13.333333333333334px;} @media (max-width:480px){.fvVOZY{padding:0 0px 20px 0px;max-width:50%;}}.gyXHqH{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:25%;padding:0 7.5px 10px 0px;} @media (max-width:480px){.gyXHqH{padding:0 5px 10px 0px;max-width:50%;}}.imUMiD{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:25%;padding:0 5px 10px 2.5px;} @media (max-width:480px){.imUMiD{padding:0 0px 10px 5px;max-width:50%;}}.foDMxx{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:25%;padding:0 2.5px 10px 5px;} @media (max-width:480px){.foDMxx{padding:0 5px 10px 0px;max-width:50%;}}.MKgTV{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:25%;padding:0 0px 10px 7.5px;} @media (max-width:480px){.MKgTV{padding:0 0px 10px 5px;max-width:50%;}}.gLbmAn{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:33.33333333333333%;padding:0 10px 15px 0px;} @media (max-width:480px){.gLbmAn{padding:0 0px 15px 0px;max-width:100%;}}.gGzIKR{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:33.33333333333333%;padding:0 5px 15px 5px;} @media (max-width:480px){.gGzIKR{padding:0 0px 15px 0px;max-width:100%;}}.jdRPl{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:33.33333333333333%;padding:0 0px 15px 10px;} @media (max-width:480px){.jdRPl{padding:0 0px 15px 0px;max-width:100%;}}.kvUFhz{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:41.66666666666667%;padding:0 2.5px 5px 0px;} @media (max-width:768px) and (min-width:481px){.kvUFhz{max-width:33.33333333333333%;padding:0 2.5px 5px 0px;}} @media (max-width:480px){.kvUFhz{padding:0 2.5px 5px 0px;max-width:50%;}}.jfiZBb{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:41.66666666666667%;padding:0 0px 5px 2.5px;} @media (max-width:768px) and (min-width:481px){.jfiZBb{max-width:33.33333333333333%;padding:0 0px 5px 2.5px;}} @media (max-width:480px){.jfiZBb{padding:0 0px 5px 2.5px;max-width:50%;}}
-/* sc-component-id: sc-7kepeu-0 */
-.kYnyFA{font-size:4.4rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;}
-/* sc-component-id: sc-s1isp7-1 */
-.grmOkY{position:relative;max-width:100%;width:100%;height:24rem;overflow:hidden;}.ibrfpG{position:relative;max-width:100%;height:32rem;overflow:hidden;}.iEvIbV{position:relative;max-width:100%;width:100%;height:45rem;overflow:hidden;}.fxuOHl{position:relative;max-width:100%;width:13.7rem;height:4rem;overflow:hidden;}
-/* sc-component-id: sc-s1isp7-2 */
-.dCaTuj{position:absolute;top:0;left:0;width:100%;height:100%;opacity:1;will-change:transform,opacity;border-radius:inherit;-webkit-transition:opacity 0.25s ease-in;transition:opacity 0.25s ease-in;}
-/* sc-component-id: sc-s1isp7-3 */
-.dqJnoA{width:100%;position:absolute;top:0;left:0;height:100%;background:#F8F8F8;background-image:linear-gradient( to right,#F8F8F8 0%,#FFFFFF 10%,#F8F8F8 40%,#F8F8F8 100% );background-repeat:no-repeat;opacity:1;-webkit-transition:opacity 0.25s ease-out;transition:opacity 0.25s ease-out;will-change:opacity;border-radius:inherit;-webkit-animation:jCOzbu 1.5s infinite linear forwards;animation:jCOzbu 1.5s infinite linear forwards;}
-/* sc-component-id: sc-s1isp7-5 */
-.cqxheR{width:100%;height:100%;object-fit:cover;-webkit-transform:scale(0.9);-ms-transform:scale(0.9);transform:scale(0.9);opacity:0;will-change:transform,opacity;border-radius:inherit;-webkit-filter:unset;filter:unset;-webkit-transition:opacity 0.25s ease,-webkit-transform 0.25s ease;-webkit-transition:opacity 0.25s ease,transform 0.25s ease;transition:opacity 0.25s ease,transform 0.25s ease;} .cqxheR img:not([src]):not([srcset]){visibility:hidden;} @-moz-document url-prefix(){.cqxheR img:-moz-loading{visibility:hidden;}}.jkbaMx{width:100%;height:100%;object-fit:contain;-webkit-transform:scale(0.9);-ms-transform:scale(0.9);transform:scale(0.9);opacity:0;will-change:transform,opacity;border-radius:inherit;-webkit-filter:unset;filter:unset;-webkit-transition:opacity 0.25s ease,-webkit-transform 0.25s ease;-webkit-transition:opacity 0.25s ease,transform 0.25s ease;transition:opacity 0.25s ease,transform 0.25s ease;} .jkbaMx img:not([src]):not([srcset]){visibility:hidden;} @-moz-document url-prefix(){.jkbaMx img:-moz-loading{visibility:hidden;}}
-/* sc-component-id: sc-ixe81d-2 */
-.hferSp{padding:0;background:#ffffff;border:none;box-sizing:border-box;opacity:1;pointer-events:auto;border:none;border-radius:0;box-shadow:none;border-top:1px solid #f4f4f4;margin-bottom:0;border:1px solid #E8E8E8;border-bottom:none;opacity:1;pointer-events:auto;} .hferSp:first-child{border-top-left-radius:0.8rem;border-top-right-radius:0.8rem;} .hferSp:last-child{border-bottom-left-radius:0.8rem;border-bottom-right-radius:0.8rem;border-bottom:1px solid #e8e8e8;}
-/* sc-component-id: sc-ixe81d-3 */
-.ipHUyL{-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0);-webkit-transition:-webkit-transform 0.25s ease-in;-webkit-transition:transform 0.25s ease-in;transition:transform 0.25s ease-in;margin-top:0;margin-left:0;white-space:nowrap;}
-/* sc-component-id: sc-ixe81d-6 */
-.bBVhRP{margin-top:0;margin-left:0;cursor:pointer;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:2rem 2.4rem 2rem 2.4rem;} .bBVhRP:focus{outline:none;box-shadow:none;}
-/* sc-component-id: sc-ixe81d-7 */
-.jYkmEI{font-size:2rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;color:#1C1C1C;font-size:20px;line-height:26px;margin:0;}
-/* sc-component-id: sc-ixe81d-8 */
-.ihgAwA{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;}
-/* sc-component-id: sc-ixe81d-10 */
-.bJqgGM{color:#696969;display:none;padding-top:1rem;padding-bottom:0;max-height:0;padding-left:2.4rem;padding-right:2.4rem;pointer-events:auto;opacity:0;-webkit-transition:opacity .25s linear,max-height .5s;transition:opacity .25s linear,max-height .5s;} .bJqgGM:focus{outline:none;}
-/* sc-component-id: sc-1yzxt5f-4 */
-.ioJwpZ{position:relative;margin:0;width:100%;height:4.8rem;}
-/* sc-component-id: sc-1yzxt5f-5 */
-.QjbsL{height:13px;color:#828282;visibility:none;font-size:11px;line-height:13px;margin-top:2px;}
-/* sc-component-id: sc-1yzxt5f-6 */
-.gXbCjv{position:relative;width:100%;}
-/* sc-component-id: sc-1yzxt5f-7 */
-.kdnpos{position:absolute;pointer-events:none;-webkit-transition:0.2s ease all;transition:0.2s ease all;color:#B5B5B5;top:13px;left:14px;font-size:18px;background:#FFFFFF;padding:0;max-width:90%;max-height:2.2rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
-/* sc-component-id: sc-1yzxt5f-9 */
-.bbrwhB{padding:1.3rem 1.2rem 1.3rem 1.2rem;height:4.8rem;background:#FFFFFF;border:0.1rem solid #CFCFCF;font-size:18px;width:100%;outline:none;box-sizing:border-box;border-radius:0.6rem;color:#1C1C1C;} .bbrwhB::-webkit-input-placeholder{color:#a9a9a9;}
-/* sc-component-id: sc-18n4g8v-0 */
-.gAhmYY{width:-webkit-max-content;width:-moz-max-content;width:max-content;}
-/* sc-component-id: sc-dln2kl-0 */
-.cHkolX{font-size:1.5rem;font-size:3.6rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;}
-/* sc-component-id: sc-bFADNz */
-.jSdVus{box-sizing:border-box;min-width:0;}
-/* sc-component-id: sc-16nfz79-0 */
-.blTnzu{-webkit-text-decoration:none;text-decoration:none;}
-/* sc-component-id: sc-jMMfwr */
-.bdrdHY{height:3px;}
-/* sc-component-id: sc-jGxEUC */
-.dOXmkw{position:relative;}
-/* sc-component-id: sc-jdeSqf */
-.bfWosR{position:fixed;top:0;left:0;width:100%;height:100%;min-width:-webkit-max-content;min-width:-moz-max-content;min-width:max-content;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;overflow:auto;z-index:1002;font-size:1.6rem;}
-/* sc-component-id: sc-cBrjTV */
-.ghwkLF{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#1c1c1c;opacity:0.85;visibility:visible;-webkit-transition:opacity 0.25s ease 0s;transition:opacity 0.25s ease 0s;}
-/* sc-component-id: sc-iCwjlJ */
-.xJRQm{position:absolute;bottom:0;width:100vw;min-height:0;-webkit-transition:all 0.25s ease 0s,visibility 0s ease 0s;transition:all 0.25s ease 0s,visibility 0s ease 0s;border-radius:0.6rem 0.6rem 0 0;background-color:#ffffff;height:-webkit-max-content;height:-moz-max-content;height:max-content;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0);opacity:1;z-index:1;display:block;}
-/* sc-component-id: sc-fkyLDJ */
-.fhmVqS{min-height:8rem;display:block;overflow:initial;}
-/* sc-component-id: sc-jUpvKA */
-.kMEczH{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:100%;}
-/* sc-component-id: sc-jdfcpN */
-.dPFcIR{font-size:1.6rem;font-weight:600;}
-/* sc-component-id: sc-jRuhRL */
-.dcQUaZ{font-size:1.4rem;font-weight:400;margin-top:0.5rem;}
-/* sc-component-id: sc-kNBZmU */
-.duqWUC{width:100vw;object-fit:fill;position:relative;border-radius:1.2rem 1.2rem 0 0;aspect-ratio:375/150;}
-/* sc-component-id: sc-eopZyb */
-.ityGjU{width:70%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:absolute;right:0;top:25%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);padding:2rem;color:black;}
-/* sc-component-id: sc-eNNmBn */
-.iXiquQ{font-weight:600;font-size:1.4rem;line-height:2.4rem;color:#ef4f5f;display:grid;place-items:center;} @media (max-height:700px){.iXiquQ{margin-bottom:3rem;}}
-/* sc-component-id: sc-eEieub */
-.jRryuq{width:-webkit-fill-available;width:-moz-available;width:fill-available;border-radius:0.6rem;display:grid;place-items:center;margin:2.5rem 2rem 2rem;padding:1.2rem;font-size:1.6rem;background:#ef4f5f;color:white;} @media (max-height:700px){.jRryuq{font-size:1.4rem;margin:2rem 1.5rem 1.5rem;padding:1rem;}}
-/* sc-component-id: sc-RbTVP */
-.gNayD{padding:0 1.6rem 1.6rem;width:100%;}
-/* sc-component-id: sc-yZwTr */
-.ewThiX{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;} .ewThiX .offers-header h2{font-size:20px;font-weight:500;color:var(--colours-neutrals-slate-900);} .ewThiX .offers-header p{font-size:14px;color:var(--colours-neutrals-slate-600);margin-top:0;line-height:1.2;} .ewThiX .offers-list{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;gap:8px;overflow-x:auto;padding-bottom:12px;width:100%;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;white-space:nowrap;}
-/* sc-component-id: sc-fjhmcy */
-.dyPSTk{position:relative;min-width:200px;background-size:cover;background-repeat:no-repeat;background-position:center center;border-radius:8px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;gap:8px;padding:8px;white-space:break-spaces;word-break:break-all;} .dyPSTk .offer-title{color:#fff;font-size:14px;font-weight:700;margin:0;-webkit-flex:1 0 0;-ms-flex:1 0 0;flex:1 0 0;} .dyPSTk .offer-details{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding-top:8px;} .dyPSTk .offer-details .offer-sub-title{font-size:13px;font-weight:600;color:#fff;margin:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;word-break:break-word;overflow-wrap:break-word;} .dyPSTk .offer-details .offer-sub-desc{font-size:11px;font-weight:400;color:#fff;opacity:0.87;margin:0;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;word-wrap:break-word;overflow-wrap:break-word;word-break:break-word;overflow-wrap:break-word;} .dyPSTk.highlighted-offer{background-color:#3e8ef5;background-image:url('https://b.zmtcdn.com/data/o2_assets/e35f45b80f4b72dfff54087307fb5be01728305209.png');border:1px solid rgba(255,255,255,0.2);} .dyPSTk.no-highlighted-offer{background-color:#fff;background-image:url('https://b.zmtcdn.com/data/o2_assets/35aecd1146b655f3ab1f396969bebd091728305455.png');border:1px solid #e4e9f1;} .dyPSTk.no-highlighted-offer .offer-title{color:#3e8ef5;} .dyPSTk.no-highlighted-offer .offer-sub-title{color:#000;} .dyPSTk.no-highlighted-offer .offer-sub-desc{color:#3f4a5f;}
-/* sc-component-id: sc-dRCTWM */
-.eGLeLy{font-size:2rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;margin-bottom:0.5rem;} @media (max-width:480px){.eGLeLy{font-size:1.4rem;line-height:1.2;font-weight:500;}}
-/* sc-component-id: sc-cgHJcJ */
-.nTDQq{margin-left:2rem;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;}
-/* sc-component-id: sc-hizQCF */
-.hIAzbj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:left;-webkit-box-align:left;-ms-flex-align:left;align-items:left;}
-/* sc-component-id: sc-eNPDpu */
-.eBQidV{padding:1.2rem 1.5rem;border-radius:0.8rem;background:#FFFFFF;border:1px solid #E8E8E8;margin-bottom:0.5rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:pointer;} .eBQidV .img-title-box .flag-img{margin-right:0.8rem;} @media (max-width:480px){.eBQidV{padding:1.8rem 2.2rem;margin-bottom:0;}.eBQidV .flag-img{height:4rem;}}
-/* sc-component-id: sc-ks3f96-0 */
-.gPAuGS{background-color:transparent;font-weight:300;color:#FF7E8B;-webkit-text-decoration:none;text-decoration:none;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;}
-/* sc-component-id: sc-ks3f96-1 */
-.cndCgo{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;padding:0.3rem;background-color:transparent;cursor:pointer;border:0.1rem solid transparent;border-radius:0.4rem;line-height:1;} .sc-ks3f96-0:hover .cndCgo{color:#EF4F5F;-webkit-text-decoration:none;text-decoration:none;} .sc-ks3f96-0:focus .cndCgo{border-color:#FFB1C0;} .sc-ks3f96-0:active .cndCgo,.sc-ks3f96-0:visited .cndCgo{color:#E03546;} .cndCgo .icon-left{-webkit-transition:0.3s ease;transition:0.3s ease;} .cndCgo .icon-right{-webkit-transition:0.4s ease;transition:0.4s ease;} .cndCgo:hover .icon-left{margin:0 0.8rem 0 -0.4rem;} .cndCgo:hover .icon-right{margin:0 -1.1rem 0 1.5rem;} .cndCgo:focus,.cndCgo:hover,.cndCgo:active{-webkit-text-decoration:none;text-decoration:none;border-color:transparent;} .cndCgo > i{margin-left:0;margin-right:0;}
-/* sc-component-id: sc-hARARD */
-.hFHYzA{position:relative;margin-bottom:4rem;} @media (max-width:480px){.hFHYzA{margin-bottom:1.5rem;}} .hFHYzA .contents-wrapper{position:absolute;bottom:calc(50% - 11.1rem);display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;} @media (max-width:480px){.hFHYzA .contents-wrapper{bottom:2rem;}} .hFHYzA .contents-wrapper .mobile-location-search-container{margin-top:1rem;width:calc(100% - 2.4rem);} .hFHYzA .contents-wrapper .description{margin-top:3rem;color:white;text-align:center;font-size:3.6rem;} @media (max-width:480px){.hFHYzA .contents-wrapper .description{margin-top:2rem;font-weight:500;font-size:20px;line-height:32px;}} .hFHYzA .contents-wrapper .description .next-line{font-weight:500;font-size:36px;line-height:48px;} @media (max-width:480px){.hFHYzA .contents-wrapper .description .next-line{display:block;font-size:20px;line-height:32px;}} .hFHYzA .contents-wrapper .searchContainer{border-width:0;margin-top:3rem;} @media (max-width:768px){.hFHYzA .contents-wrapper .searchContainer{width:calc(100% - 4.8rem);}}
-/* sc-component-id: sc-jQMNup */
-.iHNBTS{position:relative;max-width:110rem;max-height:initial;margin:0 auto;} @media (max-width:480px){.iHNBTS{max-width:42.4rem;margin:0 2.4rem;}} @media (min-width:481px) and (max-width:768px){.iHNBTS{max-width:72rem;margin:0 2.4rem;}} .iHNBTS a{-webkit-text-decoration:none;text-decoration:none;}
-/* sc-component-id: sc-bJHhxl */
-.ffoBAl{margin-bottom:6rem;} @media (max-width:480px){.ffoBAl{margin-bottom:6rem;}}
-/* sc-component-id: sc-TuwoP */
-.gBVqqT{font-size:inherit;line-height:1.5;margin:0 0;color:#363636;font-size:3.6rem;line-height:1.2;font-weight:400;} @media (max-width:480px){.gBVqqT{font-weight:500;font-size:1.8rem;line-height:2.4rem;margin-bottom:2rem;}}
-/* sc-component-id: sc-fQkuQJ */
-.UnHcy{width:100%;margin-bottom:10rem;} @media (max-width:480px){.UnHcy{margin-bottom:4.8rem;}} .UnHcy .title{margin-bottom:4rem;text-align:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:480px){.UnHcy .title{margin-bottom:0;text-align:left;}} .UnHcy .title .city-name{font-weight:500;font-size:3.6rem;} @media (max-width:480px){.UnHcy .title .city-name{font-weight:600;font-size:1.8rem;line-height:2.4rem;margin-bottom:2rem;}} .UnHcy .panel{box-shadow:0px 1.42623px 2.85246px rgba(28,28,28,0.08);} .UnHcy .panel > div{width:calc(100% - 3.5rem);} .UnHcy .panel > div h5{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;} .UnHcy .panel:hover{box-shadow:0px 4px 8px rgba(28,28,28,0.08);} .UnHcy .sublocation-name{color:#696969;font-weight:500;font-size:20px;line-height:32px;margin-bottom:1.5rem;} @media (max-width:480px){.UnHcy .sublocation-name{font-weight:500;font-size:14px;line-height:24px;margin-bottom:0.8rem;}} .UnHcy .sublocation-container{margin-bottom:1rem;} @media (max-width:480px){.UnHcy .sublocation-container{margin-bottom:0.5rem;}}
-/* sc-component-id: sc-epGmkI */
-.cLGFhn{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;background-color:#fffbf7;}
-/* sc-component-id: sc-dphlzf */
-.iOAEPc{border-radius:1.2rem;overflow:hidden;border-style:solid #E8E8E8;} .iOAEPc img{height:80%;} @media (max-width:480px){.iOAEPc{height:15rem;}}
-/* sc-component-id: sc-fCPvlr */
-.jYqkIa{display:block;-webkit-text-decoration:none;text-decoration:none;position:relative;cursor:pointer;-webkit-transition:-webkit-transform 300ms;-webkit-transition:transform 300ms;transition:transform 300ms;} @media (min-width:481px){.jYqkIa:hover{-webkit-transform:scale(1.05);-ms-transform:scale(1.05);transform:scale(1.05);}} @media (max-width:480px){.jYqkIa:active{-webkit-transform:scale(0.95);-ms-transform:scale(0.95);transform:scale(0.95);}}
-/* sc-component-id: sc-gAmQfK */
-.eDNByN{padding:1rem 2rem 1.6rem 2rem;width:100%;position:absolute;bottom:0;left:0;background:white;border:1px solid #E8E8E8;border-radius:0 0 1.2rem 1.2rem;box-sizing:border-box;} @media (max-width:768px){.eDNByN{padding:1rem 1rem 1.6rem 1rem;}} .eDNByN .title{text-align:left;font-weight:500;font-size:2rem;line-height:3.2rem;} @media (max-width:768px){.eDNByN .title{font-size:1.4rem;line-height:1.2;}} .eDNByN .subtitle{color:#4F4F4F;font-weight:400;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;} @media (max-width:768px){.eDNByN .subtitle{font-size:1.2rem;line-height:1.2;}}
-/* sc-component-id: sc-hAXbOi */
-.kAWycP{display:block;} @media (max-width:480px){.kAWycP{display:none;margin-top:1rem;}.kAWycP span{padding:0.3rem 0;font-size:1.2rem;line-height:16px;font-weight:500;margin-right:0.8rem;}.kAWycP span i{margin-left:0.5rem;}}.jIXZve{display:none;} @media (max-width:480px){.jIXZve{display:block;margin-top:1rem;}.jIXZve span{padding:0.3rem 0;font-size:1.2rem;line-height:16px;font-weight:500;margin-right:0.8rem;}.jIXZve span i{margin-left:0.5rem;}}
-/* sc-component-id: sc-cCVOAp */
-.hdkbbD .title{font-weight:500;} @media (max-width:480px){.hdkbbD .title{font-size:2rem;line-height:3.2rem;}} .hdkbbD .desc-see-more-link{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;margin-top:0.4rem;} .hdkbbD .desc-see-more-link .desc{line-height:1.4;font-weight:300;color:#363636;} @media (max-width:480px){.hdkbbD .desc-see-more-link .desc{font-size:1.2rem;line-height:1.6rem;}} @media (max-width:480px){.hdkbbD .desc-see-more-link{margin-top:0rem;font-size:1.2rem;line-height:1.6rem;margin-bottom:2rem;}} .hdkbbD i{margin-left:1rem;}
-/* sc-component-id: sc-cfWELz */
-.JFgnp{margin-bottom:10rem;} @media (max-width:480px){.JFgnp{margin-bottom:4.8rem;}} .JFgnp .cards{margin-top:3rem;}
-/* sc-component-id: sc-hCaUpS */
-.jElEZC{margin-left:1rem;}
-/* sc-component-id: sc-sPYgB */
-.fnBlOe{width:inherit;height:7.9rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;cursor:pointer;background:#FFFFFF;border:1px solid #E8E8E8;box-sizing:border-box;border-radius:6px;box-shadow:0px 1.42623px 2.85246px rgb(28 28 28 / 8%);} @media (max-width:480px){.fnBlOe{position:relative;overflow:hidden;}.fnBlOe:after{content:"";display:block;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%) scale(0);-ms-transform:translate(-50%,-50%) scale(0);transform:translate(-50%,-50%) scale(0);width:50rem;height:50rem;background-color:#CFCFCF;border-radius:100%;opacity:0.6;}.fnBlOe:not(:active):after{-webkit-animation:bXTtfc 1s ease-out;animation:bXTtfc 1s ease-out;}.fnBlOe:after{visibility:hidden;}.fnBlOe:focus:after{visibility:visible;}}
-/* sc-component-id: sc-dHIava */
-.kruCDf{margin-right:1rem;font-size:1.8rem;font-weight:400;} @media (max-width:480px){.kruCDf{font-size:1.4rem;}}
-/* sc-component-id: sc-1gbvc19-0 */
-.bPGePZ{font-size:1.8rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;}
-/* sc-component-id: sc-jhaWeW */
-.eWaNHQ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin:0.3rem 0 1rem;padding:0 1.6rem;} @media (max-width:480px){.eWaNHQ{padding:0 1rem;margin:0.3rem 0 1rem 0;}}
-/* sc-component-id: sc-bSbAYC */
-.evvRGa{font-size:1.8rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;-webkit-text-decoration:none;text-decoration:none;color:#FFFFFF;font-size:1.4rem;margin-right:0.7rem;} @media (max-width:480px){.evvRGa{font-size:1.2rem;}}
-/* sc-component-id: sc-guztPN */
-.hWJzOE{border-radius:0.6rem;}
-/* sc-component-id: sc-cFlXAS */
-.pADbf{-webkit-text-decoration:none;text-decoration:none;}
-/* sc-component-id: sc-hcnlBt */
-.foqEXy{position:relative;cursor:pointer;}
-/* sc-component-id: sc-hkbPbT */
-.klIMFG{font-size:inherit;line-height:1.5;margin:0 0;color:#FFFFFF;padding:0 1.6rem;font-size:1.8rem;width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;} @media (max-width:480px){.klIMFG{padding:0 1rem;font-size:1.4rem;line-height:2.4rem;}}
-/* sc-component-id: sc-jRhVzh */
-.kiQNBG{position:absolute;top:0;left:0;border-radius:0.6rem;width:100%;height:100%;background:linear-gradient( 0deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.05) 50%, rgba(0,0,0,0.05) 85% );}
-/* sc-component-id: sc-iHhHRJ */
-.jKbzqi{color:#FFFFFF;position:absolute;bottom:0;width:100%;}
-/* sc-component-id: sc-kqlzXE */
-.iHNJzf{background:#FCFCFC;}
-/* sc-component-id: sc-OxbzP */
-.hmiUFh{margin-bottom:2rem;} .hmiUFh:last-child{margin-bottom:0;} @media (max-width:480px){.hmiUFh{margin-bottom:1.5rem;}.hmiUFh:last-child{margin-bottom:0;}}
-/* sc-component-id: sc-lnrBVv */
-.kuEcnP{position:relative;max-width:110rem;max-height:initial;margin:0 auto;padding-top:5rem;padding-bottom:5rem;} @media (max-width:480px){.kuEcnP{max-width:42.4rem;margin:0 2.4rem;}} @media (min-width:481px) and (max-width:768px){.kuEcnP{max-width:72rem;margin:0 2.4rem;}} @media (max-width:480px){.kuEcnP{padding-top:4.8rem;padding-bottom:4.8rem;}}
-/* sc-component-id: sc-bYnzgO */
-.dMfNQn{font-size:inherit;line-height:1.5;margin:0 0;color:#363636;font-size:3rem;line-height:4rem;font-weight:500;margin-bottom:2rem;} @media (max-width:480px){.dMfNQn{font-size:2.2rem;line-height:2.4rem;margin-bottom:1.6rem;}}
-/* sc-component-id: sc-hvvHee */
-.ivZvxu{-webkit-text-decoration:none;text-decoration:none;color:#828282;font-size:1.6rem;line-height:1.8;margin-right:1rem;} .ivZvxu:hover{color:#363636;} @media (max-width:480px){.ivZvxu{font-size:1.2rem;line-height:1.8;}}
-/* sc-component-id: sc-fvLVrH */
-.eKfesM{display:inline-block;width:0.3rem;height:0.3rem;background:#828282;border-radius:50%;margin-right:1rem;margin-bottom:0.35rem;} @media (max-width:480px){.eKfesM{margin-bottom:0.2rem;}}
-/* sc-component-id: sc-dXfzlN */
-.gKUxko{display:inline-block;text-align:left;-webkit-text-decoration:none;text-decoration:none;color:#828282;margin-bottom:1.2rem;width:20%;font-size:1.6rem;line-height:1.8;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom;} .gKUxko:hover{color:#363636;} @media (max-width:480px){.gKUxko{width:50%;font-size:1.2rem;line-height:1.8;margin-bottom:1.8rem;}}
-/* sc-component-id: sc-aewfc */
-.gHAVJq{display:inline-block;width:100%;}
-/* sc-component-id: sc-iIHjhz */
-.bnXfGy{display:inline-block;margin-bottom:1.2rem;width:20%;vertical-align:bottom;}
-/* sc-component-id: sc-jHZirH */
-.bJnFan{font-weight:500;border-bottom:1.5px solid #1C1C1C;padding-bottom:0.5rem;cursor:pointer;font-size:1.6rem;line-height:1.8;-webkit-text-decoration:none;text-decoration:none;color:#1C1C1C;} .bJnFan:hover{color:#363636;} @media (max-width:480px){.bJnFan{font-size:1.2rem;line-height:1.8;}}
-/* sc-component-id: sc-dYzWWc */
-.fZrmeM{width:100%;background:#FFFFFF;z-index:10;} @media (min-width:481px){.fZrmeM{max-height:60rem;border-radius:0.8rem;position:absolute;overflow:auto;top:3rem;visibility:hidden;opacity:0;border:1px solid #CFCFCF;box-shadow:0px 2px 8px rgba(28,28,28,0.08);-webkit-transition:opacity 0.25s ease,top 0.25s ease;transition:opacity 0.25s ease,top 0.25s ease;padding:1.6rem 0;}}
-/* sc-component-id: sc-gFXMyG */
-.gEBoKt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:6rem;margin:-1px;margin-right:-0.6rem;}
-/* sc-component-id: sc-gQNndl */
-@media (min-width:481px){.TYobw{border-radius:0.8rem;width:53rem;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;position:relative;}} @media (max-width:480px){.TYobw{width:100%;border:none;border-radius:0;}}
-/* sc-component-id: sc-RmnOB */
-.brkODe{border:none;font-size:1.4rem;width:100%;border-radius:0.8rem;}
-/* sc-component-id: sc-1ukzvu4-0 */
-.jrHtYr{font-size:15px;line-height:18px;color:#1c1c1c;height:18px;cursor:pointer;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:start;-webkit-justify-content:start;-ms-flex-pack:start;justify-content:start;height:100%;line-height:1.2;}
-/* sc-component-id: sc-djusq7-0 */
-.gBeNIg{padding-top:0.2rem;cursor:pointer;color:#1C1C1C;margin:0 0 0.1rem 0.8rem;}
-/* sc-component-id: sc-djusq7-1 */
-.hZKXXE{width:-webkit-max-content;width:-moz-max-content;width:max-content;margin-bottom:1.6rem;margin-right:2.4rem;}
-/* sc-component-id: sc-djusq7-2 */
-.ctMLcL{height:2.2rem;width:2.2rem;}
-/* sc-component-id: sc-djusq7-3 */
-.bIgyOk{stroke:#EF4F5F;stroke-width:1px;fill:#FFFFFF;} .sc-djusq7-1:hover .bIgyOk{stroke:#EF4F5F;}.icOLAW{stroke:#9C9C9C;stroke-width:1px;fill:#FFFFFF;} .sc-djusq7-1:hover .icOLAW{stroke:#EF4F5F;}
-/* sc-component-id: sc-djusq7-4 */
-.hLkMFn{fill:#EF4F5F;}
-/* sc-component-id: sc-djusq7-5 */
-.eiwrnG{display:none;}
-/* sc-component-id: sc-1kipvqd-0 */
-.fgJBOk{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}
-/* sc-component-id: sc-fIIFii */
-.fkgYik{-webkit-transform:rotate(0);-ms-transform:rotate(0);transform:rotate(0);-webkit-transition:-webkit-transform 0.25s ease-in-out;-webkit-transition:transform 0.25s ease-in-out;transition:transform 0.25s ease-in-out;cursor:pointer;}
-/* sc-component-id: sc-zDqdV */
-.chgPqJ{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;position:relative;height:100%;width:-webkit-max-content;width:-moz-max-content;width:max-content;border-radius:0.8rem;padding:0 1rem;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-/* sc-component-id: sc-grYksN */
-.eirtPp{border:none;font-size:1.4rem;margin:0 1rem 0 0.5rem;}
-/* sc-component-id: sc-ddcOto */
-.hZnlZG{cursor:pointer;background:#FFFFFF;box-shadow:inset 0px -0.5px 0px #E8E8E8;padding:1.8rem 1.8rem 1.8rem 1.5rem;} .hZnlZG:hover{background:#F8F8F8;} @media (max-width:480px){.hZnlZG{padding:0.6rem 0 1.2rem 0;}}
-/* sc-component-id: sc-fPEBxH */
-.huStkG{font-size:inherit;line-height:1.5;margin:0 0;color:#EF4F5F;font-size:1.7rem;font-weight:400;text-align:left;}
-/* sc-component-id: sc-gVZiCL */
-.jHSamn{font-size:inherit;line-height:1.5;margin:0 0;color:#363636;font-size:1.3rem;margin-left:2.6rem;color:#9C9C9C;text-align:left;}
-/* sc-component-id: sc-fPCuyW */
-.fAlecG{width:36rem;max-height:45rem;background:white;border-radius:0.8rem;position:absolute;left:0;overflow:auto;border:1px solid #CFCFCF;box-shadow:0px 2px 8px rgba(28,28,28,0.08);top:3rem;visibility:hidden;opacity:0;-webkit-transition:opacity 0.25s ease,top 0.25s ease;transition:opacity 0.25s ease,top 0.25s ease;z-index:10;} @media (max-width:480px){.fAlecG{border:0;border-radius:0;overflow:auto;position:static;left:0;top:0;visibility:visible;opacity:1;-webkit-transition:none;transition:none;height:auto;box-shadow:none;max-height:unset;width:100%;}}
-/* sc-component-id: sc-dHaUqb */
-.ePKcUH{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;font-weight:500;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-/* sc-component-id: sc-ljUfdc */
-.jGGRwE{width:2.6rem;}
-/* sc-component-id: sc-13tn0rn-0 */
-.DHMyd{width:4.5rem;height:3.0015rem;display:inline-block;background:url(https://b.zmtcdn.com/data/webuikit/0687ff554c86e36cda9498212e221af61563274375.png) no-repeat;background-position:-141px 0px;-webkit-transform:scale(0.5333333333333333);-ms-transform:scale(0.5333333333333333);transform:scale(0.5333333333333333);margin-left:-1.1rem;}.ehBfFg{width:4.5rem;height:3.0015rem;display:inline-block;background:url(https://b.zmtcdn.com/data/webuikit/0687ff554c86e36cda9498212e221af61563274375.png) no-repeat;background-position:-517px 0px;-webkit-transform:scale(0.5333333333333333);-ms-transform:scale(0.5333333333333333);transform:scale(0.5333333333333333);margin-left:-1.1rem;}.mtUrN{width:4.5rem;height:3.0015rem;display:inline-block;background:url(https://b.zmtcdn.com/data/webuikit/0687ff554c86e36cda9498212e221af61563274375.png) no-repeat;background-position:-141px 0px;-webkit-transform:scale(0.4888888888888889);-ms-transform:scale(0.4888888888888889);transform:scale(0.4888888888888889);margin-left:-1.2rem;}
-/* sc-component-id: sc-10ugfab-0 */
-.iYiNyG{display:none;}
-/* sc-component-id: sc-10ugfab-1 */
-.gJYvaX{max-width:100%;}
-/* sc-component-id: sc-10ugfab-2 */
-.jzrEzn{display:none;}
-/* sc-component-id: sc-10ugfab-3 */
-.dirNi{font-size:1.4rem;color:#1C1C1C;line-height:1.6rem;margin:0 0.5rem 0 0.8rem;font-weight:400;}
-/* sc-component-id: sc-10ugfab-4 */
-.fYFzFe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:pointer;width:96%;padding:1%;background:#EDF4FF;} .fYFzFe:hover{background:#F8F8F8;}.hVtcrz{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:pointer;width:96%;padding:1%;} .hVtcrz:hover{background:#F8F8F8;}
-/* sc-component-id: sc-10ugfab-5 */
-.erXsJY{display:none;position:absolute;top:-1.7rem;left:3.1rem;width:2.1rem;height:2.3rem;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);border-radius:2.2rem 0 0.4rem 0;background:#fff;z-index:11;}
-/* sc-component-id: sc-10ugfab-6 */
-.oEoRv{position:absolute;opacity:0;bottom:4rem;left:0px;width:0;visibility:hidden;height:0;background-color:#fff;box-shadow:0.1rem 4rem 4rem rgba(0,0,0,0.15);border-radius:0.6rem;padding:0;cursor:default;-webkit-transform-origin:0 100%;-ms-transform-origin:0 100%;transform-origin:0 100%;-webkit-transition-property:opacity,padding;transition-property:opacity,padding;will-change:opacity,padding;-webkit-transition-duration:0.25s;transition-duration:0.25s;z-index:10;} @media (max-width:768px) and (min-width:481px){.oEoRv{width:50rem;}} @media (max-width:480px) and (min-width:321px){.oEoRv{padding:0;width:30rem;}} @media (max-width:320px){.oEoRv{padding:0;width:28rem;}}
-/* sc-component-id: sc-10ugfab-7 */
-.epQgJy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;max-width:100%;overflow:hidden;text-overflow:ellipsis;}
-/* sc-component-id: sc-10ugfab-8 */
-.fyCgPB{font-size:1.8rem;line-height:2rem;max-width:80%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#1C1C1C;margin:0 0.5rem 0 0;font-weight:400;} @media (max-width:480px){.fyCgPB{font-size:1.6rem;}}
-/* sc-component-id: sc-10ugfab-9 */
-.ceanFw{min-width:10rem;width:-webkit-max-content;width:-moz-max-content;width:max-content;max-width:100%;cursor:pointer;position:relative;padding:0.3rem 0.7rem;border:1px solid #B5B5B5;border-radius:0.6rem;}
-/* sc-component-id: sc-zqptxt-1 */
-.jNqlkW{display:none;}
-/* sc-component-id: sc-zqptxt-2 */
-.kVcJCg{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}
-/* sc-component-id: sc-zqptxt-3 */
-.iWeJHV{display:none;position:absolute;bottom:-1rem;left:6rem;width:2.1rem;height:2.3rem;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);border-radius:2.2rem 0 0.4rem 0;background:#fff;}
-/* sc-component-id: sc-zqptxt-4 */
-.bvogHW{left:-2.3rem;position:absolute;opacity:0;bottom:4rem;width:0;height:0;background-color:#fff;box-shadow:0.1rem 4rem 4rem rgba(0,0,0,0.15);border-radius:0.6rem;padding:0;cursor:default;-webkit-transform-origin:0 100%;-ms-transform-origin:0 100%;transform-origin:0 100%;-webkit-transition-property:-webkit-transform,opacity,padding;-webkit-transition-property:transform,opacity,padding;transition-property:transform,opacity,padding;will-change:transform,opacity,padding;-webkit-transition-duration:0.25s;transition-duration:0.25s;z-index:10;}
-/* sc-component-id: sc-zqptxt-5 */
-.dOFWhj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
-/* sc-component-id: sc-zqptxt-6 */
-.iMPEip{font-size:1.8rem;line-height:2rem;color:#1C1C1C;margin:0 0.5rem 0 0.8rem;margin-top:0.2rem;font-weight:400;} @media (max-width:480px){.iMPEip{font-size:1.6rem;}}
-/* sc-component-id: sc-zqptxt-7 */
-.iFttwN{position:relative;cursor:pointer;min-width:10rem;width:-webkit-max-content;width:-moz-max-content;width:max-content;padding:0.7rem;border:1px solid #B5B5B5;border-radius:0.6rem;}
-/* sc-component-id: sc-elhb8j-1 */
-.ixsoFB{height:2.8rem;width:13.2rem;} @media (max-width:480px){.ixsoFB{margin-bottom:3rem;}}
-/* sc-component-id: sc-elhb8j-2 */
-.gzcbGg{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;margin-bottom:4rem;} @media (max-width:480px){.gzcbGg{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;}}
-/* sc-component-id: sc-elhb8j-5 */
-.kBllqA{font-size:1.3rem;color:#4F4F4F;line-height:1.7rem;margin-top:2.3rem;} @media (max-width:480px){.kBllqA{margin-bottom:3rem;}}
-/* sc-component-id: sc-elhb8j-7 */
-@media (max-width:480px){.jBOGYb{display:none;}}
-/* sc-component-id: sc-elhb8j-8 */
-.fvpjYk{font-size:1.4rem;-webkit-letter-spacing:0.2rem;-moz-letter-spacing:0.2rem;-ms-letter-spacing:0.2rem;letter-spacing:0.2rem;text-transform:uppercase;font-weight:500;margin:0 0 1.2rem 0;} @media (max-width:480px){.fvpjYk{display:none;}}
-/* sc-component-id: sc-elhb8j-9 */
-.gfYSur{margin-bottom:3rem;} .gfYSur:last-of-type{margin-bottom:0;}
-/* sc-component-id: sc-elhb8j-10 */
-.jPUyxY{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
-/* sc-component-id: sc-elhb8j-11 */
-@media (max-width:480px){.eHuOnX{display:none;}}
-/* sc-component-id: sc-elhb8j-12 */
-.cvsUXu{margin-top:1.2rem;} @media (max-width:768px) and (min-width:481px){.cvsUXu{margin-right:1.2rem;}}.cDEyWL{margin-top:1.2rem;margin-left:2rem;} @media (max-width:768px) and (min-width:481px){.cDEyWL{margin-right:1.2rem;}}
-/* sc-component-id: sc-elhb8j-13 */
-.bskCAo{margin-top:5rem;border:0;border-top:1px solid #CFCFCF;} @media (max-width:480px){.bskCAo{margin-top:4.4rem;}}
-/* sc-component-id: sc-elhb8j-14 */
-.HEzmM{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:18.333333333333336%;padding:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;} @media (max-width:480px){.HEzmM{padding:0;max-width:100%;}} @media (max-width:480px){.HEzmM{margin-top:0.5rem;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;width:100%;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}}
-/* sc-component-id: sc-elhb8j-15 */
-.RAjVl{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;} @media (max-width:480px){.RAjVl{margin-left:0.6rem;}} @media (max-width:550px) and (min-width:481px){.RAjVl{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}
-/* sc-component-id: sc-elhb8j-16 */
-.dxcfRo{font-size:1.4rem;line-height:2.1rem;color:#696969;margin:0.5rem 0;} @media (max-width:480px){.dxcfRo{font-size:1.3rem;line-height:1.6rem;}} .dxcfRo:hover{color:#1c1c1c;}
-/* sc-component-id: sc-elhb8j-17 */
-.iFsnCv{-webkit-text-decoration:none;text-decoration:none;}.iDzUMo{-webkit-text-decoration:none;text-decoration:none;margin-right:0.8rem;} @media (max-width:550px) and (min-width:481px){.iDzUMo{margin-top:0.8rem;}}
-/* sc-component-id: sc-elhb8j-18 */
-.gQXbfm{font-size:1.4rem;-webkit-letter-spacing:0.2rem;-moz-letter-spacing:0.2rem;-ms-letter-spacing:0.2rem;letter-spacing:0.2rem;text-transform:uppercase;font-weight:500;margin:0 0 1.2rem 0;}
-/* sc-component-id: sc-elhb8j-20 */
-.llOEHd{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:18.333333333333336%;padding:0;} @media (max-width:768px) and (min-width:481px){.llOEHd{max-width:18.333333333333336%;padding:0;}} @media (max-width:480px){.llOEHd{padding:0;max-width:58.333333333333336%;}} @media (max-width:480px){.llOEHd{margin-bottom:3rem;}}.jWound{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:19.166666666666664%;padding:0;} @media (max-width:480px){.jWound{padding:0;max-width:41.66666666666667%;}} @media (max-width:480px){.jWound{margin-bottom:3rem;}}.dLsZWW{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:25%;padding:0;} @media (max-width:480px){.dLsZWW{padding:0;max-width:58.333333333333336%;}} @media (max-width:480px){.dLsZWW{margin-bottom:3rem;}}.jYhtHx{position:relative;width:100%;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;max-width:16.666666666666664%;padding:0;} @media (max-width:480px){.jYhtHx{padding:0;max-width:41.66666666666667%;}} @media (max-width:480px){.jYhtHx{margin-bottom:3rem;}}
-/* sc-component-id: sc-elhb8j-21 */
-.fgKeBV{width:100%;background:#F8F8F8;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;} @media (min-width:768px) and (max-width:900px){.fgKeBV{padding:0 1.5rem;}}
-/* sc-component-id: sc-elhb8j-22 */
-.bGfHbP{max-width:110rem;width:110rem;padding:4.8rem 0 2.2rem 0;position:relative;} @media (max-width:768px) and (min-width:481px){.bGfHbP{padding:4.8rem 2.4rem 2.2rem 2.4rem;}} @media (max-width:480px){.bGfHbP{padding:4.8rem 1rem 14.2rem 1rem;}}
-/* sc-component-id: sc-elhb8j-23 */
-.btDUHh{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}
-/* sc-component-id: sc-jjgyjb */
-.gEhFjv{z-index:100;}
-/* sc-component-id: sc-3o0n99-0 */
-.rQzcn{width:2rem;height:1.5rem;position:relative;-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);-webkit-transition:-webkit-transform 0.15s ease-in-out;-webkit-transition:transform 0.15s ease-in-out;transition:transform 0.15s ease-in-out;cursor:pointer;opacity:0;pointer-events:none;} @media screen and (max-width:768px){.rQzcn{opacity:1;pointer-events:all;}.rQzcn > span{background:#FFFFFF;}}
-/* sc-component-id: sc-3o0n99-1 */
-.kkPOQi{-webkit-transform-origin:left center;-ms-transform-origin:left center;transform-origin:left center;display:block;position:absolute;cursor:pointer;height:3px;width:100%;border-radius:0;opacity:1;left:0;-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);-webkit-transition:-webkit-transform 0.15s ease-in-out,all 0.15s linear;-webkit-transition:transform 0.15s ease-in-out,all 0.15s linear;transition:transform 0.15s ease-in-out,all 0.15s linear;} .kkPOQi:nth-child(1){top:0;} .kkPOQi:nth-child(2){top:0.6rem;} .kkPOQi:nth-child(3){top:1.2rem;}
-/* sc-component-id: sc-3o0n99-3 */
-.fIVbKv{width:100%;list-style:none;max-width:100%;height:72px;padding-top:1.5rem;padding-bottom:1.7rem;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;background:transparent;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;opacity:1;-webkit-transition-delay:0s;transition-delay:0s;padding:1.7rem 0;margin:0;-webkit-transition:opacity 0.25s linear,visibility 0.25s linear,height 0.25s cubic-bezier(0.52,0.16,0.24,1);transition:opacity 0.25s linear,visibility 0.25s linear,height 0.25s cubic-bezier(0.52,0.16,0.24,1);} .fIVbKv > *{margin-right:2rem;} .fIVbKv > *:last-child{margin-right:0;} @media screen and (max-width:768px){.fIVbKv{height:0;visibility:hidden;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:absolute;width:100%;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;background:#FFFFFF;top:99%;left:0;margin:0;padding:0;-webkit-transition:height 0.25s cubic-bezier(0.52,0.16,0.24,1);transition:height 0.25s cubic-bezier(0.52,0.16,0.24,1);}.fIVbKv > *{margin-right:0;}}
-/* sc-component-id: sc-3o0n99-4 */
-.cndLHu{padding-bottom:1rem;border-radius:0;box-sizing:border-box;border-style:solid;border-color:transparent;border-width:0;border-bottom-width:0.2rem;} .cndLHu > *{margin-right:1.8rem;} .cndLHu > *:last-child{margin-right:0;} .cndLHu:focus,.cndLHu:active{outline:none;} .cndLHu:not(:-moz-focusring):focus{box-shadow:none;} @media (hover:none){.cndLHu{box-shadow:none;outline:none;}} @media screen and (max-width:768px){.cndLHu{margin-bottom:3.5rem;width:100%;opacity:0;-webkit-transition:opacity 0.25s linear;transition:opacity 0.25s linear;}.cndLHu:nth-last-child{margin-bottom:0;}.cndLHu > *{margin-right:0;}}.kAUthO{padding-bottom:0;border-radius:0;box-sizing:border-box;border-style:solid;border-color:transparent;border-width:0;border-bottom-width:0.2rem;} .kAUthO > *{margin-right:1.8rem;} .kAUthO > *:last-child{margin-right:0;} .kAUthO:focus,.kAUthO:active{outline:none;} .kAUthO:not(:-moz-focusring):focus{box-shadow:none;} @media (hover:none){.kAUthO{box-shadow:none;outline:none;}} @media screen and (max-width:768px){.kAUthO{margin-bottom:3.5rem;width:100%;opacity:0;-webkit-transition:opacity 0.25s linear;transition:opacity 0.25s linear;}.kAUthO:nth-last-child{margin-bottom:0;}.kAUthO > *{margin-right:0;}}
-/* sc-component-id: sc-fThejE */
-.eHRMNA{-webkit-text-decoration:none;text-decoration:none;font-size:1.4rem;color:#FF7E8B;position:absolute;left:0;cursor:pointer;max-width:35rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#FFFFFF;font-weight:500;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);padding-bottom:1rem;} @media (max-width:480px){.eHRMNA{z-index:4;top:2.8rem;left:1rem;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);padding-bottom:0;}}
-/* sc-component-id: sc-ecFaGM */
-.jqhLIW{margin-right:0.5rem;}
-/* sc-component-id: sc-efAmGo */
-.dWVyOc{font-size:1.8rem;line-height:1.5;text-align:right;vertical-align:middle;font-weight:300;color:#FFFFFF;cursor:pointer;padding:0.8rem !important;border-radius:0.6rem;vertical-align:middle;background:transparent;} .dWVyOc:hover{color:#FFFFFF;} .dWVyOc:active,.dWVyOc:hover:active{color:#FFFFFF;border-bottom-color:#FFFFFF;outline:none;} .dWVyOc:focus,.dWVyOc:active{outline:none;} .sc-3o0n99-4:focus > .dWVyOc{box-shadow:rgb(255,255,255) 0px 0px 1px 1px !important;} @media screen and (max-width:768px){.dWVyOc{color:#696969;border-radius:0;border-width:0;border-color:transparent;}.dWVyOc:hover{color:#1C1C1C;}}
-/* sc-component-id: sc-yvzia9-0 */
-.OcEMG{position:absolute;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}
-/* sc-component-id: sc-yvzia9-1 */
-.jwVXyW{width:100%;max-width:100%;display:block;position:absolute;height:7.2rem;z-index:10;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;top:0;-webkit-transition:opacity 0.25s linear,height 0.56s cubic-bezier(0.52,0.16,0.24,1);transition:opacity 0.25s linear,height 0.56s cubic-bezier(0.52,0.16,0.24,1);background-color:transparent;} @media (min-width:768px) and (max-width:900px){.jwVXyW{padding:0 1.5rem;}}
-/* sc-component-id: sc-yvzia9-2 */
-.ifdVMV{width:100%;max-width:110rem;padding-right:0;margin:0 auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;height:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;z-index:4;}
-/* sc-component-id: sc-yvzia9-3 */
-.gpdnUW{display:none;height:7.2rem;overflow:hidden;position:absolute;width:100%;margin:0;padding:0 1.5rem;background:transparent;} @media screen and (max-width:768px){.gpdnUW{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;z-index:4;}}
-/* sc-component-id: sc-yvzia9-4 */
-.bmbqmX{display:none;z-index:2;height:100%;width:auto;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:0;-webkit-flex-grow:0;-ms-flex-positive:0;flex-grow:0;border-bottom:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}
-/* sc-component-id: sc-yvzia9-6 */
-.hxTfPc{max-width:14rem;height:2.7rem;display:block;cursor:pointer;} .hxTfPc:focus{outline:none;} @media screen and (max-width:768px){.hxTfPc{display:none;}}
-/* sc-component-id: sc-yvzia9-7 */
-.fvCyAU{max-width:14rem;display:block;cursor:pointer;display:none;} .fvCyAU:focus{outline:none;} @media screen and (max-width:768px){.fvCyAU{display:none;}} @media screen and (max-width:768px){.fvCyAU{display:block;cursor:pointer;}}
-/* sc-component-id: sc-jkhLCj */
-.iGErOi{width:0rem;height:2rem;border:0.05rem solid #CFCFCF;}
-/* sc-component-id: sc-irBdKP */
-.fUpGmB{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:5.4rem;background:#FFFFFF;border-radius:0.8rem;box-shadow:0px 2px 8px rgba(28,28,28,0.08);border:1px solid #E8E8E8;}
-/* sc-component-id: sc-gBkwgr */
-.hHpkgQ{box-shadow:inset 0px -0.5px 0px #E8E8E8;}
-/* sc-component-id: sc-gtGrDH */
-.jDzwTz{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:start;-webkit-box-align:start;-ms-flex-align:start;align-items:start;margin-bottom:1rem;} @media (max-width:768px){.jDzwTz{width:300px;}} @media (max-width:480px){.jDzwTz{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}}
-/* sc-component-id: sc-bmlaxJ */
-.kBWLpU{margin-left:0.8rem;display:block;} .kBWLpU > span{height:48px;} @media (max-width:768px){.kBWLpU{display:none !important;}} @media (max-width:480px){.kBWLpU{display:none !important;}}
-/* sc-component-id: sc-emWXYZ */
-.eNCSrd{display:none;margin-left:0.8rem;} .eNCSrd > span{height:48px;} @media (max-width:768px){.eNCSrd{display:block;}}
-/* sc-component-id: sc-ejjefP */
-.ffjHop{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;}
-/* sc-component-id: sc-hIKgcG */
-.kJNHeA{position:relative;top:-2.5rem;width:45rem;margin-left:2rem;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;} @media (max-width:768px){.kJNHeA{padding-left:2.5rem;margin-left:0;width:48%;}} @media (max-width:480px){.kJNHeA{width:100%;text-align:center;margin-left:0;padding-left:0;}}
-/* sc-component-id: sc-bFeJrO */
-@media (max-width:480px){.MLjOP{display:none;}}
-/* sc-component-id: sc-kTaNVi */
-.bsFvqy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:580px){.bsFvqy{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}}
-/* sc-component-id: sc-liJGWf */
-.fFQLQR{font-size:1.5rem;font-size:3.6rem;line-height:1.2;font-weight:400;color:#1C1C1C;margin:0;font-weight:500;margin-bottom:1.5rem;font-size:4.4rem;line-height:5.6rem;} @media (max-width:768px){.fFQLQR{font-size:3rem;margin-bottom:1.5rem;line-height:1.2;}} @media (max-width:480px){.fFQLQR{font-size:3rem;margin-bottom:1.5rem;line-height:1.2;}}
-/* sc-component-id: sc-fncVv */
-.hAFpnh{font-size:inherit;line-height:1.5;margin:0 0;color:#363636;margin-bottom:2.5rem;width:100%;font-size:2.2;line-height:3.2rem;} @media (max-width:768px){.hAFpnh{width:80%;line-height:1.2;}} @media (max-width:480px){.hAFpnh{width:100%;font-size:1.6rem;line-height:1.2;}}
-/* sc-component-id: sc-cgOxmf */
-.grciEW{margin-left:2rem;}
-/* sc-component-id: sc-iepcYN */
-.kptErf{width:50%;height:4rem;} @media (max-width:580px){.kptErf{width:100%;}}
-/* sc-component-id: sc-hjjOtT */
-@media (max-width:480px){.jWMuRL{-webkit-box-pack:start !important;-webkit-justify-content:flex-start !important;-ms-flex-pack:start !important;justify-content:flex-start !important;}}
-/* sc-component-id: sc-jsHLkJ */
-.REiDQ{font-size:inherit;line-height:1.5;margin:0 0;color:#363636;color:#9C9C9C;font-size:1.4rem;margin-bottom:1.5rem;}
-/* sc-component-id: sc-jHsedM */
-.jtjAdV{position:relative;max-width:90rem;max-height:initial;margin:0 auto;margin-top:3rem;} @media (max-width:480px){.jtjAdV{max-width:42.4rem;margin:0 2.4rem;}} @media (min-width:481px) and (max-width:768px){.jtjAdV{max-width:72rem;margin:0 2.4rem;}} @media (max-width:768px){.jtjAdV{margin-top:7.5rem;}} @media (max-width:480px){.jtjAdV{margin-top:7.5rem;}}
-/* sc-component-id: sc-cPwpjd */
-.hXVpmg{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;margin-right:2rem;width:100%;} @media (max-width:480px){.hXVpmg{display:none;}}
-/* sc-component-id: sc-jjbMYL */
-.kkURgz{background:rgb(200,200,200);height:calc(100vh - 30rem);min-height:42rem;max-height:57rem;width:100%;position:relative;overflow:hidden;} .kkURgz .low-res-container{overflow:hidden;position:absolute;top:0;left:0;width:100%;height:100%;-webkit-transition:all 1.4s;transition:all 1.4s;opacity:1;} .kkURgz .low-res-image{-webkit-filter:blur(20px);filter:blur(20px);position:absolute;top:0;left:0;height:100%;width:100%;-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1);object-fit:cover;border:0;} .kkURgz .high-res-image{position:absolute;top:0;left:0;height:100%;width:100%;object-fit:cover;-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1);opacity:0;-webkit-transition:all 1.4s;transition:all 1.4s;}.khHvmd{background:transparent;height:6rem;min-height:none;max-height:none;width:30rem;position:relative;overflow:none;} .khHvmd .low-res-container{overflow:none;position:absolute;top:0;left:0;width:100%;height:100%;-webkit-transition:all 1.4s;transition:all 1.4s;opacity:1;} .khHvmd .low-res-image{-webkit-filter:blur(4px);filter:blur(4px);position:absolute;top:0;left:0;height:100%;width:100%;-webkit-transform:none;-ms-transform:none;transform:none;object-fit:contain;border:0;} .khHvmd .high-res-image{position:absolute;top:0;left:0;height:100%;width:100%;object-fit:contain;-webkit-transform:none;-ms-transform:none;transform:none;opacity:0;-webkit-transition:all 1.4s;transition:all 1.4s;}</style><style data-styled="dbnfkf jCOzbu bXTtfc" data-styled-version="4.4.1">
-/* sc-component-id: sc-keyframes-dbnfkf */
-@-webkit-keyframes dbnfkf{0%{width:0;}to{width:90%;}} @keyframes dbnfkf{0%{width:0;}to{width:90%;}}
-/* sc-component-id: sc-keyframes-jCOzbu */
-@-webkit-keyframes jCOzbu{0%{background-position:-80vw 0;}100%{background-position:80vw 0;}} @keyframes jCOzbu{0%{background-position:-80vw 0;}100%{background-position:80vw 0;}}
-/* sc-component-id: sc-keyframes-bXTtfc */
-@-webkit-keyframes bXTtfc{0%{-webkit-transform:translate(-50%,-50%) scale(0);-ms-transform:translate(-50%,-50%) scale(0);transform:translate(-50%,-50%) scale(0);}60%{-webkit-transform:translate(-50%,-50%) scale(1);-ms-transform:translate(-50%,-50%) scale(1);transform:translate(-50%,-50%) scale(1);}100%{opacity:0;-webkit-transform:translate(-50%,-50%) scale(1);-ms-transform:translate(-50%,-50%) scale(1);transform:translate(-50%,-50%) scale(1);}} @keyframes bXTtfc{0%{-webkit-transform:translate(-50%,-50%) scale(0);-ms-transform:translate(-50%,-50%) scale(0);transform:translate(-50%,-50%) scale(0);}60%{-webkit-transform:translate(-50%,-50%) scale(1);-ms-transform:translate(-50%,-50%) scale(1);transform:translate(-50%,-50%) scale(1);}100%{opacity:0;-webkit-transform:translate(-50%,-50%) scale(1);-ms-transform:translate(-50%,-50%) scale(1);transform:translate(-50%,-50%) scale(1);}}</style>
-      <link rel="icon" type="image/png" href=https://b.zmtcdn.com/data/o2_assets/5376b760d3b12ca9af29fc8f4e1847e71717417610.png
-      >
-      <style type="text/css">
-        
-  @font-face {
-    font-family: OurLexend;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/data/file_assets/b5c515bbb53cc9cc12b22819e844fa261702041808.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 700;
+<html lang='en'>
+<head>
+<title>
+Jenkins
+</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software' name='description'>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='ie=edge' http-equiv='x-ua-compatible'>
+<link href='https://www.jenkins.io/' rel='canonical'>
+<!-- Favicons -->
+<link href='/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='/site.webmanifest' rel='manifest'>
+<link color='#5bbad5' href='/safari-pinned-tab.svg' rel='mask-icon'>
+<meta content='#2b5797' name='msapplication-TileColor'>
+<meta content='#ffffff' name='theme-color'>
+<meta content='Jenkins' name='apple-mobile-web-app-title'>
+<!-- Twitter Card data -->
+<meta content='summary_large_image' name='twitter:card'>
+<meta content='@JenkinsCI' name='twitter:site'>
+<meta content='Jenkins' name='twitter:title'>
+<meta content='Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software' name='twitter:description'>
+<meta content='@JenkinsCI' name='twitter:creator'>
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta content='/images/logo-title-opengraph.png' name='twitter:image'>
+<!-- Open Graph data -->
+<meta content='Jenkins' property='og:title'>
+<meta content='article' property='og:type'>
+<meta content='https://www.jenkins.io/' property='og:url'>
+<meta content='Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software' property='og:description'>
+<meta content='Jenkins' property='og:site_name'>
+<meta content='/images/logo-title-opengraph.png' property='og:image'>
+<link href='/assets/bower/bootstrap/css/bootstrap.min.css' media='screen' rel='stylesheet'>
+<link href='/css/jenkins.css' media='screen' rel='stylesheet'>
+<link href='/css/copy-to-clipboard.css' media='screen' rel='stylesheet'>
+<link href='/stylesheets/styles.css' media='screen' rel='stylesheet'>
+<!-- Non-obtrusive CSS styles -->
+<link href='/css/footer.css' media='screen' rel='stylesheet'>
+<link href='/css/font-awesome.min.css' media='screen' rel='stylesheet'>
+<link href='https://cdn.jsdelivr.net/npm/@docsearch/css@3' rel='stylesheet'>
+</head>
+<body>
+<script src='/assets/bower/jquery/jquery.min.js'></script>
+<script src='/js/copy-to-clipboard.js'></script>
+<jio-navbar class='fixed-nav' id='ji-toolbar' property='https://www.jenkins.io' showSearchBox theme='auto'></jio-navbar>
+
+<div class='banner-container'>
+<div class='skew'></div>
+<div class='container'>
+<div class='row'>
+&nbsp;
+</div>
+<div class='row'>
+<div class='col-md-1 col-lg-2'></div>
+<div class='col-md-5 col-lg-4'>
+<img src='/images/logos/jenkins/jenkins.svg' style='width: 256px;'>
+</div>
+<div class='col-md-5 col-lg-4'>
+<h1 class='page-title'><span>
+Jenkins
+</span></h1>
+<p>
+<strong>
+Build great things at any scale
+</strong>
+</p>
+<p>
+The leading open source automation server, Jenkins provides
+hundreds of plugins to support building, deploying and automating
+any project.
+</p>
+<div style='display: flex; gap: 1rem'>
+<a class='app-button app-button--primary' href='/download/'>
+Download
+</a>
+<a class='app-button' href='/doc/'>
+Documentation
+</a>
+</div>
+</div>
+<div class='col-md-1 col-lg-2'></div>
+</div>
+<div class='row'>
+&nbsp;
+</div>
+</div>
+</div>
+
+<style>
+  .carousel_953 {
+    --color: white;
+    background-size: cover !important;
   }
-
-  @font-face {
-    font-family: Anton;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/data/o2_assets/055c4df4e2f8c7a4d4675cdd8fa68da01717745027.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 400;
+  .carousel_953 a {
+    color: var(--color);
+    text-decoration: none !important;
   }
-
-  @font-face {
-    font-family: OurLexend;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/data/file_assets/5a3033376960ff664bb92c0c243da3011699335507.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 500;
+  .carousel_953 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
-
-  @font-face {
-    font-family: OurLexend;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/data/file_assets/90f68432ea867179532ff15b7b2455361699335401.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 400;
+  #ProjectCarousel_953 {
+    background: #000000 url(/images/cdf/cdf-background-wide.jpg) no-repeat center;
   }
+</style>
+<div class='carousel slide carousel_953' data-bs-ride='carousel' id='ProjectCarousel_953'>
+<div class='container'>
+<div class='carousel-indicators'>
+<button class='active' data-bs-slide-to='0' data-bs-target='#ProjectCarousel_953'></button>
+<button data-bs-slide-to='1' data-bs-target='#ProjectCarousel_953'></button>
+<button data-bs-slide-to='2' data-bs-target='#ProjectCarousel_953'></button>
+<button data-bs-slide-to='3' data-bs-target='#ProjectCarousel_953'></button>
+<button data-bs-slide-to='4' data-bs-target='#ProjectCarousel_953'></button>
+<button data-bs-slide-to='5' data-bs-target='#ProjectCarousel_953'></button>
+</div>
+<div class='carousel-inner carousel_953'>
+<div class='carousel-item carousel_953 active' style='background: rgba(0,0,0,0);'>
+<div class='container'>
+<div class='row mt-5 mb-5'>
+<div class='col-md-12 col-lg-8 order-first order-lg-last'>
+<a href='/blog/2024/10/04/content-security-policy-grant/'>
+<img role='presentation' src='/images/post-images/2024/10/04/content-security-policy-grant.png' style='height: 320px;'>
+</a>
+</div>
+<div class='col-md-12 col-lg-4 order-last order-lg-first'>
+<a href='/blog/2024/10/04/content-security-policy-grant/'>
+<h2>
+Alpha Omega Foundation Content Security Policy Grant
+</h2>
+<p>
+Alpha Omega Foundation has provided a grant to Jenkins to improve the implementation of Content Security Policy. Read more about what this means for the Jenkins project.
+</p>
+</a>
+<div>
+<a class='app-button' href='/blog/2024/10/04/content-security-policy-grant/'>
+More info
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='carousel-item carousel_953' style='background: rgba(0,0,0,0);'>
+<div class='container'>
+<div class='row mt-5 mb-5'>
+<div class='col-md-12 col-lg-8 order-first order-lg-last'>
+<a href='/blog/2025/03/05/Jenkins-in-Google-Summer-of-Code-2025/'>
+<img role='presentation' src='/images/post-images/2025/03/GSoC2025_opengraph.png' style='height: 285px;'>
+</a>
+</div>
+<div class='col-md-12 col-lg-4 order-last order-lg-first'>
+<a href='/blog/2025/03/05/Jenkins-in-Google-Summer-of-Code-2025/'>
+<h2>
+Jenkins accepted into Google Summer of Code 2025
+</h2>
+<p>
+We are excited to announce that Jenkins has been accepted into Google Summer of Code 2025 as a mentor organization!
+</p>
+</a>
+<div>
+<a class='app-button' href='/blog/2025/03/05/Jenkins-in-Google-Summer-of-Code-2025/'>
+More info
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='carousel-item carousel_953' style='background: rgba(0,0,0,0);'>
+<div class='container'>
+<div class='row mt-5 mb-5'>
+<div class='col-md-12 col-lg-8 order-first order-lg-last'>
+<a href='https://devopsdozen.com/devops-dozen-2024-community-award-winners/'>
+<img role='presentation' src='/images/post-images/2025/01/22/2025-01-22-devops-dozen-2024-community-award-winners/Most-Innovative-DevOps-Open-Source-Project.png' style='height: 285px;'>
+</a>
+</div>
+<div class='col-md-12 col-lg-4 order-last order-lg-first'>
+<a href='https://devopsdozen.com/devops-dozen-2024-community-award-winners/'>
+<h2>
+Jenkins wins DevOps Dozen award
+</h2>
+<p>
+Jenkins has been awarded the "Most innovative DevOps Open Source project" distinction by DevOps Dozen.
+</p>
+</a>
+<div>
+<a class='app-button' href='https://devopsdozen.com/devops-dozen-2024-community-award-winners/'>
+More info
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='carousel-item carousel_953' style='background: rgba(0,0,0,0);'>
+<div class='container'>
+<div class='row mt-5 mb-5'>
+<div class='col-md-12 col-lg-8 order-first order-lg-last'>
+<a href='https://contributors.jenkins.io/'>
+<img role='presentation' src='/images/logos/jenkins/jenkins.png' style='height: 285px;'>
+</a>
+</div>
+<div class='col-md-12 col-lg-4 order-last order-lg-first'>
+<a href='https://contributors.jenkins.io/'>
+<h2>
+Meet the driving forces
+</h2>
+<p>
+behind Jenkins as we showcase the top contributors shaping the future of continuous integration and delivery.
+</p>
+</a>
+<div>
+<a class='app-button' href='https://contributors.jenkins.io/'>
+More info
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='carousel-item carousel_953' style='background: rgba(0,0,0,0);'>
+<div class='container'>
+<div class='row mt-5 mb-5'>
+<div class='col-md-12 col-lg-8 order-first order-lg-last'>
+<a href='https://stories.jenkins.io/'>
+<img role='presentation' src='/images/post-images/jenkins-is-the-way/jenkins-is-the-way.png' style='height: 285px;'>
+</a>
+</div>
+<div class='col-md-12 col-lg-4 order-last order-lg-first'>
+<a href='https://stories.jenkins.io/'>
+<h2>
+Jenkins Stories!
+</h2>
+<p>
+We are looking for experiences of Jenkins users from around the world showcasing how they are building, deploying, and automating great software with Jenkins. Check out their user stories and share yours
+</p>
+</a>
+<div>
+<a class='app-button' href='https://stories.jenkins.io/'>
+More info
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='carousel-item carousel_953' style='background: rgba(0,0,0,0);'>
+<div class='container'>
+<div class='row mt-5 mb-5'>
+<div class='col-md-12 col-lg-8 order-first order-lg-last'>
+<a href='/participate/'>
+<img role='presentation' src='/images/logos/needs-you/Jenkins_Needs_You-transparent.png' style='height: 320px;'>
+</a>
+</div>
+<div class='col-md-12 col-lg-4 order-last order-lg-first'>
+<a href='/participate/'>
+<h2>
+Participate and Contribute!
+</h2>
+<p>
+Jenkins is a community-driven project. We invite everyone to join us and move it forward. Any contribution matters: code, documentation, localization, blog posts, artwork, meetups, and anything else. If you have five minutes or a few hours, you can help!
+</p>
+</a>
+<div>
+<a class='app-button' href='/participate/'>
+More info
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-  @font-face {
-    font-family: LexendDeca;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/data/file_assets/647f14ba19689b79a125cd65792cf4381699335033.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 500;
+<div class='segment' id='feature-list-segment'>
+<div class='container'>
+<div class='row chunks features uniform-height'>
+<div class='col-md-6 col-lg-4'>
+<div class='box cicd'>
+<ion-icon name='git-pull-request-outline'></ion-icon>
+<h5>
+Continuous Integration and Continuous Delivery
+</h5>
+<p>
+As an extensible automation server, Jenkins can be used as a simple
+CI server or turned into the continuous delivery hub for any project.
+</p>
+</div>
+</div>
+<div class='col-md-6 col-lg-4'>
+<div class='box install'>
+<ion-icon name='download-outline'></ion-icon>
+<h5>
+Easy installation
+</h5>
+<p>
+Jenkins is a self-contained Java-based program, ready to run
+out-of-the-box, with packages for Windows, Linux, macOS and other
+Unix-like operating systems.
+</p>
+</div>
+</div>
+<div class='col-md-6 col-lg-4'>
+<div class='box settings'>
+<ion-icon name='options-outline'></ion-icon>
+<h5>
+Easy configuration
+</h5>
+<p>
+Jenkins can be easily set up and configured via its web interface,
+which includes on-the-fly error checks and built-in help.
+</p>
+</div>
+</div>
+<div class='col-md-6 col-lg-4'>
+<div class='box ecosystem'>
+<ion-icon name='apps-outline'></ion-icon>
+<h5>
+Plugins
+</h5>
+<p>
+With hundreds of plugins in the Update Center, Jenkins integrates
+with practically every tool in the continuous integration and
+continuous delivery toolchain.
+</p>
+</div>
+</div>
+<div class='col-md-6 col-lg-4'>
+<div class='box extend'>
+<ion-icon name='extension-puzzle-outline'></ion-icon>
+<h5>
+Extensible
+</h5>
+<p>
+Jenkins can be extended via its plugin architecture, providing
+nearly infinite possibilities for what Jenkins can do.
+</p>
+</div>
+</div>
+<div class='col-md-6 col-lg-4'>
+<div class='box distributed'>
+<ion-icon name='git-network-outline'></ion-icon>
+<h5>
+Distributed
+</h5>
+<p>
+Jenkins can easily distribute work across multiple machines,
+helping drive builds, tests and deployments across multiple
+platforms faster.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='container'>
+<div class='section'>
+<style>
+  .video_507 {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
   }
-
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/bac203052382824f8c8fcd7668417f771597997180.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/9dd3d8fd6150ab3f8106f4a073d054521597921546.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 100
+  .video_507 iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
+</style>
+<div class='video video_507'>
+<iframe allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' frameborder='0' height='621' src='https://www.youtube.com/embed/_MXtbjwsz3A' width='1261'></iframe>
+</div>
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/0256637bc22e4c9e069ad868c196d29f1597997099.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/0a2cb1a22221afd4a5c4f59bde89afda1597921603.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 200
-  }
+</div>
+</div>
+<div class='container'>
+<div class='section'>
+<h2 class='app-events__heading'>
+Recent posts
+</h2>
+<ul class='app-cards'>
+<li class='app-card'>
+<a href='/blog/2025/03/05/Jenkins-in-Google-Summer-of-Code-2025/'>
+<div class='app-card__preview'>
+<img alt='Jenkins in Google Summer of Code 2025' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2025/03/GSoC2025_opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+Jenkins in Google Summer of Code 2025
+</h5>
+<p class='app-card__teaser'>
+We are excited to have been accepted to Google Summer of Code (GSoC) 2025! This marks our ninth year participating as a mentoring organization in the program. Thank you Google!
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/081152f7adf53200c7f8789005ca54ca1597997115.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/6651f01000a2e122e587bb2282cb3ea21597921594.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 300
-  }
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/c750382e5207a1a41cdcb496ef2326d51597997149.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/aead83936ff20e860667e0a18f26d7571597921574.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 400
-  }
+GSoC is more than just a mentoring program; it is an opportunity to welcome and engage new contributors in open-source development. By dedicating time to mentor and guide GSoC contributors, we...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Alyssa Tong" href="/blog/authors/alyssat/"><div class="app-avatar"><img alt="Alyssa Tong" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/alyssat.jpg"></div><span>Alyssa Tong</span></a>
+March 5, 2025
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2025/02/05/command-palette/'>
+<div class='app-card__preview'>
+<img alt='A new way to search in Jenkins 2.492.1' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2025/02/2025-02-05-command-palette/opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+A new way to search in Jenkins 2.492.1
+</h5>
+<p class='app-card__teaser'>
+We’re happy to announce that Jenkins 2.492.1 comes with a
+brand-new search experience. We&#8217;re calling it Command Palette and it&#8217;s a one-stop shop for
+searching across everything in Jenkins.
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/b27921d5a95f787012c8e9dfbb86c2751597997132.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/1674f573eef1f8ba15be69b44aab4d401597921585.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 500
-  }
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/8e7505f4e7be967217d81781b49425bc1597997165.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/df06bf5a1ce831e889b3b07f3bab84d61597921557.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 600
-  }
+Whether you’re searching for jobs, builds, or settings, Command Palette makes it faster
+and easier than ever to find exactly what you need.
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/1792d65b5545ef5781d92cf519ad47c21597997060.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/def01ba19fdf2476f0fc1904e4195e011597921623.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 700
-  }
 
-  @font-face {
-    font-family: Okra;
-    font-display: swap;
-    src: url(https://b.zmtcdn.com/web_assets/c596984d29a9ca0a7995ac6f4d9ac6461597997080.woff2) format('woff2'), url(https://b.zmtcdn.com/web_assets/e791ade4b99ef84be3ac11a07f2a774c1597921614.ttf) format('truetype');
-    font-style: normal;
-    font-weight: 800
-  }
+Command Palette is a full-screen search experience, giving you more room to view...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Jan Faracik" href="/blog/authors/janfaracik/"><div class="app-avatar"><img alt="Jan Faracik" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/janfaracik.jpg"></div><span>Jan Faracik</span></a>
+February 5, 2025
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2025/01/16/jenkins-csp-project-update/'>
+<div class='app-card__preview'>
+<img alt='December Update: Momentum in Jenkins Content Security Policy Project' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2024/11/01/2024-11-01-jenkins-csp-project-update/opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+December Update: Momentum in Jenkins Content Security Policy Project
+</h5>
+<p class='app-card__teaser'>
+December Update: Wrapping Up the Jenkins Content Security Policy Project
 
-  @font-face {
-    font-family: 'Wasabi';
-    font-display: swap;
-    src: url('https://b.zmtcdn.com/data/o2_assets/ddfc250c1903edc54c44dc57474b3cd71727682980.ttf') format('truetype'), url('https://b.zmtcdn.com/data/o2_assets/c7e636e361ea3da05037384898b62fb51727683014.woff2') format('woff2'), url('https://b.zmtcdn.com/data/o2_assets/d4e45417db1f3f9f9abcd5f14ee442ed1727682995.woff') format('woff');
-    font-style: normal;
-    unicode-range: U+0-10FFFF;
-  }
 
-  body,
-  html {
-    margin: 0;
-    padding: 0;
-    font-size: 62.5%;
-    font-weight: 300;
-    box-sizing: border-box
-  }
+The final month of 2024 has seen the Jenkins Content Security Policy (CSP) Project progressing towards a strong conclusion.
+Let&#8217;s reflect on the developments of December and wrap up the outcomes of this pivotal security initiative.
 
-  body,
-  button,
-  textarea,
-  input,
-  input::-webkit-input-placeholder {
-    font-family: Okra, Helvetica, sans-serif;
-  }
 
-  body,
-  button,
-  input,
-  input::-moz-placeholder {
-    font-family: Okra, Helvetica, sans-serif
-  }
+A Strong Finish
 
-  body,
-  button,
-  input,
-  input:-ms-input-placeholder {
-    font-family: Okra, Helvetica, sans-serif
-  }
+December marked the end of an intensive push to refine CSP across the Jenkins ecosystem.
+Our...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Bruno Verachten" href="/blog/authors/gounthar/"><div class="app-avatar"><img alt="Bruno Verachten" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/gounthar.png"></div><span>Bruno Verachten</span></a>
+January 16, 2025
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2025/01/16/jenkins-2024-recap/'>
+<div class='app-card__preview'>
+<img alt='Jenkins 2024 in Review' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2025/01/16/2024-recap.png'>
+</div>
+<h5 class='app-card__title'>
+Jenkins 2024 in Review
+</h5>
+<p class='app-card__teaser'>
+As we welcome 2025, we take a moment to reflect on the past year and celebrate some of our most memorable achievements, impactful projects, and significant changes over the last 366 days.
+Every contribution, no matter its form, plays a vital role in shaping the Jenkins project. Without the collective efforts of our contributors, supporters, and community members, Jenkins wouldn&#8217;t be...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Damien DUPORTAL" href="/blog/authors/dduportal/"><div class="app-avatar"><img alt="Damien DUPORTAL" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/dduportal.jpg"></div><span>Damien DUPORTAL</span></a><a class="app-author-link" data-user-name="Mark Waite" href="/blog/authors/markewaite/"><div class="app-avatar"><img alt="Mark Waite" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/markewaite.jpg"></div><span>Mark Waite</span></a><a class="app-author-link" data-user-name="Bruno Verachten" href="/blog/authors/gounthar/"><div class="app-avatar"><img alt="Bruno Verachten" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/gounthar.png"></div><span>Bruno Verachten</span></a><a class="app-author-link" data-user-name="Wadeck Follonier" href="/blog/authors/wadeck/"><div class="app-avatar"><img alt="Wadeck Follonier" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/wadeck.jpg"></div><span>Wadeck Follonier</span></a><a class="app-author-link" data-user-name="Kevin Martens" href="/blog/authors/kmartens27/"><div class="app-avatar"><img alt="Kevin Martens" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/kmartens27.jpeg"></div><span>Kevin Martens</span></a><a class="app-author-link" data-user-name="Alyssa Tong" href="/blog/authors/alyssat/"><div class="app-avatar"><img alt="Alyssa Tong" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/alyssat.jpg"></div><span>Alyssa Tong</span></a><a class="app-author-link" data-user-name="Jan Faracik" href="/blog/authors/janfaracik/"><div class="app-avatar"><img alt="Jan Faracik" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/janfaracik.jpg"></div><span>Jan Faracik</span></a><a class="app-author-link" data-user-name="Tim Jacomb" href="/blog/authors/timja/"><div class="app-avatar"><img alt="Tim Jacomb" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/timja.jpg"></div><span>Tim Jacomb</span></a>
+January 16, 2025
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2025/01/10/design-library/'>
+<div class='app-card__preview'>
+<img alt='Introducing Jenkins Design Library 3' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2025/01/2025-01-10-design-library/opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+Introducing Jenkins Design Library 3
+</h5>
+<p class='app-card__teaser'>
+We’re thrilled to announce that the Jenkins Design Library 3 is now live! 🎉
 
-  body,
-  button,
-  input,
-  input::placeholder {
-    font-family: Okra, Helvetica, sans-serif
-  }
 
-  *,
-  :after,
-  :before {
-    box-sizing: inherit;
-    -webkit-tap-highlight-color: transparent
-  }
+With this release, we’ve refined every aspect of the library to provide better documentation for plugin developers and ensure a more consistent,
+accessible, and intuitive experience.
 
-  :active,
-  :focus {
-    outline: 0
-  }
 
-  @media (hover:none) {
 
-    :active,
-    :focus {
-      outline: 0 !important
-    }
-  }
+So what&#8217;s new?
 
-  @media screen and (prefers-reduced-motion:reduce) {
-    * {
-      -webkit-animation-play-state: paused !important;
-      animation-play-state: paused !important;
-      -webkit-transition: none !important;
-      transition: none !important;
-      -webkit-scroll-behavior: auto !important;
-      -moz-scroll-behavior: auto !important;
-      -ms-scroll-behavior: auto !important;
-      scroll-behavior: auto !important
-    }
-  }
+A new consistent design
 
-  div,
-  p,
-  span {
-    font-size: 1.6rem;
-  }
 
-  .mdx-parser > span,
-  .mdx-parser > div {
-    font-size: inherit;
-  }
+Every page has been refined to maintain a cohesive look and feel, making it easier than ever to...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Jan Faracik" href="/blog/authors/janfaracik/"><div class="app-avatar"><img alt="Jan Faracik" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/janfaracik.jpg"></div><span>Jan Faracik</span></a>
+January 10, 2025
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2024/12/16/google-summer-of-code-2025-volunteers-needed-to-mentor-future-jenkins-contributors/'>
+<div class='app-card__preview'>
+<img alt='Google Summer of Code 2025: Volunteers Needed to Mentor Future Jenkins Contributors' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2023/12/gsoc-call-for-mentors.png'>
+</div>
+<h5 class='app-card__title'>
+Google Summer of Code 2025: Volunteers Needed to Mentor Future Jenkins Contributors
+</h5>
+<p class='app-card__teaser'>
+TL,DR:
 
-      </style>
-      <script>
-        var publicPath = 'https://zwstatic.zomato.com/';
-      </script>
-      <script>
-        window.csrfRequested = false;
-        window.requestQueue = [];
-      </script>
-      
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      
-    ga('create', {
-      trackingId: 'UA-19617341-21',
-      cookieDomain: 'auto',
-      name: 'global'
-    });
-  
-    ga('create', {
-      trackingId: 'UA-19617341-13',
-      cookieDomain: 'auto',
-      name: 'city'
-    });
-  
-    ga('create', {
-      trackingId: 'UA-19617341-30',
-      cookieDomain: 'auto',
-      name: 'country'
-    });
-  
-    </script>
-    <script defer src='https://www.google-analytics.com/analytics.js'></script>
-  
-      </head>
-      <body>
-        
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKPZQ6"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  
-        
-        <div id="root"><div class="sc-jGxEUC dOXmkw"><div class="sc-1ly0uwc-0 htMNyq sc-jMMfwr bdrdHY" color="#E23744"></div><div class="sc-gBkwgr hHpkgQ"><header class="sc-yvzia9-1 jwVXyW"><nav class="sc-yvzia9-2 ifdVMV"><ul class="sc-yvzia9-3 gpdnUW"><li class="sc-yvzia9-4 bmbqmX"><div aria-label="Menu" aria-controls="navigation_cm86j28pz001z2c8vezb3hv6f" aria-expanded="false" role="button" tabindex="0" class="sc-3o0n99-0 rQzcn"><span class="sc-3o0n99-1 kkPOQi"></span><span class="sc-3o0n99-1 kkPOQi"></span><span class="sc-3o0n99-1 kkPOQi"></span></div></li><li class="sc-yvzia9-4 bmbqmX"><img tabindex="0" class="sc-yvzia9-6 sc-yvzia9-7 fvCyAU"/></li></ul><div class="sc-yvzia9-0 OcEMG"><img tabindex="0" class="sc-yvzia9-6 hxTfPc"/></div><ul id="navigation_cm86j28pz001z2c8vezb3hv6f" role="none" aria-label="navbar" aria-expanded="false" height="100vh" class="sc-3o0n99-3 fIVbKv"><li tabindex="0" class="sc-3o0n99-4 cndLHu"><a href="/mobile" class="sc-lfEzOC sc-fThejE eHRMNA"><i class="sc-rbbb40-1 iFnyeo sc-ecFaGM jqhLIW" size="10" color="#FFFFFF"><svg xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" width="10" height="10" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 gvsUip"><title>download-app</title><path d="M18.5793 9.18939H16.5865H16.3199C15.7307 9.18939 15.2529 9.6672 15.2529 10.2583V10.3742C15.2529 10.9659 15.7307 11.444 16.3207 11.444H18.3156H18.5793C19.1696 11.444 19.6488 10.9639 19.6488 10.3742L19.6477 10.2569C19.6488 9.6672 19.1696 9.18939 18.5793 9.18939Z"></path><path d="M18.5804 6.52262H18.1097V1.35122C18.1097 0.607964 17.5017 0 16.7582 0H7.84167C7.09841 0 6.49045 0.608249 6.49045 1.35122V5.06151C4.69196 6.07821 2.83696 7.14029 2.83296 7.14286C1.82597 7.5573 0.350586 8.89453 0.350586 12.0522C0.350586 12.3342 0.369139 12.5945 0.395113 12.846C0.40339 12.9197 0.412524 12.9904 0.422514 13.0615C0.448488 13.2462 0.481027 13.4229 0.519845 13.5907C0.533831 13.6506 0.544678 13.7131 0.559805 13.7705C0.612039 13.9646 0.67255 14.1467 0.740482 14.32C0.774733 14.4059 0.811839 14.4841 0.84923 14.5646C0.88919 14.6494 0.929436 14.7327 0.972535 14.8106C1.02249 14.9045 1.07244 14.995 1.12724 15.0809C1.14037 15.1009 1.15464 15.1192 1.16805 15.1394C2.46847 17.1052 4.8675 17.114 4.8675 17.114H6.49045V18.6494C6.49045 19.3918 7.09841 19.9997 7.84167 19.9997H16.7579C17.5014 19.9997 18.1094 19.3915 18.1094 18.6494V16.7767H18.3155V16.7755H18.5784C19.1695 16.7755 19.6487 16.2974 19.6476 15.7063L19.6487 15.5898C19.6476 14.9996 19.1695 14.5229 18.5792 14.5229H18.3155H16.5861H16.3195C15.7292 14.5229 15.2525 15.0007 15.2525 15.5907V15.7091C15.2525 16.2977 15.7304 16.7775 16.3203 16.7775H17.1692V17.5008H7.43036V7.79877C7.91959 7.48851 8.37256 7.18995 8.63088 6.98987C9.93957 5.97774 11.1818 5.17169 11.3499 4.4407C11.5688 3.49222 10.8407 2.69302 9.57765 3.34922C9.17976 3.55587 8.36315 4.00885 7.43036 4.53261V2.14129L17.1692 2.14271V6.52205H16.5861V6.52319H16.3209C15.7304 6.52319 15.2511 7.001 15.2511 7.59269V7.70858C15.2511 8.29999 15.7303 8.77665 16.3195 8.77665H16.5846H18.3141H18.5798C19.1695 8.77665 19.6476 8.29884 19.6476 7.70858V7.58955C19.6487 7.00186 19.1709 6.52262 18.5804 6.52262ZM12.2986 17.9752C12.6731 17.9752 12.9751 18.2774 12.9751 18.6511C12.9751 19.0255 12.6728 19.3267 12.2986 19.3267C11.9256 19.3267 11.6242 19.0247 11.6242 18.6511C11.6247 18.2786 11.927 17.9752 12.2986 17.9752ZM13.7266 1.30098H10.8735C10.7839 1.30098 10.7097 1.2282 10.7097 1.13829C10.7097 1.04695 10.7839 0.974169 10.8735 0.974169H13.7266C13.8163 0.974169 13.8893 1.04667 13.8893 1.13829C13.8893 1.22792 13.8163 1.30098 13.7266 1.30098Z"></path><path d="M18.5788 11.8561H18.3151H16.3193C15.7302 11.8561 15.251 12.3353 15.251 12.9253V13.0423C15.251 13.6329 15.7291 14.1107 16.3193 14.1107H16.5845H18.3139H18.5782C19.1693 14.1107 19.646 13.6329 19.6474 13.0423V12.9253C19.6472 12.3353 19.1705 11.8561 18.5788 11.8561Z"></path></svg></i>Get the App</a></li><li tabindex="0" class="sc-3o0n99-4 kAUthO"><a src="" tabindex="-1" class="sc-3o0n99-5 sc-efAmGo dWVyOc">Investor Relations</a></li><li tabindex="0" class="sc-3o0n99-4 kAUthO"><a src="" tabindex="-1" class="sc-3o0n99-5 sc-efAmGo dWVyOc">Add restaurant</a></li><li tabindex="0" class="sc-3o0n99-4 kAUthO"><a src="" tabindex="-1" class="sc-3o0n99-5 sc-efAmGo dWVyOc">Log in</a></li><li tabindex="0" class="sc-3o0n99-4 kAUthO"><a src="" tabindex="-1" class="sc-3o0n99-5 sc-efAmGo dWVyOc">Sign up</a></li></ul></nav></header></div><div class="sc-hARARD hFHYzA"><div class="sc-jjbMYL kkURgz" height="calc(100vh - 30rem)" width="100%"><div class="low-res-container"><img src="https://b.zmtcdn.com/web/small/963036be03420f1bbc0c94f6f7991b8e1587804874.jpeg" class="low-res-image" alt="" role="presentation"/></div><img src="" class="high-res-image" alt="" role="presentation"/></div><div class="contents-wrapper"><div class="sc-jjbMYL khHvmd logo" height="6rem" width="30rem"><div class="low-res-container"><img src="https://b.zmtcdn.com/web/logo/low/6d289d7188aeb23d3c0c76b74915b9931587822718.png" class="low-res-image" alt="" role="presentation"/></div><img src="" class="high-res-image" alt="" role="presentation"/></div><h1 class="sc-7kepeu-0 kYnyFA description">Discover the best food &amp; drinks in <span class="next-line">Hyderabad</span></h1><div class="searchContainer"><div class="sc-irBdKP fUpGmB"><div class="sc-18n4g8v-0 gAhmYY sc-zDqdV chgPqJ"><i class="sc-rbbb40-1 iFnyeo" color="#FF7E8B" size="20"><svg xmlns="http://www.w3.org/2000/svg" fill="#FF7E8B" width="20" height="20" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iRDDBk"><title>location-fill</title><path d="M10.2 0.42c-4.5 0-8.2 3.7-8.2 8.3 0 6.2 7.5 11.3 7.8 11.6 0.2 0.1 0.3 0.1 0.4 0.1s0.3 0 0.4-0.1c0.3-0.2 7.8-5.3 7.8-11.6 0.1-4.6-3.6-8.3-8.2-8.3zM10.2 11.42c-1.7 0-3-1.3-3-3s1.3-3 3-3c1.7 0 3 1.3 3 3s-1.3 3-3 3z"></path></svg></i><input placeholder="Hyderabad" class="sc-grYksN eirtPp" value=""/><i class="sc-rbbb40-1 iFnyeo sc-fIIFii fkgYik" color="#4F4F4F" size="12"><svg xmlns="http://www.w3.org/2000/svg" fill="#4F4F4F" width="12" height="12" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 ezrcri"><title>down-triangle</title><path d="M20 5.42l-10 10-10-10h20z"></path></svg></i><div class="sc-fPCuyW fAlecG"><div class="sc-cOoQYZ sc-ddcOto hZnlZG"><div class="sc-dHaUqb ePKcUH"><div class="sc-ljUfdc jGGRwE"><i class="sc-rbbb40-1 iFnyeo" color="#EF4F5F" size="14"><svg xmlns="http://www.w3.org/2000/svg" fill="#EF4F5F" width="14" height="14" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 kyPUnV"><title>current-location</title><path d="M13.58 10c0 1.977-1.603 3.58-3.58 3.58s-3.58-1.603-3.58-3.58c0-1.977 1.603-3.58 3.58-3.58v0c1.977 0 3.58 1.603 3.58 3.58v0zM20 9.52v0.96c0 0.265-0.215 0.48-0.48 0.48v0h-1.72c-0.447 3.584-3.256 6.393-6.802 6.836l-0.038 0.004v1.72c0 0.265-0.215 0.48-0.48 0.48v0h-0.96c-0.265 0-0.48-0.215-0.48-0.48v0-1.72c-3.575-0.455-6.375-3.262-6.816-6.802l-0.004-0.038h-1.74c-0.265 0-0.48-0.215-0.48-0.48v0-0.96c0-0.265 0.215-0.48 0.48-0.48v0h1.74c0.445-3.578 3.245-6.385 6.781-6.836l0.039-0.004v-1.72c0-0.265 0.215-0.48 0.48-0.48v0h0.96c0.265 0 0.48 0.215 0.48 0.48v0 1.72c3.584 0.447 6.393 3.256 6.836 6.802l0.004 0.038h1.72c0.265 0 0.48 0.215 0.48 0.48v0zM15.96 10c0-3.292-2.668-5.96-5.96-5.96s-5.96 2.668-5.96 5.96c0 3.292 2.668 5.96 5.96 5.96v0c3.292 0 5.96-2.668 5.96-5.96v0z"></path></svg></i></div><p color="#EF4F5F" class="sc-1hez2tp-0 sc-fPEBxH huStkG">Detect current location</p></div><p class="sc-1hez2tp-0 sc-gVZiCL jHSamn">Using GPS</p></div></div></div><div class="sc-jkhLCj iGErOi"></div><div class="sc-18n4g8v-0 gAhmYY sc-gQNndl TYobw"><div class="sc-gFXMyG gEBoKt"><i class="sc-rbbb40-1 iFnyeo" color="#828282" size="18"><svg xmlns="http://www.w3.org/2000/svg" fill="#828282" width="18" height="18" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iwHbVQ"><title>Search</title><path d="M19.78 19.12l-3.88-3.9c1.28-1.6 2.080-3.6 2.080-5.8 0-5-3.98-9-8.98-9s-9 4-9 9c0 5 4 9 9 9 2.2 0 4.2-0.8 5.8-2.1l3.88 3.9c0.1 0.1 0.3 0.2 0.5 0.2s0.4-0.1 0.5-0.2c0.4-0.3 0.4-0.8 0.1-1.1zM1.5 9.42c0-4.1 3.4-7.5 7.5-7.5s7.48 3.4 7.48 7.5-3.38 7.5-7.48 7.5c-4.1 0-7.5-3.4-7.5-7.5z"></path></svg></i></div><input placeholder="Search for restaurant, cuisine or a dish" class="sc-RmnOB brkODe" value=""/><div class="sc-dYzWWc fZrmeM"></div></div></div></div></div></div><div class="sc-1mo3ldo-0 sc-jQMNup iHNBTS"><div class="sc-bJHhxl ffoBAl"><div class="sc-bke1zw-0 fIuLDK"><div class="sc-bke1zw-1 gJKavv"><a href="https://www.zomato.com/hyderabad/order-food-online?delivery_subzone=9419" class="sc-fCPvlr jYqkIa"><div height="24rem" width="100%" class="sc-s1isp7-1 grmOkY sc-dphlzf iOAEPc"><div src="" alt="Order Online" class="sc-s1isp7-3 dqJnoA"></div><img alt="Order Online" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><div class="sc-gAmQfK eDNByN"><p class="sc-1hez2tp-0 bBZBLJ title">Order Online</p><p class="sc-1hez2tp-0 bBZBLJ subtitle">Stay home and order to your doorstep</p></div></a></div><div class="sc-bke1zw-1 lcfsHG"><a href="https://www.zomato.com/hyderabad/dine-out" class="sc-fCPvlr jYqkIa"><div height="24rem" width="100%" class="sc-s1isp7-1 grmOkY sc-dphlzf iOAEPc"><div src="" alt="Dining" class="sc-s1isp7-3 dqJnoA"></div><img alt="Dining" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><div class="sc-gAmQfK eDNByN"><p class="sc-1hez2tp-0 bBZBLJ title">Dining</p><p class="sc-1hez2tp-0 bBZBLJ subtitle">View the city&#x27;s favourite dining venues</p></div></a></div><div class="sc-bke1zw-1 fvVOZY"><a href="https://www.zomato.com/live/city/hyderabad/events" class="sc-fCPvlr jYqkIa"><div height="24rem" width="100%" class="sc-s1isp7-1 grmOkY sc-dphlzf iOAEPc"><div src="" alt="Live Events" class="sc-s1isp7-3 dqJnoA"></div><img alt="Live Events" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><div class="sc-gAmQfK eDNByN"><p class="sc-1hez2tp-0 bBZBLJ title">Live Events</p><p class="sc-1hez2tp-0 bBZBLJ subtitle">Discover India’s best events &amp; concerts</p></div></a></div></div></div><div class="sc-cfWELz JFgnp"><div class="sc-cCVOAp hdkbbD"><h2 class="sc-dln2kl-0 cHkolX title">Collections</h2><div class="desc-see-more-link"><h6 class="sc-1gbvc19-0 bPGePZ desc">Explore curated lists of top restaurants, cafes, pubs, and bars in Hyderabad, based on trends</h6><a href="/hyderabad/collections" tabindex="0" color="#FF7E8B" class="sc-ks3f96-0 gPAuGS sc-hAXbOi kAWycP" target="_self" role="link"><span tabindex="-1" color="#FF7E8B" target="_self" role="link" class="sc-ks3f96-1 cndCgo">All collections in Hyderabad<!-- --> <i class="sc-rbbb40-1 iFnyeo sc-hCaUpS jElEZC" color="#FF7E8B" size="12"><svg xmlns="http://www.w3.org/2000/svg" fill="#FF7E8B" width="12" height="12" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 ezrcri"><title>right-triangle</title><path d="M5 0.42l10 10-10 10v-20z"></path></svg></i></span></a></div></div><div class="sc-bke1zw-0 fIuLDK cards"><div class="sc-bke1zw-1 gyXHqH"><section class="sc-hcnlBt foqEXy"><a href="/hyderabad/trending-this-week" target="_blank" class="sc-cFlXAS pADbf"><div height="32rem" class="sc-s1isp7-1 ibrfpG sc-guztPN hWJzOE"><img src="data:image/png;base64,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" alt="Top Trending Spots" class="sc-s1isp7-2 dCaTuj"/><img alt="Top Trending Spots" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><section class="sc-jRhVzh kiQNBG"><section class="sc-iHhHRJ jKbzqi"><p color="#FFFFFF" class="sc-1hez2tp-0 sc-hkbPbT klIMFG">Top Trending Spots</p><div class="sc-jhaWeW eWaNHQ"><h6 class="sc-1gbvc19-0 sc-bSbAYC evvRGa">25 Places</h6><i class="sc-rbbb40-1 iFnyeo" size="10" color="#FFFFFF"><svg xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" width="10" height="10" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 gvsUip"><title>right-triangle</title><path d="M5 0.42l10 10-10 10v-20z"></path></svg></i></div></section></section></a></section></div><div class="sc-bke1zw-1 imUMiD"><section class="sc-hcnlBt foqEXy"><a href="/hyderabad/rooftop" target="_blank" class="sc-cFlXAS pADbf"><div height="32rem" class="sc-s1isp7-1 ibrfpG sc-guztPN hWJzOE"><img src="data:image/png;base64,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" alt="Best Rooftop Places" class="sc-s1isp7-2 dCaTuj"/><img alt="Best Rooftop Places" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><section class="sc-jRhVzh kiQNBG"><section class="sc-iHhHRJ jKbzqi"><p color="#FFFFFF" class="sc-1hez2tp-0 sc-hkbPbT klIMFG">Best Rooftop Places</p><div class="sc-jhaWeW eWaNHQ"><h6 class="sc-1gbvc19-0 sc-bSbAYC evvRGa">29 Places</h6><i class="sc-rbbb40-1 iFnyeo" size="10" color="#FFFFFF"><svg xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" width="10" height="10" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 gvsUip"><title>right-triangle</title><path d="M5 0.42l10 10-10 10v-20z"></path></svg></i></div></section></section></a></section></div><div class="sc-bke1zw-1 foDMxx"><section class="sc-hcnlBt foqEXy"><a href="/hyderabad/hyderabadi-haleem" target="_blank" class="sc-cFlXAS pADbf"><div height="32rem" class="sc-s1isp7-1 ibrfpG sc-guztPN hWJzOE"><img src="data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAyADIDASIAAhEBAxEB/8QAHAABAAIDAQEBAAAAAAAAAAAAAAMHAgQFBgkI/8QALhAAAQMDAgQEBQUAAAAAAAAAAQACAwQFBgcRCBIhkRQxUVMTFUFhgTIzUmKC/8QAGQEBAQADAQAAAAAAAAAAAAAAAAEEBQYD/8QAIREAAgICAQQDAAAAAAAAAAAAAAEDEQIEEgUTIVEGMUH/2gAMAwEAAhEDEQA/APqmi1hcqEnYVLO6kFTA7ykafygJUURqIR5yN7rHxlN7ze6lotMnRQ+Mpveb3TxlN7ze6WiXRMii8TB7je6Kg+bmk2tuqOUPZV11VK2I9epKv+i1jr6OIR1NeDKB5cy8db9G7tj9nkprZQua5jSG7NVHXXAdXo8klkFNUmIOO3Q7LTS7M02XGJeTqItXW1I7kaZdWa8Sl9tkjo6eU/bqqyn4wMrp6hzZZngA+q5U+kOpOSOAloZgfUtK9BjXClfa1rxeKR25HQlq1+UO0nykz8mZhv6lLDtpoltXFrkl3cKeGrPOTsBurWxPUbOby2OapqiyI7Hcn6L81ZBw3Zri+TtfaaKZ0PNuNgVdWDYZqHK6loJ6eWOLoHHYrI6dFLLLUuTo0HyXpOtNx29bOvaRe8edztja11xG4AB6/VFhDotM6Jjnyv5i0E9frsi6Xtx+znu1kXp8roiCPgM6/Zaz8bs0ji91DESf6hdRF5cUjOeTf6c6LH7TD+3RRD/IU7bbRt/TAwfhbSJSZLZzprBaqh3PLRxOd6loWcNltsDg6KljaR6NC3kRJL6DbfhmHwmfxRZoqQIiIAiIgCIiAIiID//Z" alt="Top Haleem Spots" class="sc-s1isp7-2 dCaTuj"/><img alt="Top Haleem Spots" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><section class="sc-jRhVzh kiQNBG"><section class="sc-iHhHRJ jKbzqi"><p color="#FFFFFF" class="sc-1hez2tp-0 sc-hkbPbT klIMFG">Top Haleem Spots</p><div class="sc-jhaWeW eWaNHQ"><h6 class="sc-1gbvc19-0 sc-bSbAYC evvRGa">12 Places</h6><i class="sc-rbbb40-1 iFnyeo" size="10" color="#FFFFFF"><svg xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" width="10" height="10" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 gvsUip"><title>right-triangle</title><path d="M5 0.42l10 10-10 10v-20z"></path></svg></i></div></section></section></a></section></div><div class="sc-bke1zw-1 MKgTV"><section class="sc-hcnlBt foqEXy"><a href="/hyderabad/iftar-specials" target="_blank" class="sc-cFlXAS pADbf"><div height="32rem" class="sc-s1isp7-1 ibrfpG sc-guztPN hWJzOE"><img src="data:image/png;base64,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" alt="Iftar Specials" class="sc-s1isp7-2 dCaTuj"/><img alt="Iftar Specials" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div><section class="sc-jRhVzh kiQNBG"><section class="sc-iHhHRJ jKbzqi"><p color="#FFFFFF" class="sc-1hez2tp-0 sc-hkbPbT klIMFG">Iftar Specials</p><div class="sc-jhaWeW eWaNHQ"><h6 class="sc-1gbvc19-0 sc-bSbAYC evvRGa">14 Places</h6><i class="sc-rbbb40-1 iFnyeo" size="10" color="#FFFFFF"><svg xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" width="10" height="10" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 gvsUip"><title>right-triangle</title><path d="M5 0.42l10 10-10 10v-20z"></path></svg></i></div></section></section></a></section></div></div><a href="/hyderabad/collections" tabindex="0" color="#FF7E8B" class="sc-ks3f96-0 gPAuGS sc-hAXbOi jIXZve" target="_self" role="link"><span tabindex="-1" color="#FF7E8B" target="_self" role="link" class="sc-ks3f96-1 cndCgo">All collections in Hyderabad<!-- --> <i class="sc-rbbb40-1 iFnyeo sc-hCaUpS jElEZC" color="#FF7E8B" size="12"><svg xmlns="http://www.w3.org/2000/svg" fill="#FF7E8B" width="12" height="12" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 ezrcri"><title>right-triangle</title><path d="M5 0.42l10 10-10 10v-20z"></path></svg></i></span></a></div><div class="sc-fQkuQJ UnHcy"><div class="title"><p class="sc-1hez2tp-0 sc-TuwoP gBVqqT">Popular localities in and around <span class="city-name">Hyderabad</span></p></div><div><div class="sc-bke1zw-0 fIuLDK"><div class="sc-bke1zw-1 gLbmAn"><a href="https://www.zomato.com/hyderabad/jubilee-hills-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Jubilee Hills</h5><p class="sc-1hez2tp-0 bBZBLJ">449 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 gGzIKR"><a href="https://www.zomato.com/hyderabad/gachibowli-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Gachibowli</h5><p class="sc-1hez2tp-0 bBZBLJ">848 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 jdRPl"><a href="https://www.zomato.com/hyderabad/banjara-hills-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Banjara Hills</h5><p class="sc-1hez2tp-0 bBZBLJ">446 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 gLbmAn"><a href="https://www.zomato.com/hyderabad/hitech-city-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Hitech City</h5><p class="sc-1hez2tp-0 bBZBLJ">422 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 gGzIKR"><a href="https://www.zomato.com/hyderabad/madhapur-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Madhapur</h5><p class="sc-1hez2tp-0 bBZBLJ">920 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 jdRPl"><a href="https://www.zomato.com/hyderabad/kondapur-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Kondapur</h5><p class="sc-1hez2tp-0 bBZBLJ">656 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 gLbmAn"><a href="https://www.zomato.com/hyderabad/kukatpally-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Kukatpally</h5><p class="sc-1hez2tp-0 bBZBLJ">1560 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 gGzIKR"><a href="https://www.zomato.com/hyderabad/begumpet-restaurants"><div class="sc-eNPDpu eBQidV panel"><div class="sc-hizQCF hIAzbj img-title-box"><h5 class="sc-1uh2q3e-0 sc-dRCTWM eGLeLy">Begumpet</h5><p class="sc-1hez2tp-0 bBZBLJ">168 places</p></div><i class="sc-rbbb40-1 iFnyeo sc-cgHJcJ nTDQq" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-right</title><path d="M6.98 15.94c-0.3-0.28-0.3-0.76 0-1.060l4.46-4.46-4.46-4.48c-0.3-0.28-0.3-0.76 0-1.060s0.76-0.28 1.060 0l5 5c0.28 0.3 0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0z"></path></svg></i></div></a></div><div class="sc-bke1zw-1 jdRPl"><div tabindex="0" class="sc-sPYgB fnBlOe"><div class="sc-dHIava kruCDf">see more</div><i class="sc-rbbb40-1 iFnyeo" size="18" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="18" height="18" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iwHbVQ"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div></div></div></div></div></div><div class="sc-epGmkI cLGFhn"><div class="sc-1mo3ldo-0 sc-jHsedM jtjAdV"><div class="sc-ejjefP ffjHop"><div class="sc-cPwpjd hXVpmg"><div height="45rem" width="100%" class="sc-s1isp7-1 iEvIbV sc-bFeJrO MLjOP"><div src="" alt="get-zomato-app" class="sc-s1isp7-3 dqJnoA"></div><img alt="get-zomato-app" src="" loading="auto" class="sc-s1isp7-5 jkbaMx"/></div></div><div class="sc-hIKgcG kJNHeA"><h2 class="sc-dln2kl-0 sc-liJGWf fFQLQR">Get the Zomato app</h2><p class="sc-1hez2tp-0 sc-fncVv hAFpnh">We will send you a link, open it on your phone to download the app</p><div class="sc-iepcYN kptErf"><section name="radio" selected="" class="sc-1kipvqd-0 fgJBOk sc-hjjOtT jWMuRL"><section class="sc-djusq7-1 hZKXXE"><label class="sc-1ukzvu4-0 jrHtYr"><input name="radio" label="Email" type="radio" class="sc-djusq7-5 eiwrnG" checked="" value="email"/><svg viewBox="0 0 20 20" class="sc-djusq7-2 ctMLcL"><circle cx="10" cy="10" r="8" name="radio" value="email" label="Email" checked="" class="sc-djusq7-3 bIgyOk"></circle><circle cx="10" cy="10" r="5" name="radio" value="email" label="Email" checked="" class="sc-djusq7-4 hLkMFn"></circle></svg><span class="sc-djusq7-0 gBeNIg">Email</span></label></section><section class="sc-djusq7-1 hZKXXE"><label class="sc-1ukzvu4-0 jrHtYr"><input name="radio" label="Phone" type="radio" class="sc-djusq7-5 eiwrnG" value="mobile"/><svg viewBox="0 0 20 20" class="sc-djusq7-2 ctMLcL"><circle cx="10" cy="10" r="8" name="radio" value="mobile" label="Phone" class="sc-djusq7-3 icOLAW"></circle></svg><span class="sc-djusq7-0 gBeNIg">Phone</span></label></section></section></div><div class="sc-gtGrDH jDzwTz"><section label="Email" value="" color="white" type="text" class="sc-1yzxt5f-6 gXbCjv"><section width="100%" class="sc-1yzxt5f-4 ioJwpZ"><input type="text" width="100%" autoComplete="on" class="sc-1yzxt5f-9 bbrwhB" value=""/></section><label value="" class="sc-1yzxt5f-7 kdnpos">Email</label><div class="sc-1yzxt5f-5 QjbsL"></div></section><button class="sc-1kx5g6g-1 elxuhW sc-bmlaxJ kBWLpU" role="button" tabindex="0" aria-disabled="false"><span tabindex="-1" class="sc-1kx5g6g-2 eXneOi"><span class="sc-1kx5g6g-3 dkwpEa">Share App Link</span></span></button><button class="sc-1kx5g6g-1 jrAmIP sc-emWXYZ eNCSrd" role="button" tabindex="0" aria-disabled="false"><span tabindex="-1" class="sc-1kx5g6g-2 iiMxKS"><span class="sc-1kx5g6g-3 dkwpEa">Share</span></span></button></div><p class="sc-1hez2tp-0 sc-jsHLkJ REiDQ">Download app from</p><div class="sc-kTaNVi bsFvqy"><a href="https://zomato.onelink.me/xqzv/CTA" target="_blank" aria-label="app store link" class="sc-16nfz79-0 blTnzu"><div height="4rem" width="13.7rem" class="sc-s1isp7-1 fxuOHl"><div src="" alt="image" class="sc-s1isp7-3 dqJnoA"></div><img alt="image" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div></a><div class="sc-cgOxmf grciEW"><a href="https://zomato.onelink.me/xqzv/CTA" target="_blank" aria-label="app store link" class="sc-16nfz79-0 blTnzu"><div height="4rem" width="13.7rem" class="sc-s1isp7-1 fxuOHl"><div src="" alt="image" class="sc-s1isp7-3 dqJnoA"></div><img alt="image" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div></a></div></div></div></div></div></div><div class="sc-kqlzXE iHNJzf"><div class="sc-1mo3ldo-0 sc-lnrBVv kuEcnP"><p class="sc-1hez2tp-0 sc-bYnzgO dMfNQn">Explore options near me</p><div class="sc-OxbzP hmiUFh"><section class="sc-1jt9o4p-0 fVldHU"><div title="Popular cuisines near me" font-weight="" class="sc-ixe81d-2 hferSp"><div tabindex="0" role="button" aria-expanded="false" aria-label="Popular cuisines near me" title="Popular cuisines near me" font-weight="" class="sc-ixe81d-6 bBVhRP"><section class="sc-ixe81d-8 ihgAwA"><h5 font-weight="" class="sc-1uh2q3e-0 sc-ixe81d-7 jYkmEI">Popular cuisines near me</h5></section><i class="sc-rbbb40-1 iFnyeo sc-ixe81d-3 ipHUyL" color="#1C1C1C" tabindex="-1" aria-hidden="true" size="20"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="20" height="20" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iRDDBk"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div><section tabindex="-1" class="sc-ixe81d-10 bJqgGM"><div><a href="https://www.zomato.com/bakery-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Bakery near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/beverages-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Beverages near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/biryani-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Biryani near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/burger-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Burger near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/chinese-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Chinese near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/coffee-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Coffee near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/desserts-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Desserts near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/ice-cream-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Ice Cream near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/kebab-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Kebab near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/mughlai-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Mughlai near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/north-indian-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>North Indian near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/pizza-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Pizza near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/sandwich-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Sandwich near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/seafood-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Seafood near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/" class="sc-hvvHee ivZvxu"><span>Shake near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/shawarma-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Shawarma near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/sichuan-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Sichuan near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/south-indian-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>South Indian near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/street-food-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Street near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/tea-restaurants-near-me" class="sc-hvvHee ivZvxu"><span>Tea near me</span></a></div></section></div></section></div><div class="sc-OxbzP hmiUFh"><section class="sc-1jt9o4p-0 fVldHU"><div title="Popular restaurant types near me" font-weight="" class="sc-ixe81d-2 hferSp"><div tabindex="0" role="button" aria-expanded="false" aria-label="Popular restaurant types near me" title="Popular restaurant types near me" font-weight="" class="sc-ixe81d-6 bBVhRP"><section class="sc-ixe81d-8 ihgAwA"><h5 font-weight="" class="sc-1uh2q3e-0 sc-ixe81d-7 jYkmEI">Popular restaurant types near me</h5></section><i class="sc-rbbb40-1 iFnyeo sc-ixe81d-3 ipHUyL" color="#1C1C1C" tabindex="-1" aria-hidden="true" size="20"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="20" height="20" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iRDDBk"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div><section tabindex="-1" class="sc-ixe81d-10 bJqgGM"><div><a href="https://www.zomato.com/bakeries-near-me" class="sc-hvvHee ivZvxu"><span>Bakeries near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/bars-near-me" class="sc-hvvHee ivZvxu"><span>Bars near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/beverage-shops-near-me" class="sc-hvvHee ivZvxu"><span>Beverage Shops near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/bhojanalya-near-me" class="sc-hvvHee ivZvxu"><span>Bhojanalya near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/cafes-near-me" class="sc-hvvHee ivZvxu"><span>Cafés near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/casual-dining-near-me" class="sc-hvvHee ivZvxu"><span>Casual Dining near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/clubs-near-me" class="sc-hvvHee ivZvxu"><span>Clubs near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/dessert-parlor-near-me" class="sc-hvvHee ivZvxu"><span>Dessert Parlors near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/dhabas-near-me" class="sc-hvvHee ivZvxu"><span>Dhabas near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/fine-dining-near-me" class="sc-hvvHee ivZvxu"><span>Fine Dining near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/food-courts-near-me" class="sc-hvvHee ivZvxu"><span>Food Courts near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/food-trucks-near-me" class="sc-hvvHee ivZvxu"><span>Food Trucks near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/kiosks-near-me" class="sc-hvvHee ivZvxu"><span>Kiosks near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/lounges-near-me" class="sc-hvvHee ivZvxu"><span>Lounges near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/microbreweries-near-me" class="sc-hvvHee ivZvxu"><span>Microbreweries near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/paan-shop-near-me" class="sc-hvvHee ivZvxu"><span>Paan Shop near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/quick-bites-near-me" class="sc-hvvHee ivZvxu"><span>Quick Bites near me</span></a><span class="sc-fvLVrH eKfesM"></span><a href="https://www.zomato.com/sweet-shops-near-me" class="sc-hvvHee ivZvxu"><span>Sweet Shops near me</span></a></div></section></div></section></div><div class="sc-OxbzP hmiUFh"><section class="sc-1jt9o4p-0 fVldHU"><div title="Top restaurant chains" font-weight="" class="sc-ixe81d-2 hferSp"><div tabindex="0" role="button" aria-expanded="false" aria-label="Top restaurant chains" title="Top restaurant chains" font-weight="" class="sc-ixe81d-6 bBVhRP"><section class="sc-ixe81d-8 ihgAwA"><h5 font-weight="" class="sc-1uh2q3e-0 sc-ixe81d-7 jYkmEI">Top restaurant chains</h5></section><i class="sc-rbbb40-1 iFnyeo sc-ixe81d-3 ipHUyL" color="#1C1C1C" tabindex="-1" aria-hidden="true" size="20"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="20" height="20" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iRDDBk"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div><section tabindex="-1" class="sc-ixe81d-10 bJqgGM"><div class="sc-aewfc gHAVJq"><a href="https://www.zomato.com/hyderabad/restaurants/bikanervala" class="sc-dXfzlN gKUxko">Bikanervala</a><a href="https://www.zomato.com/hyderabad/restaurants/burger-king" class="sc-dXfzlN gKUxko">Burger King</a><a href="https://www.zomato.com/hyderabad/restaurants/burger-singh-big-punjabi-burgers" class="sc-dXfzlN gKUxko">Burger Singh</a><a href="https://www.zomato.com/hyderabad/restaurants/dominos" class="sc-dXfzlN gKUxko">Domino&#x27;s</a><a href="https://www.zomato.com/hyderabad/restaurants/kfc" class="sc-dXfzlN gKUxko">KFC</a><a href="https://www.zomato.com/hyderabad/restaurants/mcdonalds" class="sc-dXfzlN gKUxko">McDonald&#x27;s</a><a href="https://www.zomato.com/hyderabad/restaurants/pizza-hut" class="sc-dXfzlN gKUxko">Pizza Hut</a><a href="https://www.zomato.com/hyderabad/restaurants/subway-1" class="sc-dXfzlN gKUxko">Subway</a><a href="https://www.zomato.com/hyderabad/restaurants/wow-momo" class="sc-dXfzlN gKUxko">WOW! Momo</a></div></section></div></section></div><div class="sc-OxbzP hmiUFh"><section class="sc-1jt9o4p-0 fVldHU"><div title="Cities we deliver to" font-weight="" class="sc-ixe81d-2 hferSp"><div tabindex="0" role="button" aria-expanded="false" aria-label="Cities we deliver to" title="Cities we deliver to" font-weight="" class="sc-ixe81d-6 bBVhRP"><section class="sc-ixe81d-8 ihgAwA"><h5 font-weight="" class="sc-1uh2q3e-0 sc-ixe81d-7 jYkmEI">Cities we deliver to</h5></section><i class="sc-rbbb40-1 iFnyeo sc-ixe81d-3 ipHUyL" color="#1C1C1C" tabindex="-1" aria-hidden="true" size="20"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="20" height="20" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iRDDBk"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div><section tabindex="-1" class="sc-ixe81d-10 bJqgGM"><div class="sc-aewfc gHAVJq"><a href="https://www.zomato.com/ncr/delivery" class="sc-dXfzlN gKUxko">Delhi NCR</a><a href="https://www.zomato.com/kolkata/delivery" class="sc-dXfzlN gKUxko">Kolkata</a><a href="https://www.zomato.com/mumbai/delivery" class="sc-dXfzlN gKUxko">Mumbai</a><a href="https://www.zomato.com/bangalore/delivery" class="sc-dXfzlN gKUxko">Bengaluru</a><a href="https://www.zomato.com/pune/delivery" class="sc-dXfzlN gKUxko">Pune</a><a href="https://www.zomato.com/hyderabad/delivery" class="sc-dXfzlN gKUxko">Hyderabad</a><a href="https://www.zomato.com/chennai/delivery" class="sc-dXfzlN gKUxko">Chennai</a><a href="https://www.zomato.com/lucknow/delivery" class="sc-dXfzlN gKUxko">Lucknow</a><a href="https://www.zomato.com/kochi/delivery" class="sc-dXfzlN gKUxko">Kochi</a><a href="https://www.zomato.com/jaipur/delivery" class="sc-dXfzlN gKUxko">Jaipur</a><a href="https://www.zomato.com/ahmedabad/delivery" class="sc-dXfzlN gKUxko">Ahmedabad</a><a href="https://www.zomato.com/chandigarh/delivery" class="sc-dXfzlN gKUxko">Chandigarh</a><a href="https://www.zomato.com/goa/delivery" class="sc-dXfzlN gKUxko">Goa</a><a href="https://www.zomato.com/indore/delivery" class="sc-dXfzlN gKUxko">Indore</a><a href="https://www.zomato.com/gangtok/delivery" class="sc-dXfzlN gKUxko">Gangtok</a><a href="https://www.zomato.com/nashik/delivery" class="sc-dXfzlN gKUxko">Nashik</a><a href="https://www.zomato.com/ooty/delivery" class="sc-dXfzlN gKUxko">Ooty</a><a href="https://www.zomato.com/shimla/delivery" class="sc-dXfzlN gKUxko">Shimla</a><a href="https://www.zomato.com/ludhiana/delivery" class="sc-dXfzlN gKUxko">Ludhiana</a><a href="https://www.zomato.com/guwahati/delivery" class="sc-dXfzlN gKUxko">Guwahati</a><a href="https://www.zomato.com/amritsar/delivery" class="sc-dXfzlN gKUxko">Amritsar</a><a href="https://www.zomato.com/kanpur/delivery" class="sc-dXfzlN gKUxko">Kanpur</a><a href="https://www.zomato.com/allahabad/delivery" class="sc-dXfzlN gKUxko">Allahabad</a><a href="https://www.zomato.com/aurangabad/delivery" class="sc-dXfzlN gKUxko">Aurangabad</a><a href="https://www.zomato.com/bhopal/delivery" class="sc-dXfzlN gKUxko">Bhopal</a><a href="https://www.zomato.com/ranchi/delivery" class="sc-dXfzlN gKUxko">Ranchi</a><a href="https://www.zomato.com/visakhapatnam/delivery" class="sc-dXfzlN gKUxko">Visakhapatnam</a><a href="https://www.zomato.com/bhubaneswar/delivery" class="sc-dXfzlN gKUxko">Bhubaneswar</a><a href="https://www.zomato.com/coimbatore/delivery" class="sc-dXfzlN gKUxko">Coimbatore</a><a href="https://www.zomato.com/mangalore/delivery" class="sc-dXfzlN gKUxko">Mangalore</a><a href="https://www.zomato.com/vadodara/delivery" class="sc-dXfzlN gKUxko">Vadodara</a><a href="https://www.zomato.com/nagpur/delivery" class="sc-dXfzlN gKUxko">Nagpur</a><a href="https://www.zomato.com/agra/delivery" class="sc-dXfzlN gKUxko">Agra</a><a href="https://www.zomato.com/dehradun/delivery" class="sc-dXfzlN gKUxko">Dehradun</a><a href="https://www.zomato.com/mysore/delivery" class="sc-dXfzlN gKUxko">Mysore</a><a href="https://www.zomato.com/puducherry/delivery" class="sc-dXfzlN gKUxko">Puducherry</a><a href="https://www.zomato.com/surat/delivery" class="sc-dXfzlN gKUxko">Surat</a><a href="https://www.zomato.com/varanasi/delivery" class="sc-dXfzlN gKUxko">Varanasi</a><a href="https://www.zomato.com/patna/delivery" class="sc-dXfzlN gKUxko">Patna</a><a href="https://www.zomato.com/udaipur/delivery" class="sc-dXfzlN gKUxko">Udaipur</a><a href="https://www.zomato.com/srinagar/delivery" class="sc-dXfzlN gKUxko">Srinagar</a><a href="https://www.zomato.com/khajuraho/delivery" class="sc-dXfzlN gKUxko">Khajuraho</a><a href="https://www.zomato.com/neemrana/delivery" class="sc-dXfzlN gKUxko">Neemrana</a><a href="https://www.zomato.com/cuttack/delivery" class="sc-dXfzlN gKUxko">Cuttack</a><a href="https://www.zomato.com/trivandrum/delivery" class="sc-dXfzlN gKUxko">Trivandrum</a><a href="https://www.zomato.com/haridwar/delivery" class="sc-dXfzlN gKUxko">Haridwar</a><a href="https://www.zomato.com/leh/delivery" class="sc-dXfzlN gKUxko">Leh</a><a href="https://www.zomato.com/pushkar/delivery" class="sc-dXfzlN gKUxko">Pushkar</a><a href="https://www.zomato.com/rajkot/delivery" class="sc-dXfzlN gKUxko">Rajkot</a><a href="https://www.zomato.com/madurai/delivery" class="sc-dXfzlN gKUxko">Madurai</a><a href="https://www.zomato.com/kozhikode/delivery" class="sc-dXfzlN gKUxko">Kozhikode</a><a href="https://www.zomato.com/alappuzha/delivery" class="sc-dXfzlN gKUxko">Alappuzha</a><a href="https://www.zomato.com/thrissur/delivery" class="sc-dXfzlN gKUxko">Thrissur</a><a href="https://www.zomato.com/manipal/delivery" class="sc-dXfzlN gKUxko">Manipal</a><a href="https://www.zomato.com/vijayawada/delivery" class="sc-dXfzlN gKUxko">Vijayawada</a><a href="https://www.zomato.com/jodhpur/delivery" class="sc-dXfzlN gKUxko">Jodhpur</a><a href="https://www.zomato.com/kota/delivery" class="sc-dXfzlN gKUxko">Kota</a><a href="https://www.zomato.com/ajmer/delivery" class="sc-dXfzlN gKUxko">Ajmer</a><a href="https://www.zomato.com/mussoorie/delivery" class="sc-dXfzlN gKUxko">Mussoorie</a><a href="https://www.zomato.com/rishikesh/delivery" class="sc-dXfzlN gKUxko">Rishikesh</a><a href="https://www.zomato.com/jalandhar/delivery" class="sc-dXfzlN gKUxko">Jalandhar</a><a href="https://www.zomato.com/jammu/delivery" class="sc-dXfzlN gKUxko">Jammu</a><a href="https://www.zomato.com/manali/delivery" class="sc-dXfzlN gKUxko">Manali</a><div class="sc-iIHjhz bnXfGy"><a href="https://www.zomato.com/delivery-cities" class="sc-jHZirH bJnFan">All delivery cities</a></div></div></section></div></section></div></div></div><footer class="sc-elhb8j-21 fgKeBV"><div class="sc-elhb8j-22 bGfHbP"><section class="sc-elhb8j-2 gzcbGg"><img src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png?fit=around|198:42&amp;crop=198:42;*,*" alt="Zomato logo" class="sc-elhb8j-1 ixsoFB"/><div class="sc-elhb8j-12 cvsUXu"></div><section class="sc-elhb8j-10 jPUyxY"><div class="sc-18n4g8v-0 gAhmYY sc-10ugfab-1 gJYvaX"><div tabindex="0" aria-labelledby="country-dropdown-label" class="sc-10ugfab-9 ceanFw"><label class="sc-10ugfab-2 jzrEzn">Select Country</label><span class="sc-10ugfab-5 erXsJY"></span><div tabindex="-1" aria-activedescendant="country-active_cm876mvgudlxw2c8v0i5nhwby" class="sc-10ugfab-6 oEoRv"><div class="sc-bke1zw-0 fIuLDK sc-10ugfab-0 iYiNyG"><div class="sc-bke1zw-1 kvUFhz"><div id="country-active_cm876mvgudlxw2c8v0i5nhwby" class="sc-10ugfab-4 fYFzFe"><span width="45" class="sc-13tn0rn-0 DHMyd"></span><span class="sc-10ugfab-3 dirNi">India</span></div></div><div class="sc-bke1zw-1 jfiZBb"><div id="country-uae_cm876mvgudlxw2c8v0i5nhwby" class="sc-10ugfab-4 hVtcrz"><span width="45" class="sc-13tn0rn-0 ehBfFg"></span><span class="sc-10ugfab-3 dirNi">UAE</span></div></div></div></div><div class="sc-10ugfab-7 epQgJy"><span width="45" class="sc-13tn0rn-0 mtUrN"></span><span class="sc-10ugfab-8 fyCgPB">India</span><i class="sc-rbbb40-1 iFnyeo" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div></div></div><div class="sc-elhb8j-12 cDEyWL"></div><div class="sc-18n4g8v-0 gAhmYY"><div tabindex="0" aria-labelledby="language-dropdown-label" class="sc-zqptxt-7 iFttwN"><label id="language-dropdown-label" class="sc-zqptxt-1 jNqlkW">Select Language</label><div tabindex="-1" aria-activedescendant="lang-active_cm876mvgvdlxy2c8vgeela96e" class="sc-zqptxt-4 bvogHW"><span class="sc-zqptxt-3 iWeJHV"></span><section class="sc-zqptxt-2 kVcJCg"></section></div><div class="sc-zqptxt-5 dOFWhj"><i class="sc-rbbb40-1 iFnyeo" size="18" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="18" height="18" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 iwHbVQ"><title>language-globe</title><path d="M10 0c-5.523 0-10 4.477-10 10s4.477 10 10 10c5.523 0 10-4.477 10-10v0c-0.011-5.518-4.482-9.989-9.999-10h-0.001zM17.14 6.18h-3c-0.264-1.393-0.63-2.62-1.107-3.791l0.047 0.131c1.755 0.733 3.161 2.010 4.039 3.618l0.021 0.042zM18.1 10c-0.002 0.676-0.090 1.33-0.252 1.954l0.012-0.054h-3.44c0.059-0.57 0.092-1.231 0.092-1.9s-0.034-1.33-0.099-1.982l0.007 0.082h3.44c0.15 0.57 0.238 1.224 0.24 1.899v0.001zM1.9 10c0.002-0.676 0.090-1.33 0.252-1.954l-0.012 0.054h3.46c-0.059 0.57-0.092 1.231-0.092 1.9s0.034 1.33 0.099 1.982l-0.007-0.082h-3.46c-0.15-0.57-0.238-1.224-0.24-1.899v-0.001zM7.48 8.1h5.040c0.063 0.57 0.099 1.231 0.099 1.9s-0.036 1.33-0.107 1.981l0.007-0.081h-5.040c-0.063-0.57-0.099-1.231-0.099-1.9s0.036-1.33 0.107-1.981l-0.007 0.081zM10.76 1.9c0.603 1.228 1.106 2.657 1.436 4.152l0.024 0.128h-4.44c0.354-1.623 0.857-3.052 1.51-4.395l-0.050 0.115c0.24 0 0.5 0 0.76 0s0.48 0 0.76 0zM6.96 2.48c-0.445 1.051-0.825 2.291-1.079 3.576l-0.021 0.124h-3c0.899-1.65 2.305-2.927 4.007-3.64l0.053-0.020zM2.86 13.8h3c0.262 1.4 0.629 2.634 1.107 3.811l-0.047-0.131c-1.757-0.738-3.165-2.022-4.039-3.637l-0.021-0.043zM9.24 18.1c-0.605-1.234-1.108-2.67-1.437-4.172l-0.023-0.128h4.44c-0.352 1.63-0.855 3.066-1.51 4.415l0.050-0.115c-0.24 0-0.5 0-0.76 0s-0.48 0-0.76 0zM13.040 17.52c0.431-1.046 0.798-2.28 1.041-3.558l0.019-0.122h3.040c-0.902 1.642-2.308 2.912-4.006 3.62l-0.054 0.020z"></path></svg></i><span class="sc-zqptxt-6 iMPEip">English</span><i class="sc-rbbb40-1 iFnyeo" size="15" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="15" height="15" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 jKmKoK"><title>chevron-down</title><path d="M4.48 7.38c0.28-0.28 0.76-0.28 1.060 0l4.46 4.48 4.48-4.48c0.28-0.28 0.76-0.28 1.060 0s0.28 0.78 0 1.060l-5 5c-0.3 0.3-0.78 0.3-1.060 0l-5-5c-0.3-0.28-0.3-0.76 0-1.060z"></path></svg></i></div></div></div></section></section><div class="sc-bke1zw-0 fIuLDK sc-elhb8j-23 btDUHh"><div name="About Zomato" class="sc-bke1zw-1 sc-elhb8j-20 llOEHd"><h6 class="sc-elhb8j-18 gQXbfm">About Zomato</h6><nav><a href="https://www.zomato.com/who-we-are" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Who We Are</p></a><a href="https://blog.zomato.com/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Blog</p></a><a href="https://www.zomato.com/careers" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Work With Us</p></a><a href="https://www.zomato.com/investor-relations" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Investor Relations</p></a><a href="https://www.zomato.com/report-fraud" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Report Fraud</p></a><a href="https://blog.zomato.com/press-kit" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Press Kit</p></a><a href="https://www.zomato.com/contact" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Contact Us</p></a></nav></div><div name="Zomaverse" class="sc-bke1zw-1 sc-elhb8j-20 jWound"><h6 class="sc-elhb8j-18 gQXbfm">Zomaverse</h6><nav><a href="https://www.zomato.com/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Zomato</p></a><a href="https://www.blinkit.com/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Blinkit</p></a><a href="https://www.district.in/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">District</p></a><a href="https://www.feedingindia.org/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Feeding India</p></a><a href="https://www.hyperpure.com/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Hyperpure</p></a><a href="https://www.zomato.com/live" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Zomato Live</p></a><a href="https://www.zomato.com/zomaland" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Zomaland</p></a><a href="https://www.weatherunion.com/" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Weather Union</p></a></nav></div><div class="sc-bke1zw-1 sc-elhb8j-20 dLsZWW"><div class="sc-elhb8j-9 gfYSur"><h6 class="sc-elhb8j-18 gQXbfm">For Restaurants</h6><nav><a href="https://www.zomato.com/partner_with_us" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Partner With Us</p></a><a href="https://play.google.com/store/apps/details?id=com.application.services.partner&amp;hl=en_IN&amp;gl=US" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Apps For You</p></a></nav></div></div><div name="Learn More" class="sc-bke1zw-1 sc-elhb8j-20 jYhtHx"><h6 class="sc-elhb8j-18 gQXbfm">Learn More</h6><nav><a href="https://www.zomato.com/privacy" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Privacy</p></a><a href="https://www.zomato.com/security" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Security</p></a><a href="https://www.zomato.com/conditions" class="sc-elhb8j-17 iFsnCv"><p class="sc-elhb8j-16 dxcfRo">Terms</p></a></nav></div><div name="Social links" class="sc-bke1zw-1 sc-elhb8j-14 HEzmM"><h6 class="sc-elhb8j-8 fvpjYk">Social links</h6><div class="sc-elhb8j-15 RAjVl"><a href="https://in.linkedin.com/company/zomato" target="_blank" class="sc-elhb8j-17 iDzUMo"><div class="sc-elhb8j-7 jBOGYb"><i class="sc-rbbb40-1 iFnyeo" size="22" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="22" height="22" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 cvuzKA"><path d="M0 10C0 4.5 4.5 0 10 0C15.5 0 20 4.5 20 10C20 15.5 15.5 20 10 20C4.5 20 0 15.5 0 10ZM7.0625 8.375H4.75V15.4375H7.0625V8.375ZM7.25 6.1875C7.25 5.5 6.75 5 5.9375 5C5.125 5 4.5625 5.5 4.5625 6.1875C4.5625 6.875 5.0625 7.4375 5.875 7.4375C6.6875 7.4375 7.25 6.875 7.25 6.1875ZM15.5 11.375C15.5 9.1875 14.3125 8.1875 12.8125 8.1875C11.5625 8.1875 11 8.875 10.6875 9.375V8.375H8.375C8.375 9.0625 8.375 15.4375 8.375 15.4375H10.6875V11.5C10.6875 11.3125 10.6875 11.0625 10.75 10.9375C10.9375 10.5 11.3125 10.0625 11.9375 10.0625C12.75 10.0625 13.125 10.6875 13.125 11.6875V15.4375H15.4375C15.5 15.4375 15.5 11.375 15.5 11.375Z"></path></svg></i></div></a><a href="https://www.instagram.com/zomato/" target="_blank" class="sc-elhb8j-17 iDzUMo"><div class="sc-elhb8j-7 jBOGYb"><i class="sc-rbbb40-1 iFnyeo" size="22" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="22" height="22" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 cvuzKA"><path d="M0 10C0 4.5 4.5 0 10 0C15.5 0 20 4.5 20 10C20 15.5 15.5 20 10 20C4.5 20 0 15.5 0 10ZM10.1875 5C8.8125 5 8.625 5 8.0625 5C7.5 5.0625 7.125 5.125 6.8125 5.25C6.5 5.375 6.1875 5.5625 5.875 5.875C5.5625 6.1875 5.375 6.4375 5.25 6.8125C5.125 7.125 5 7.5 5 8.0625C5 8.625 5 8.75 5 10.1875C5 11.625 5 11.8125 5.0625 12.375C5.0625 12.9375 5.1875 13.3125 5.3125 13.625C5.4375 13.9375 5.625 14.25 5.9375 14.5625C6.1875 14.8125 6.5 15 6.875 15.1875C7.1875 15.3125 7.5625 15.4375 8.125 15.4375C8.6875 15.4375 8.875 15.5 10.25 15.5C11.6875 15.5 11.875 15.5 12.4375 15.4375C13 15.375 13.375 15.3125 13.6875 15.1875C14 15.0625 14.3125 14.875 14.625 14.5625C14.9375 14.25 15.125 14 15.25 13.625C15.375 13.3125 15.5 12.875 15.5 12.375C15.5625 11.8125 15.5625 11.625 15.5625 10.1875C15.5625 8.75 15.5625 8.625 15.5 8.0625C15.5 7.5 15.375 7.125 15.25 6.8125C15.125 6.4375 14.9375 6.1875 14.625 5.875C14.375 5.625 14.0625 5.4375 13.6875 5.25C13.375 5.125 12.9375 5.0625 12.4375 5C11.8125 5 11.625 5 10.1875 5ZM9.75 5.9375C9.875 5.9375 10.0625 5.9375 10.1875 5.9375C11.5625 5.9375 11.75 5.9375 12.3125 5.9375C12.8125 5.9375 13.0625 6.0625 13.25 6.125C13.5 6.25 13.6875 6.375 13.875 6.5C14.0625 6.625 14.1875 6.8125 14.25 7.125C14.3125 7.3125 14.4375 7.5625 14.4375 8.0625C14.5 8.625 14.5 8.8125 14.5 10.1875C14.5 11.5625 14.5 11.75 14.4375 12.3125C14.4375 12.8125 14.3125 13.125 14.25 13.3125C14.1875 13.5625 14.0625 13.6875 13.875 13.9375C13.6875 14.125 13.5 14.1875 13.25 14.3125C13.0625 14.375 12.8125 14.5 12.3125 14.5C11.75 14.5 11.5625 14.5625 10.1875 14.5625C8.8125 14.5625 8.625 14.5625 8.0625 14.5C7.5625 14.5 7.3125 14.375 7.125 14.3125C6.875 14.1875 6.6875 14.125 6.5 13.9375C6.3125 13.75 6.1875 13.5625 6.125 13.3125C6.0625 13.125 6 12.875 5.9375 12.3125C5.9375 11.75 5.9375 11.625 5.9375 10.1875C5.9375 8.8125 5.9375 8.625 5.9375 8.0625C6 7.5625 6.0625 7.3125 6.125 7.125C6.25 6.875 6.375 6.6875 6.5 6.5C6.625 6.3125 6.875 6.1875 7.125 6.125C7.3125 6.0625 7.5625 5.9375 8.0625 5.9375C8.5625 5.9375 8.75 5.9375 9.75 5.9375ZM13 6.8125C12.6875 6.8125 12.375 7.0625 12.375 7.4375C12.375 7.8125 12.625 8.0625 13 8.0625C13.375 8.0625 13.625 7.8125 13.625 7.4375C13.625 7.0625 13.3125 6.8125 13 6.8125ZM10.1875 7.5C8.75 7.5 7.5 8.6875 7.5 10.1875C7.5 11.6875 8.6875 12.875 10.1875 12.875C11.6875 12.875 12.875 11.6875 12.875 10.1875C12.875 8.6875 11.6875 7.5 10.1875 7.5ZM10.1875 8.4375C11.125 8.4375 11.9375 9.1875 11.9375 10.1875C11.9375 11.1875 11.1875 11.9375 10.1875 11.9375C9.25 11.9375 8.4375 11.1875 8.4375 10.1875C8.4375 9.1875 9.25 8.4375 10.1875 8.4375Z"></path></svg></i></div></a><a href="https://twitter.com/zomato" target="_blank" class="sc-elhb8j-17 iDzUMo"><div class="sc-elhb8j-7 jBOGYb"><i class="sc-rbbb40-1 iFnyeo" size="22" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="22" height="22" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 cvuzKA"><title>twitter-circle</title><svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512"><path d="M256 0c141.385 0 256 114.615 256 256S397.385 512 256 512 0 397.385 0 256 114.615 0 256 0z"></path><path fill="#fff" fill-rule="nonzero" d="M318.64 157.549h33.401l-72.973 83.407 85.85 113.495h-67.222l-52.647-68.836-60.242 68.836h-33.423l78.052-89.212-82.354-107.69h68.924l47.59 62.917 55.044-62.917zm-11.724 176.908h18.51L205.95 176.493h-19.86l120.826 157.964z"></path></svg></svg></i></div></a><a href="https://www.youtube.com/zomato" target="_blank" class="sc-elhb8j-17 iDzUMo"><div class="sc-elhb8j-7 jBOGYb"><i class="sc-rbbb40-1 iFnyeo" size="22" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="22" height="22" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 cvuzKA"><path d="M0 10C0 4.5 4.5 0 10 0C15.5 0 20 4.5 20 10C20 15.5 15.5 20 10 20C4.5 20 0 15.5 0 10ZM15.1875 7.4375C15.0625 7 14.6875 6.625 14.25 6.5C13.4375 6.25 10.1875 6.25 10.1875 6.25C10.1875 6.25 6.9375 6.25 6.125 6.5C5.6875 6.625 5.3125 7 5.1875 7.4375C5 8.25 5 10 5 10C5 10 5 11.75 5.25 12.5625C5.375 13 5.75 13.375 6.1875 13.5C7 13.75 10.25 13.75 10.25 13.75C10.25 13.75 13.5 13.75 14.3125 13.5C14.75 13.375 15.125 13 15.25 12.5625C15.5 11.75 15.5 10 15.5 10C15.5 10 15.4375 8.25 15.1875 7.4375ZM9.25 11.75V8.5L11.875 10.125L9.25 11.75Z"></path></svg></i></div></a><a href="https://www.facebook.com/zomato" target="_blank" class="sc-elhb8j-17 iDzUMo"><div class="sc-elhb8j-7 jBOGYb"><i class="sc-rbbb40-1 iFnyeo" size="22" color="#1C1C1C"><svg xmlns="http://www.w3.org/2000/svg" fill="#1C1C1C" width="22" height="22" viewBox="0 0 20 20" aria-labelledby="icon-svg-title- icon-svg-desc-" role="img" class="sc-rbbb40-0 cvuzKA"><path d="M0 10C0 4.5 4.5 0 10 0C15.5 0 20 4.5 20 10C20 15.5 15.5 20 10 20C4.5 20 0 15.5 0 10ZM10.75 15.4375V10.1875H12.1875L12.375 8.375H10.75V7.5C10.75 7.0625 10.8125 6.8125 11.5 6.8125H12.375V5H10.9375C9.1875 5 8.625 5.875 8.625 7.3125V8.375H7.5V10.1875H8.5625V15.4375C8.5625 15.4375 10.75 15.4375 10.75 15.4375Z"></path></svg></i></div></a></div><div class="sc-elhb8j-12 cvsUXu"></div><div class="sc-elhb8j-12 cvsUXu"></div><section class="sc-elhb8j-11 eHuOnX"><a href="https://link.zomato.com/xqzv/downloadZomatoIos" target="_blank" aria-label="app store link" class="sc-16nfz79-0 blTnzu"><div height="4rem" width="13.7rem" class="sc-s1isp7-1 fxuOHl"><div src="" alt="image" class="sc-s1isp7-3 dqJnoA"></div><img alt="image" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div></a><div class="sc-elhb8j-12 cvsUXu"></div><a href="https://link.zomato.com/xqzv/downloadZomatoAndroid" target="_blank" aria-label="app store link" class="sc-16nfz79-0 blTnzu"><div height="4rem" width="13.7rem" class="sc-s1isp7-1 fxuOHl"><div src="" alt="image" class="sc-s1isp7-3 dqJnoA"></div><img alt="image" src="" loading="lazy" class="sc-s1isp7-5 cqxheR"/></div></a></section></div></div><hr class="sc-elhb8j-13 bskCAo"/><p class="sc-elhb8j-5 kBllqA">By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2025 © Zomato™ Ltd. All rights reserved.</p></div></footer><div class="sc-gBSKhj jWjfGz"></div></div></div>
-        <script>
-          window.__PRELOADED_STATE__ = JSON.parse("{\"pages\":{\"current\":{\"name\":\"city\",\"pageTitle\":\"Zomato\",\"pageDescription\":\"India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.\",\"cityId\":6,\"pageUrl\":\"/\",\"ogTitle\":\"Zomato\",\"ogDescription\":\"India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.\",\"ogUrl\":\"https://b.zmtcdn.com/images/square_zomato_logo_new.svg\",\"isMobile\":0,\"isOAuthV2Enabled\":false,\"useAuthSdkForLogin\":true,\"useAuthSdkForLogout\":false,\"gaPageType\":\"Home\"},\"contact\":{\"contactPageBannerData\":[],\"snippetData\":[],\"formData\":{},\"buisinessEnquiriesData\":{}},\"gift\":{\"crystalData\":{}},\"goodbye\":{},\"restaurant\":{},\"awards\":{\"cities\":[],\"cityWinners\":[],\"currentCity\":{},\"loader\":false},\"user\":{},\"userSettings\":{},\"sauceBlog\":{},\"Kitchen\":{\"kitchenApiKey\":\"\",\"defaultLat\":0,\"defaultLng\":0},\"celebrations\":{\"setFormRequirement\":false},\"cdng\":{},\"postOrder\":{\"orderData\":{},\"orderSupportData\":{},\"deliveryAddressDetails\":{},\"riderDetails\":{\"riderName\":\"\",\"riderPhone\":\"\"},\"restaurantDetails\":{},\"creatorDetails\":{},\"deliveryStatus\":false,\"deliveryMessage\":\"\",\"deliveryLabel\":\"\",\"status\":\"\",\"deliveryTimeStr\":\"\",\"pollingStatus\":0,\"orderCreationTime\":0,\"orderDeliveryTime\":0,\"currentStatus\":\"\",\"deliveryMode\":\"\",\"crystalData\":{\"items\":{}}},\"zomaland\":{\"currentCityId\":0,\"pageType\":\"HOME\",\"userData\":{\"tickets\":[]},\"uiStates\":{\"ticketsModalVisible\":false,\"showLoader\":false,\"ticketView\":\"FULL_TICKET\",\"galleryIndex\":0,\"showTicket\":false},\"cityLevelData\":{},\"zomalandPages\":{},\"zomalandDeepLink\":{\"link\":[]}},\"orderOnline\":{\"paymentDetails\":{\"payment_method_type\":\"\",\"isZcreditsSelected\":false},\"paymentState\":{\"checkoutStatus\":\"IDLE\",\"errorState\":{\"code\":0,\"errorMessage\":\"\"}},\"kitValidationStatus\":false,\"makePaymentParams\":null,\"isPlaceOrderSuccess\":false,\"sectionVerifyPhone\":{\"allCountryCode\":[],\"selectedCountryCode\":{}},\"sectionAutoApplyPromoCodes\":{\"autoApplyPromoCodes\":[]},\"trackingData\":{\"googleAdsPayload\":{\"homePageLanding\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/xaWRCO6z-uwBENLpkMkD\"}}}},\"trackingDataLogin\":{\"googleAdsPayload\":{\"mobileProfileIconClick\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/gEmzCLCZwfABENLpkMkD\"}},\"loginClick\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/MOW8CIO6-uwBENLpkMkD\"}},\"signupClick\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/M4gKCJi9-uwBENLpkMkD\"}},\"signupSuccess\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/NWiMCPrDne0BENLpkMkD\"}}}}},\"deliverycities\":{\"allO2Cities\":[]},\"zomatoForWork\":{},\"pageNotFound\":{},\"collections\":{},\"collectionDetails\":{},\"appDownload\":{},\"contests\":{},\"search\":{},\"singleJob\":{},\"goldSubscriptionAgreement\":{\"pageTitle\":\"\"},\"zoomBackgrounds\":{},\"country\":{},\"tablePostBooking\":{},\"city\":{\"6\":{\"sections\":{\"SECTION_HEADER\":{\"showScanner\":false,\"scannerPageUrl\":\"/scanner\"},\"SECTION_QUICK_SEARCH\":{\"items\":[{\"title\":\"Order Online\",\"img\":\"https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp\",\"url\":\"https://www.zomato.com/hyderabad/order-food-online?delivery_subzone=9419\",\"subtitle\":\"Stay home and order to your doorstep\",\"categoryType\":\"delivery\"},{\"title\":\"Dining\",\"img\":\"https://b.zmtcdn.com/webFrontend/d026b357feb0d63c997549f6398da8cc1647364915.jpeg?output-format=webp\",\"url\":\"https://www.zomato.com/hyderabad/dine-out\",\"subtitle\":\"View the city's favourite dining venues\",\"categoryType\":\"dineout\"},{\"title\":\"Live Events\",\"img\":\"https://b.zmtcdn.com/data/o2_assets/371de657644f1b5818fcb5d83387c8c91722851940.png?output-format=webp\",\"url\":\"https://www.zomato.com/live/city/hyderabad/events\",\"subtitle\":\"Discover India’s best events & concerts\",\"categoryType\":\"zlive\"}],\"has_zomaland\":false},\"SECTION_COLLECTIONS\":{\"title\":\"Collections\",\"subtitle\":\"Explore curated lists of top restaurants, cafes, pubs, and bars in Hyderabad, based on trends\",\"seeMoreText\":\"All collections in Hyderabad\",\"seeMoreUrl\":\"/hyderabad/collections\",\"collections\":{\"entities\":[{\"entity_type\":\"COLLECTIONS\",\"entity_ids\":[306919,13,142,306950]}]}},\"SECTION_POPULAR_LOCATIONS\":{\"title\":\"Popular localities in and around \\u003cspan class=\\\"city-name\\\">Hyderabad\\u003c/span>\",\"cityName\":\"Hyderabad\",\"subtitle\":\"Explore restaurants, bars, and cafés by locality\",\"showZone\":false,\"locations\":[{\"subzone_id\":\"7022\",\"name\":\"Jubilee Hills\",\"count\":\"449 places\",\"url\":\"https://www.zomato.com/hyderabad/jubilee-hills-restaurants\",\"linkAltTitle\":\"Restaurants in Jubilee Hills\"},{\"subzone_id\":\"7013\",\"name\":\"Gachibowli\",\"count\":\"848 places\",\"url\":\"https://www.zomato.com/hyderabad/gachibowli-restaurants\",\"linkAltTitle\":\"Restaurants in Gachibowli\"},{\"subzone_id\":\"7005\",\"name\":\"Banjara Hills\",\"count\":\"446 places\",\"url\":\"https://www.zomato.com/hyderabad/banjara-hills-restaurants\",\"linkAltTitle\":\"Restaurants in Banjara Hills\"},{\"subzone_id\":\"7017\",\"name\":\"Hitech City\",\"count\":\"422 places\",\"url\":\"https://www.zomato.com/hyderabad/hitech-city-restaurants\",\"linkAltTitle\":\"Restaurants in Hitech City\"},{\"subzone_id\":\"7034\",\"name\":\"Madhapur\",\"count\":\"920 places\",\"url\":\"https://www.zomato.com/hyderabad/madhapur-restaurants\",\"linkAltTitle\":\"Restaurants in Madhapur\"},{\"subzone_id\":\"7029\",\"name\":\"Kondapur\",\"count\":\"656 places\",\"url\":\"https://www.zomato.com/hyderabad/kondapur-restaurants\",\"linkAltTitle\":\"Restaurants in Kondapur\"},{\"subzone_id\":\"7032\",\"name\":\"Kukatpally\",\"count\":\"1560 places\",\"url\":\"https://www.zomato.com/hyderabad/kukatpally-restaurants\",\"linkAltTitle\":\"Restaurants in Kukatpally\"},{\"subzone_id\":\"7007\",\"name\":\"Begumpet\",\"count\":\"168 places\",\"url\":\"https://www.zomato.com/hyderabad/begumpet-restaurants\",\"linkAltTitle\":\"Restaurants in Begumpet\"},{\"subzone_id\":\"7016\",\"name\":\"Himayath Nagar\",\"count\":\"239 places\",\"url\":\"https://www.zomato.com/hyderabad/himayath-nagar-restaurants\",\"linkAltTitle\":\"Restaurants in Himayath Nagar\"},{\"subzone_id\":\"7060\",\"name\":\"Tolichowki\",\"count\":\"311 places\",\"url\":\"https://www.zomato.com/hyderabad/tolichowki-restaurants\",\"linkAltTitle\":\"Restaurants in Tolichowki\"},{\"subzone_id\":\"7002\",\"name\":\"Ameerpet\",\"count\":\"358 places\",\"url\":\"https://www.zomato.com/hyderabad/ameerpet-restaurants\",\"linkAltTitle\":\"Restaurants in Ameerpet\"},{\"subzone_id\":\"7057\",\"name\":\"Somajiguda\",\"count\":\"72 places\",\"url\":\"https://www.zomato.com/hyderabad/somajiguda-restaurants\",\"linkAltTitle\":\"Restaurants in Somajiguda\"},{\"subzone_id\":\"7132\",\"name\":\"Film Nagar\",\"count\":\"114 places\",\"url\":\"https://www.zomato.com/hyderabad/film-nagar-restaurants\",\"linkAltTitle\":\"Restaurants in Film Nagar\"},{\"subzone_id\":\"7110\",\"name\":\"Paradise Circle\",\"count\":\"35 places\",\"url\":\"https://www.zomato.com/hyderabad/paradise-circle-restaurants\",\"linkAltTitle\":\"Restaurants in Paradise Circle\"},{\"subzone_id\":\"7119\",\"name\":\"Sainikpuri\",\"count\":\"294 places\",\"url\":\"https://www.zomato.com/hyderabad/sainikpuri-restaurants\",\"linkAltTitle\":\"Restaurants in Sainikpuri\"},{\"subzone_id\":\"7045\",\"name\":\"Necklace Road\",\"count\":\"38 places\",\"url\":\"https://www.zomato.com/hyderabad/necklace-road-restaurants\",\"linkAltTitle\":\"Restaurants in Necklace Road\"},{\"subzone_id\":\"7030\",\"name\":\"Kothapet\",\"count\":\"209 places\",\"url\":\"https://www.zomato.com/hyderabad/kothapet-restaurants\",\"linkAltTitle\":\"Restaurants in Kothapet\"},{\"subzone_id\":\"7117\",\"name\":\"S D Road\",\"count\":\"88 places\",\"url\":\"https://www.zomato.com/hyderabad/sd-road-restaurants\",\"linkAltTitle\":\"Restaurants in S D Road\"},{\"subzone_id\":\"7001\",\"name\":\"Abids\",\"count\":\"133 places\",\"url\":\"https://www.zomato.com/hyderabad/abids-restaurants\",\"linkAltTitle\":\"Restaurants in Abids\"},{\"subzone_id\":\"7028\",\"name\":\"Kompally\",\"count\":\"330 places\",\"url\":\"https://www.zomato.com/hyderabad/kompally-restaurants\",\"linkAltTitle\":\"Restaurants in Kompally\"},{\"subzone_id\":\"7035\",\"name\":\"Masab Tank\",\"count\":\"121 places\",\"url\":\"https://www.zomato.com/hyderabad/masab-tank-restaurants\",\"linkAltTitle\":\"Restaurants in Masab Tank\"},{\"subzone_id\":\"7128\",\"name\":\"Gandipet\",\"count\":\"304 places\",\"url\":\"https://www.zomato.com/hyderabad/gandipet-restaurants\",\"linkAltTitle\":\"Restaurants in Gandipet\"},{\"subzone_id\":\"7136\",\"name\":\"L B Nagar\",\"count\":\"364 places\",\"url\":\"https://www.zomato.com/hyderabad/lb-nagar-restaurants\",\"linkAltTitle\":\"Restaurants in L B Nagar\"},{\"subzone_id\":\"7038\",\"name\":\"Miyapur\",\"count\":\"387 places\",\"url\":\"https://www.zomato.com/hyderabad/miyapur-restaurants\",\"linkAltTitle\":\"Restaurants in Miyapur\"},{\"subzone_id\":\"7106\",\"name\":\"Karkhana\",\"count\":\"94 places\",\"url\":\"https://www.zomato.com/hyderabad/karkhana-restaurants\",\"linkAltTitle\":\"Restaurants in Karkhana\"},{\"subzone_id\":\"7006\",\"name\":\"Basheer Bagh\",\"count\":\"58 places\",\"url\":\"https://www.zomato.com/hyderabad/basheer-bagh-restaurants\",\"linkAltTitle\":\"Restaurants in Basheer Bagh\"},{\"subzone_id\":\"7048\",\"name\":\"Panjagutta\",\"count\":\"134 places\",\"url\":\"https://www.zomato.com/hyderabad/panjagutta-restaurants\",\"linkAltTitle\":\"Restaurants in Panjagutta\"},{\"subzone_id\":\"7101\",\"name\":\"A S Rao Nagar\",\"count\":\"211 places\",\"url\":\"https://www.zomato.com/hyderabad/as-rao-nagar-restaurants\",\"linkAltTitle\":\"Restaurants in A S Rao Nagar\"},{\"subzone_id\":\"7150\",\"name\":\"Uppal\",\"count\":\"350 places\",\"url\":\"https://www.zomato.com/hyderabad/uppal-restaurants\",\"linkAltTitle\":\"Restaurants in Uppal\"}],\"seeMoreText\":\"see more\",\"seeLessText\":\"see less\"},\"SECTION_CITY_MAGIC_LINKS\":{\"heading\":\"Explore options near me\",\"nearMeData\":{\"cuisinesNearMe\":[{\"name\":\"Bakery near me\",\"url\":\"https://www.zomato.com/bakery-restaurants-near-me\"},{\"name\":\"Beverages near me\",\"url\":\"https://www.zomato.com/beverages-restaurants-near-me\"},{\"name\":\"Biryani near me\",\"url\":\"https://www.zomato.com/biryani-restaurants-near-me\"},{\"name\":\"Burger near me\",\"url\":\"https://www.zomato.com/burger-restaurants-near-me\"},{\"name\":\"Chinese near me\",\"url\":\"https://www.zomato.com/chinese-restaurants-near-me\"},{\"name\":\"Coffee near me\",\"url\":\"https://www.zomato.com/coffee-restaurants-near-me\"},{\"name\":\"Desserts near me\",\"url\":\"https://www.zomato.com/desserts-restaurants-near-me\"},{\"name\":\"Ice Cream near me\",\"url\":\"https://www.zomato.com/ice-cream-restaurants-near-me\"},{\"name\":\"Kebab near me\",\"url\":\"https://www.zomato.com/kebab-restaurants-near-me\"},{\"name\":\"Mughlai near me\",\"url\":\"https://www.zomato.com/mughlai-restaurants-near-me\"},{\"name\":\"North Indian near me\",\"url\":\"https://www.zomato.com/north-indian-restaurants-near-me\"},{\"name\":\"Pizza near me\",\"url\":\"https://www.zomato.com/pizza-restaurants-near-me\"},{\"name\":\"Sandwich near me\",\"url\":\"https://www.zomato.com/sandwich-restaurants-near-me\"},{\"name\":\"Seafood near me\",\"url\":\"https://www.zomato.com/seafood-restaurants-near-me\"},{\"name\":\"Shake near me\",\"url\":\"https://www.zomato.com/\"},{\"name\":\"Shawarma near me\",\"url\":\"https://www.zomato.com/shawarma-restaurants-near-me\"},{\"name\":\"Sichuan near me\",\"url\":\"https://www.zomato.com/sichuan-restaurants-near-me\"},{\"name\":\"South Indian near me\",\"url\":\"https://www.zomato.com/south-indian-restaurants-near-me\"},{\"name\":\"Street near me\",\"url\":\"https://www.zomato.com/street-food-restaurants-near-me\"},{\"name\":\"Tea near me\",\"url\":\"https://www.zomato.com/tea-restaurants-near-me\"}],\"cuisinesNearMeTitle\":\"Popular cuisines near me\",\"restaurantsNearMe\":[{\"name\":\"Bakeries near me\",\"url\":\"https://www.zomato.com/bakeries-near-me\"},{\"name\":\"Bars near me\",\"url\":\"https://www.zomato.com/bars-near-me\"},{\"name\":\"Beverage Shops near me\",\"url\":\"https://www.zomato.com/beverage-shops-near-me\"},{\"name\":\"Bhojanalya near me\",\"url\":\"https://www.zomato.com/bhojanalya-near-me\"},{\"name\":\"Cafés near me\",\"url\":\"https://www.zomato.com/cafes-near-me\"},{\"name\":\"Casual Dining near me\",\"url\":\"https://www.zomato.com/casual-dining-near-me\"},{\"name\":\"Clubs near me\",\"url\":\"https://www.zomato.com/clubs-near-me\"},{\"name\":\"Dessert Parlors near me\",\"url\":\"https://www.zomato.com/dessert-parlor-near-me\"},{\"name\":\"Dhabas near me\",\"url\":\"https://www.zomato.com/dhabas-near-me\"},{\"name\":\"Fine Dining near me\",\"url\":\"https://www.zomato.com/fine-dining-near-me\"},{\"name\":\"Food Courts near me\",\"url\":\"https://www.zomato.com/food-courts-near-me\"},{\"name\":\"Food Trucks near me\",\"url\":\"https://www.zomato.com/food-trucks-near-me\"},{\"name\":\"Kiosks near me\",\"url\":\"https://www.zomato.com/kiosks-near-me\"},{\"name\":\"Lounges near me\",\"url\":\"https://www.zomato.com/lounges-near-me\"},{\"name\":\"Microbreweries near me\",\"url\":\"https://www.zomato.com/microbreweries-near-me\"},{\"name\":\"Paan Shop near me\",\"url\":\"https://www.zomato.com/paan-shop-near-me\"},{\"name\":\"Quick Bites near me\",\"url\":\"https://www.zomato.com/quick-bites-near-me\"},{\"name\":\"Sweet Shops near me\",\"url\":\"https://www.zomato.com/sweet-shops-near-me\"}],\"restaurantsNearMeTitle\":\"Popular restaurant types near me\"},\"topChainsData\":{\"topChainsHeading\":\"Top restaurant chains\",\"topChains\":[{\"name\":\"Bikanervala\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/bikanervala\"},{\"name\":\"Burger King\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/burger-king\"},{\"name\":\"Burger Singh\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/burger-singh-big-punjabi-burgers\"},{\"name\":\"Domino's\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/dominos\"},{\"name\":\"KFC\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/kfc\"},{\"name\":\"McDonald's\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/mcdonalds\"},{\"name\":\"Pizza Hut\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/pizza-hut\"},{\"name\":\"Subway\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/subway-1\"},{\"name\":\"WOW! Momo\",\"url\":\"https://www.zomato.com/hyderabad/restaurants/wow-momo\"}]},\"o2CitiesData\":{\"o2CitiesHeading\":\"Cities we deliver to\",\"o2Cities\":[{\"name\":\"Delhi NCR\",\"url\":\"https://www.zomato.com/ncr/delivery\"},{\"name\":\"Kolkata\",\"url\":\"https://www.zomato.com/kolkata/delivery\"},{\"name\":\"Mumbai\",\"url\":\"https://www.zomato.com/mumbai/delivery\"},{\"name\":\"Bengaluru\",\"url\":\"https://www.zomato.com/bangalore/delivery\"},{\"name\":\"Pune\",\"url\":\"https://www.zomato.com/pune/delivery\"},{\"name\":\"Hyderabad\",\"url\":\"https://www.zomato.com/hyderabad/delivery\"},{\"name\":\"Chennai\",\"url\":\"https://www.zomato.com/chennai/delivery\"},{\"name\":\"Lucknow\",\"url\":\"https://www.zomato.com/lucknow/delivery\"},{\"name\":\"Kochi\",\"url\":\"https://www.zomato.com/kochi/delivery\"},{\"name\":\"Jaipur\",\"url\":\"https://www.zomato.com/jaipur/delivery\"},{\"name\":\"Ahmedabad\",\"url\":\"https://www.zomato.com/ahmedabad/delivery\"},{\"name\":\"Chandigarh\",\"url\":\"https://www.zomato.com/chandigarh/delivery\"},{\"name\":\"Goa\",\"url\":\"https://www.zomato.com/goa/delivery\"},{\"name\":\"Indore\",\"url\":\"https://www.zomato.com/indore/delivery\"},{\"name\":\"Gangtok\",\"url\":\"https://www.zomato.com/gangtok/delivery\"},{\"name\":\"Nashik\",\"url\":\"https://www.zomato.com/nashik/delivery\"},{\"name\":\"Ooty\",\"url\":\"https://www.zomato.com/ooty/delivery\"},{\"name\":\"Shimla\",\"url\":\"https://www.zomato.com/shimla/delivery\"},{\"name\":\"Ludhiana\",\"url\":\"https://www.zomato.com/ludhiana/delivery\"},{\"name\":\"Guwahati\",\"url\":\"https://www.zomato.com/guwahati/delivery\"},{\"name\":\"Amritsar\",\"url\":\"https://www.zomato.com/amritsar/delivery\"},{\"name\":\"Kanpur\",\"url\":\"https://www.zomato.com/kanpur/delivery\"},{\"name\":\"Allahabad\",\"url\":\"https://www.zomato.com/allahabad/delivery\"},{\"name\":\"Aurangabad\",\"url\":\"https://www.zomato.com/aurangabad/delivery\"},{\"name\":\"Bhopal\",\"url\":\"https://www.zomato.com/bhopal/delivery\"},{\"name\":\"Ranchi\",\"url\":\"https://www.zomato.com/ranchi/delivery\"},{\"name\":\"Visakhapatnam\",\"url\":\"https://www.zomato.com/visakhapatnam/delivery\"},{\"name\":\"Bhubaneswar\",\"url\":\"https://www.zomato.com/bhubaneswar/delivery\"},{\"name\":\"Coimbatore\",\"url\":\"https://www.zomato.com/coimbatore/delivery\"},{\"name\":\"Mangalore\",\"url\":\"https://www.zomato.com/mangalore/delivery\"},{\"name\":\"Vadodara\",\"url\":\"https://www.zomato.com/vadodara/delivery\"},{\"name\":\"Nagpur\",\"url\":\"https://www.zomato.com/nagpur/delivery\"},{\"name\":\"Agra\",\"url\":\"https://www.zomato.com/agra/delivery\"},{\"name\":\"Dehradun\",\"url\":\"https://www.zomato.com/dehradun/delivery\"},{\"name\":\"Mysore\",\"url\":\"https://www.zomato.com/mysore/delivery\"},{\"name\":\"Puducherry\",\"url\":\"https://www.zomato.com/puducherry/delivery\"},{\"name\":\"Surat\",\"url\":\"https://www.zomato.com/surat/delivery\"},{\"name\":\"Varanasi\",\"url\":\"https://www.zomato.com/varanasi/delivery\"},{\"name\":\"Patna\",\"url\":\"https://www.zomato.com/patna/delivery\"},{\"name\":\"Udaipur\",\"url\":\"https://www.zomato.com/udaipur/delivery\"},{\"name\":\"Srinagar\",\"url\":\"https://www.zomato.com/srinagar/delivery\"},{\"name\":\"Khajuraho\",\"url\":\"https://www.zomato.com/khajuraho/delivery\"},{\"name\":\"Neemrana\",\"url\":\"https://www.zomato.com/neemrana/delivery\"},{\"name\":\"Cuttack\",\"url\":\"https://www.zomato.com/cuttack/delivery\"},{\"name\":\"Trivandrum\",\"url\":\"https://www.zomato.com/trivandrum/delivery\"},{\"name\":\"Haridwar\",\"url\":\"https://www.zomato.com/haridwar/delivery\"},{\"name\":\"Leh\",\"url\":\"https://www.zomato.com/leh/delivery\"},{\"name\":\"Pushkar\",\"url\":\"https://www.zomato.com/pushkar/delivery\"},{\"name\":\"Rajkot\",\"url\":\"https://www.zomato.com/rajkot/delivery\"},{\"name\":\"Madurai\",\"url\":\"https://www.zomato.com/madurai/delivery\"},{\"name\":\"Kozhikode\",\"url\":\"https://www.zomato.com/kozhikode/delivery\"},{\"name\":\"Alappuzha\",\"url\":\"https://www.zomato.com/alappuzha/delivery\"},{\"name\":\"Thrissur\",\"url\":\"https://www.zomato.com/thrissur/delivery\"},{\"name\":\"Manipal\",\"url\":\"https://www.zomato.com/manipal/delivery\"},{\"name\":\"Vijayawada\",\"url\":\"https://www.zomato.com/vijayawada/delivery\"},{\"name\":\"Jodhpur\",\"url\":\"https://www.zomato.com/jodhpur/delivery\"},{\"name\":\"Kota\",\"url\":\"https://www.zomato.com/kota/delivery\"},{\"name\":\"Ajmer\",\"url\":\"https://www.zomato.com/ajmer/delivery\"},{\"name\":\"Mussoorie\",\"url\":\"https://www.zomato.com/mussoorie/delivery\"},{\"name\":\"Rishikesh\",\"url\":\"https://www.zomato.com/rishikesh/delivery\"},{\"name\":\"Jalandhar\",\"url\":\"https://www.zomato.com/jalandhar/delivery\"},{\"name\":\"Jammu\",\"url\":\"https://www.zomato.com/jammu/delivery\"},{\"name\":\"Manali\",\"url\":\"https://www.zomato.com/manali/delivery\"}],\"seeMoreText\":\"All delivery cities\",\"seeMoreUrl\":\"https://www.zomato.com/delivery-cities\"}},\"SECTION_NAVBAR_DATA\":{\"links\":{\"ADD_RESTAURANT\":{\"url\":\"https://www.zomato.com/partner_with_us\",\"buttonText\":\"Add restaurant\"},\"INVESTOR_RELATIONS\":{\"url\":\"https://www.zomato.com/investor-relations\",\"buttonText\":\"Investor Relations\"}}}},\"isO2Country\":true,\"trackingData\":{\"googleAdsPayload\":{\"homePageLanding\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/xaWRCO6z-uwBENLpkMkD\"}}}},\"trackingDataLogin\":{\"googleAdsPayload\":{\"mobileProfileIconClick\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/gEmzCLCZwfABENLpkMkD\"}},\"loginClick\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/MOW8CIO6-uwBENLpkMkD\"}},\"signupClick\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/M4gKCJi9-uwBENLpkMkD\"}},\"signupSuccess\":{\"eventName\":\"conversion\",\"payload\":{\"send_to\":\"AW-958674130/NWiMCPrDne0BENLpkMkD\"}}}}}},\"gold\":{\"plans\":[],\"customSectionsForCity\":[],\"orderingRestaurants\":[],\"dineoutRestaurants\":[],\"faqs\":[],\"constants\":{\"planSectionHeading\":\"\",\"faqHeading\":\"\",\"aboutGoldText\":\"\",\"goldLogoSrc\":\"\"}},\"feedingPhilippines\":{},\"feedingIndonesia\":{},\"talentHub\":{},\"dining\":{\"cartUi\":{\"isCheckboxClicked\":false,\"isUserClicked\":false}},\"scanner\":{},\"cupcake\":{},\"partnershipInit\":{},\"paymentStatus\":{},\"planPage\":{\"benefitsData\":[]},\"dotePdp\":{},\"doteHome\":{},\"familyPlanPage\":{\"familyPlanData\":[]},\"orderCartProgress\":{\"currentState\":\"CART_IDLE\"},\"financialInformation\":{},\"investorRelations\":{},\"investorRelationsV2\":{},\"goldMarketingPage\":{\"mainText\":\"\",\"bottomText\":\"\",\"headerText\":\"\",\"oneLink\":\"\"},\"agentSearch\":{\"selectedRes\":null,\"selectedDishes\":null,\"disableResSelection\":false,\"disableDishSelection\":false,\"isMultiSelectOn\":true},\"agentRestaurant\":{\"resItems\":null,\"disabledMenuItemSelection\":false,\"lastAddedItemData\":null,\"orderData\":null},\"diningPay\":{},\"bloggers\":{\"bannerData\":[],\"snippetData\":[],\"formData\":[]},\"neighbourhoods\":{},\"resAdminToolkit\":{},\"individualPhotoPage\":{},\"openGiftCard\":{},\"proPage\":{},\"zopayStoryUploader\":{},\"orderShare\":{\"riderDetails\":{},\"resDetails\":{},\"userDetails\":{},\"deliveryState\":\"\",\"orderDeliveredSnippet\":{},\"orderRejectedSnippet\":{},\"mapSection\":{},\"resName\":\"\",\"hashed_tab_id\":\"\",\"resId\":0,\"headerData\":{},\"mapSectionStaticData\":{},\"orderId\":0,\"linkExpiredSnippet\":{}},\"giftCard\":{},\"zLiveHomePageReducer\":{},\"zLiveCartReducer\":{\"packagesData\":[],\"paymentSdkData\":{},\"paymentKitStates\":{}},\"zLiveModalReducer\":{\"type\":null,\"data\":null},\"zLiveV2PageReducer\":{},\"zLiveV2CartReducer\":{\"packagesData\":[],\"seatsIoData\":null},\"zLiveV2ModalReducer\":{\"type\":null,\"data\":null},\"zLiveV2ZpaykitReducer\":{\"paymentSdkData\":{},\"paymentKitStates\":{},\"buildCartApiResponse\":{}},\"zLiveV2ErrorReducer\":{\"isError\":false},\"zLiveV2CustomerDetailsReducer\":{\"customerDetailsForm\":{\"fullName\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"mobileNum\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"email\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"addressLine1\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"addressLine2\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"cityPincode\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"cityName\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"stateId\":{\"value\":\"\",\"isTriggerError\":false},\"stateName\":{\"value\":\"\",\"isTriggerError\":false},\"withPet\":{\"value\":true,\"isTriggerError\":false},\"petName\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"petBreed\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"petBirthDate\":{\"value\":\"\",\"isError\":false,\"isTriggerError\":false},\"formType\":{\"value\":\"\"}}},\"irctcPartnership\":{},\"campaigns\":{}},\"blogData\":{\"blogs\":[],\"error\":null,\"isfetching\":null},\"pageUrlMappings\":{\"/\":{\"name\":\"city\",\"pageTitle\":\"Zomato\",\"pageDescription\":\"India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.\",\"cityId\":6,\"pageUrl\":\"/\",\"ogTitle\":\"Zomato\",\"ogDescription\":\"India’s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.\",\"ogUrl\":\"https://b.zmtcdn.com/images/square_zomato_logo_new.svg\",\"isMobile\":0,\"isOAuthV2Enabled\":false,\"useAuthSdkForLogin\":true,\"useAuthSdkForLogout\":false,\"gaPageType\":\"Home\"}},\"careers\":{\"departments\":[]},\"allJobs\":{\"openings\":[],\"filters\":[]},\"department\":{},\"aboutus\":{\"leadershipData\":[]},\"sneakpeek\":{},\"apiState\":{},\"entities\":{\"REVIEWS\":{},\"IMAGES\":{},\"VIDEOS\":{},\"REVIEW_COMMENTS\":{},\"REVIEW_REPLIES\":{},\"PHOTO_COMMENTS\":{},\"POSITIVE_TAGS\":{},\"NEGATIVE_TAGS\":{},\"RATING\":{},\"EVENTS\":{},\"AD_BANNERS\":{},\"RESTAURANTS\":{},\"COLLECTIONS\":{\"13\":{\"id\":13,\"name\":\"Best Rooftop Places\",\"num_places\":\"29 Places\",\"url\":\"/hyderabad/rooftop\",\"image\":{\"url\":\"https://b.zmtcdn.com/data/collections/2b9361aa328a43b08986f77bbec280bd_1715844025.png?output-format=webp\",\"base64\":\"data:image/png;base64,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\"},\"is_visible\":true},\"142\":{\"id\":142,\"name\":\"Top Haleem Spots\",\"num_places\":\"12 Places\",\"url\":\"/hyderabad/hyderabadi-haleem\",\"image\":{\"url\":\"https://b.zmtcdn.com/data/collections/f10b0af6f4aef9e672f38c76528b34b1_1618228240.jpg?output-format=webp\",\"base64\":\"data:image/jpg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAyADIDASIAAhEBAxEB/8QAHAABAAIDAQEBAAAAAAAAAAAAAAMHAgQFBgkI/8QALhAAAQMDAgQEBQUAAAAAAAAAAQACAwQFBgcRCBIhkRQxUVMTFUFhgTIzUmKC/8QAGQEBAQADAQAAAAAAAAAAAAAAAAEEBQYD/8QAIREAAgICAQQDAAAAAAAAAAAAAAEDEQIEEgUTIVEGMUH/2gAMAwEAAhEDEQA/APqmi1hcqEnYVLO6kFTA7ykafygJUURqIR5yN7rHxlN7ze6lotMnRQ+Mpveb3TxlN7ze6WiXRMii8TB7je6Kg+bmk2tuqOUPZV11VK2I9epKv+i1jr6OIR1NeDKB5cy8db9G7tj9nkprZQua5jSG7NVHXXAdXo8klkFNUmIOO3Q7LTS7M02XGJeTqItXW1I7kaZdWa8Sl9tkjo6eU/bqqyn4wMrp6hzZZngA+q5U+kOpOSOAloZgfUtK9BjXClfa1rxeKR25HQlq1+UO0nykz8mZhv6lLDtpoltXFrkl3cKeGrPOTsBurWxPUbOby2OapqiyI7Hcn6L81ZBw3Zri+TtfaaKZ0PNuNgVdWDYZqHK6loJ6eWOLoHHYrI6dFLLLUuTo0HyXpOtNx29bOvaRe8edztja11xG4AB6/VFhDotM6Jjnyv5i0E9frsi6Xtx+znu1kXp8roiCPgM6/Zaz8bs0ji91DESf6hdRF5cUjOeTf6c6LH7TD+3RRD/IU7bbRt/TAwfhbSJSZLZzprBaqh3PLRxOd6loWcNltsDg6KljaR6NC3kRJL6DbfhmHwmfxRZoqQIiIAiIgCIiAIiID//Z\"},\"is_visible\":true},\"306919\":{\"id\":306919,\"name\":\"Top Trending Spots\",\"num_places\":\"25 Places\",\"url\":\"/hyderabad/trending-this-week\",\"image\":{\"url\":\"https://b.zmtcdn.com/data/collections/684397cd092de6a98862220e8cc40aca_1721907131.png?output-format=webp\",\"base64\":\"data:image/png;base64,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\"},\"is_visible\":true},\"306950\":{\"id\":306950,\"name\":\"Iftar Specials\",\"num_places\":\"14 Places\",\"url\":\"/hyderabad/iftar-specials\",\"image\":{\"url\":\"https://b.zmtcdn.com/data/collections/5aee46adaa9a17993f23fa9b3512cc4b_1710849422.png?output-format=webp\",\"base64\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH6AMTERsEgHB3KgAABvhJREFUaN7tmU2PLUcNhh/bVd3nzEQsQGxRWEQggfj/vwOxCotIiQREEIFAd+Z0V9lmUXV6ztx7c5OsGKHjmZrqT5ffcpX9ukcyM/k/EP1fG3AHcgfyxuUO5K3JHchbkzuQtyZ3IG9NSmZ8+on85CkA8sHBD+u5vSwfVfYTgURvyDFOHtrfHzczx7Xjnlx/QQQZ3UeseV9nflT/8Za89J+Ysg8mo7Sn/8zbOX/glthnJpkQR38LRFARRAUVkHl+BTaAT705AWQeOq/3DzMFRGX08jK9LyDl5cHrnOSwvLz77i/jRXIamzfGjoEjEo+kO3hCoAOEKaqKmVBUMVNUBVWZQycZU28EEXGcR4x2BQagOoAMHa9tlukmkReXRXLoKf/8+ktEEpEgMvCA4BYIuAfNk9aFloKLIWpoMWoxajVqUaoppQxwqjI8GEGEE91xj9EiXo59ACQTEVCbQAxE8up4RORoiJA5gHRP3IPy1z//EdNAGEB6jlnnZol4JHuHzZVGIbQitVKXwrIYSzWWoiwTUDGbQJKIwLvjvdO7493pHqM1p3WnN8fdyYwxrCWizAmevQo6XHYAcYfWg96T8s2Xf6JoIBIkSc8kUkHH0hEREqGn0ai4rrCcsHVlWQttUXpRWhGaMb0ygJDgPo3vfQDymMs0aC3Y9sa2NfatjWfciQyS0YZXElVBVBFVQMgQ+gTSWlK++eorqiUqQZA4Yw+IKlaUUgpaCtgJWc7o6TOKJZqBpqEOSRA9aJKkgqugomQOt3sb3oi4xq258HtC78S+sz9vPD9vXC4b295ovdHdifRj/6gqIorM/TE8krSelG//9t0wTEfEcsARxBQrxrIuLKcz66NxXs4si3E6V04PSq1JkY5mA28QHc8gBUghPeg9BgiPGSAMq4ZqQasg+HiuBdul433n+emZd08XLttO652MQESwOUGCzL079kh3KP/69xPFBNGxyXsOIKmC1WHwoyQ/ezDO9cRyPvP42YnTSSnW0AiyN9I3wncIxyOInmMP7E7vQSZYUeq6UGyhVEALpopKJRne2/aOPG/0gOfNuVwa3h0hKaKYCApkgAf0SDygXC6O2sgFIUJPaIzlYZG0IogXHmRB6kpdV5a1si6JAaSTdDwbRMN7w5vTWme/dPZt7AsRoawVsxEWJXXMsBZECymCp7B58rQ79bkj1gg6PQKJl1ynCeEjJXhABJTWAw1FbHihi9JFcIyUSpdKaCW0gNpIWIBkIPiYmgz0mg8iRoTadvat0baOR2JmaIFMJbNDdgTDFESVFKOnsXV4ugTvLs66OXtLMoTsgcyMHD5aOhCJJJQWgzmKjKiAGmqGmGF1wWpFzEbk6s6+N/YNLIMqHQlH/JpBR1i8ht3wEdIRQAPRGY1yhNrMRCVRUUpVFlfWU3B+6Jyfds7nRmsBCaEOPeYKCDJHwLCZW0qoEaqoGmYFrWUYXwq2VNalYqqkO/u28fxkFOnQwYtTSAwBbBpbEHXUgrIAOgbUolg1xJQUnZFr5gVVCEMNSgmWZeF0Og0g3RGEpo1Qx0VHXJUYnkAwVYqez6QoYobWQl0WylKwOlqthaJKhrNvO8/vBE0HV2KBpQhFbXAuU2QxihhYRZeRFyARm5SmFKQsYCtpCykLQSHRwYS1UsrK6dR5eHA8QLWy10bbO7470ceeKSIsaiyqlMef/4IURc0otbIsw3izyZ1MJocqRAqtw944qIiogEG1RCSxDGwNavgLvzroKCCGWsHKitQVtJBpg99JYlZYVuXhUQkqVk+czjvb3tl3p7cgfQSaqsZqympG+eWvPocJpJZCKUY1HQlIZvqSsSGLKctSqadCWSu6GrooWhWtQjUwHe36LjlJ4iSKGTLBVMTmwgzInoQmqY4Up546p8edbWsDRPNJR8aeMZTFlMWMqkr59W9+B5O5mhpmMjYQiRAHDYdB5koxljo4Vq1GrXq0UnRyrZm89D0G7RPMdW9gRMqgLD1Y+3jGPWaiG1ysTX7mPngfOWwsc3KLCOWL3/8BkclY5VpXgGSSeQtk1hvzZbNBYcYSFEoZQMpkwKZyhOqEQd8P6j5oypXBuueIcDFLiNkicyTXWUaMezN4yACjs5XPv/jtURAJMnn/jTbyVaE1iqjhHbn2Oj1gA4CZHgXX6wItmXNzFHCjVnkBeFsN5k1hN4ozOYo6EdDDXpB//P3blNuy9WXko5C8Hh5l7VHsyKtrV3Ait1Xe62rzUH0Ydz0/wsGh81pa33SvgN6WxHK5PE9nfaTO/hEiN3/kVf9e7f1+nf4DNbzcvJwffKG40X89dvf82I1PQfreDx0/6XPI93ye+XHKP7x7/x/iG5M7kLcmdyBvTe5A3prcgbw1uQN5a3IH8tbkvxstndiGU3QtAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTAzLTE5VDE3OjI3OjA0KzA2OjAwIl6InwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0wMy0xOVQxNzoyNzowNCswNjowMFMDMCMAAABDdEVYdHNvZnR3YXJlAGZpbGU6Ly8vdXNyL3NoYXJlL2RvYy9pbWFnZW1hZ2ljay02LWNvbW1vbi9odG1sL2luZGV4Lmh0bWwP1+U4AAAAGHRFWHRUaHVtYjo6RG9jdW1lbnQ6OlBhZ2VzADGn/7svAAAAGHRFWHRUaHVtYjo6SW1hZ2U6OkhlaWdodAA0MDB5WmnbAAAAGHRFWHRUaHVtYjo6SW1hZ2U6OldpZHRoADE1MDDB/2DUAAAAGXRFWHRUaHVtYjo6TWltZXR5cGUAaW1hZ2UvcG5nP7JWTgAAABd0RVh0VGh1bWI6Ok1UaW1lADE3MTA4NDk0MjSPVw7eAAAAEnRFWHRUaHVtYjo6U2l6ZQA5NDVLQkKng5pjAAAAIHRFWHRUaHVtYjo6VVJJAGZpbGU6Ly8vdG1wL3BocEY3N2VkdIVbnmsAAAAASUVORK5CYII=\"},\"is_visible\":true}},\"ORDER\":{},\"ADDRESSES\":{},\"USER\":{},\"PENDING_REVIEW\":{},\"CDNG_ORDER\":{},\"DOTE_ORDER\":{},\"ZLIVE_EVENTS\":{}},\"user\":{\"is_admin_user\":false,\"admin_access\":[],\"admin_links\":[]},\"uiLogic\":{\"isPreciseLocationBannerOpen\":true,\"searchPageMounted\":false,\"isUniversalLocationWithBannerModalOpen\":false,\"isUniversalLocationModalWithDishCardOpen\":false,\"mountPartnershipPreciseLocationModal\":true,\"universalLMDishCard\":{},\"promoBlockerOnPageLoadAllowed\":false},\"location\":{\"currentLocation\":{\"addressId\":0,\"entityId\":6,\"entityType\":\"city\",\"locationType\":\"\",\"isOrderLocation\":1,\"cityId\":6,\"latitude\":\"17.3660000000000000\",\"longitude\":\"78.4760000000000000\",\"userDefinedLatitude\":17.366,\"userDefinedLongitude\":78.476,\"entityName\":\"Hyderabad\",\"orderLocationName\":\"Hyderabad\",\"cityName\":\"Hyderabad\",\"countryId\":1,\"countryName\":\"India\",\"displayTitle\":\"Hyderabad\",\"o2Serviceable\":true,\"placeId\":\"9419\",\"cellId\":\"4308704762854899712\",\"deliverySubzoneId\":9419,\"placeType\":\"DSZ\",\"placeName\":\"Hyderabad\",\"isO2City\":true,\"fetchFromGoogle\":false,\"fetchedFromCookie\":true,\"locationPrompt\":[],\"isO2OnlyCity\":false,\"addressBlocker\":0,\"address_template\":[],\"otherRestaurantsUrl\":\"\"}},\"gAds\":[],\"footer\":{\"languages\":[{\"name\":\"English\",\"value\":\"en\"},{\"name\":\"Türkçe\",\"value\":\"tr\"},{\"name\":\"हिंदी\",\"value\":\"hi\"},{\"name\":\"Português (BR)\",\"value\":\"pt_br\"},{\"name\":\"Indonesian\",\"value\":\"id\"},{\"name\":\"Português (PT)\",\"value\":\"pt\"},{\"name\":\"Español\",\"value\":\"es\"},{\"name\":\"Čeština\",\"value\":\"cs\"},{\"name\":\"Slovenčina\",\"value\":\"sk\"},{\"name\":\"Polish\",\"value\":\"pl\"},{\"name\":\"Italian\",\"value\":\"it\"},{\"name\":\"Vietnamese\",\"value\":\"vi\"}],\"selectedLanguage\":{\"name\":\"English\",\"value\":\"en\"},\"linksData\":{\"aboutusContent\":[{\"label\":\"Who We Are\",\"link\":\"https://www.zomato.com/who-we-are\"},{\"label\":\"Blog\",\"link\":\"https://blog.zomato.com/\"},{\"label\":\"Work With Us\",\"link\":\"https://www.zomato.com/careers\"},{\"label\":\"Investor Relations\",\"link\":\"https://www.zomato.com/investor-relations\"},{\"label\":\"Report Fraud\",\"link\":\"https://www.zomato.com/report-fraud\"},{\"label\":\"Press Kit\",\"link\":\"https://blog.zomato.com/press-kit\"},{\"label\":\"Contact Us\",\"link\":\"https://www.zomato.com/contact\"}],\"learnMoreContent\":[{\"label\":\"Privacy\",\"link\":\"https://www.zomato.com/privacy\"},{\"label\":\"Security\",\"link\":\"https://www.zomato.com/security\"},{\"label\":\"Terms\",\"link\":\"https://www.zomato.com/conditions\"}],\"restaurantsContent\":[{\"label\":\"Partner With Us\",\"link\":\"https://www.zomato.com/partner_with_us\"},{\"label\":\"Apps For You\",\"link\":\"https://play.google.com/store/apps/details?id=com.application.services.partner&hl=en_IN&gl=US\"}],\"countries\":[{\"id\":1,\"name\":\"India\",\"value\":\"india\"},{\"id\":14,\"name\":\"Australia\",\"value\":\"australia\"},{\"id\":30,\"name\":\"Brazil\",\"value\":\"brazil\"},{\"id\":37,\"name\":\"Canada\",\"value\":\"canada\"},{\"id\":42,\"name\":\"Chile\",\"value\":\"chile\"},{\"id\":54,\"name\":\"Czech Republic\",\"value\":\"czechrepublic\"},{\"id\":94,\"name\":\"Indonesia\",\"value\":\"indonesia\"},{\"id\":97,\"name\":\"Ireland\",\"value\":\"ireland\"},{\"id\":99,\"name\":\"Italy\",\"value\":\"italy\"},{\"id\":112,\"name\":\"Lebanon\",\"value\":\"lebanon\"},{\"id\":123,\"name\":\"Malaysia\",\"value\":\"malaysia\"},{\"id\":148,\"name\":\"New Zealand\",\"value\":\"newzealand\"},{\"id\":162,\"name\":\"Philippines\",\"value\":\"philippines\"},{\"id\":163,\"name\":\"Poland\",\"value\":\"poland\"},{\"id\":164,\"name\":\"Portugal\",\"value\":\"portugal\"},{\"id\":166,\"name\":\"Qatar\",\"value\":\"qatar\"},{\"id\":184,\"name\":\"Singapore\",\"value\":\"singapore\"},{\"id\":185,\"name\":\"Slovakia\",\"value\":\"slovakia\"},{\"id\":189,\"name\":\"South Africa\",\"value\":\"southafrica\"},{\"id\":191,\"name\":\"Sri Lanka\",\"value\":\"srilanka\"},{\"id\":208,\"name\":\"Turkey\",\"value\":\"turkey\"},{\"id\":214,\"name\":\"UAE\",\"value\":\"uae\"},{\"id\":215,\"name\":\"United Kingdom\",\"value\":\"uk\"},{\"id\":216,\"name\":\"USA\",\"value\":\"usa\"}],\"enterpriseContent\":[{\"label\":\"Zomato For Enterprise\",\"link\":\"https://www.zomato.com/enterprise-solutions\"}],\"zomaverseContent\":[{\"label\":\"Zomato\",\"link\":\"https://www.zomato.com/\"},{\"label\":\"Blinkit\",\"link\":\"https://www.blinkit.com/\"},{\"label\":\"District\",\"link\":\"https://www.district.in/\"},{\"label\":\"Feeding India\",\"link\":\"https://www.feedingindia.org/\"},{\"label\":\"Hyperpure\",\"link\":\"https://www.hyperpure.com/\"},{\"label\":\"Zomato Live\",\"link\":\"https://www.zomato.com/live\"},{\"label\":\"Zomaland\",\"link\":\"https://www.zomato.com/zomaland\"},{\"label\":\"Weather Union\",\"link\":\"https://www.weatherunion.com/\"}]},\"footerDataArray\":{\"ABOUT_US\":\"About Zomato\",\"ZOMAVERSE\":\"Zomaverse\",\"FOR_RESTAURANTS\":\"For Restaurants\",\"LEARN_MORE\":\"Learn More\",\"SOCIAL_LINKS\":\"Social links\"},\"disclaimerText\":\"By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2025 © Zomato™ Ltd. All rights reserved.\"},\"langKeys\":{\"HOME_PAGE_HEADING_UPDATED\":\"Discover the best food & drinks in {0}\",\"GET_THE_APP_TEXT\":\"Get the App\",\"GET_Z_APP_HEADING_TEXT\":\"Get the Zomato app\",\"GET_Z_APP_SUBHEADING\":\"We will send you a link, open it on your phone to download the app\",\"GET_Z_APP_DOWNLOAD_TEXT\":\"Download app from\",\"GET_Z_APP_SHARE_CAPTION\":\"Share\",\"GET_Z_APP_SHARE_APP_LINK_CAPTION\":\"Share App Link\",\"GET_Z_APP_PHONE_RADIO_LABEL\":\"Phone\",\"GET_Z_APP_EMAIL_RADIO_LABEL\":\"Email\",\"GET_Z_APP_EMAIL_ERROR_TEXT\":\"Please enter your email id\",\"GET_Z_APP_PHONE_ERROR_TEXT\":\"Please enter your phone number\",\"NO_SEARCH_RESULT_FOUND\":\"We could not understand what you mean, try rephrasing the query.\",\"TRENDING_SEARCHES\":\"Trending Searches\",\"NO_TRENDING_SEARCH\":\"No results found for Trending Searches\",\"TOP_RESTAURANTS\":\"Top Restaurants\",\"SEARCH_PLACEHOLDER\":\"Search for restaurant, cuisine or a dish\",\"DETECT_LOCATION\":\"Detect current location\",\"DETECT_LOCATION_SUBTITLE\":\"Using GPS\",\"ADD_ADDRESS\":\"Add address\",\"SAVED_ADDRESSES\":\"Saved Addresses\",\"POPULAR_LOCATIONS\":\"Popular Locations\",\"LOCATION_NO_RESULT_SUB\":\"Check for spelling errors or search for a nearby location\",\"LOCATION_NO_RESULT\":\"No results found\",\"SEARCH_MODAL_MOBILE_VIEW_TITLE\":\"Select location\",\"GEO_LOCATION_NO_BROWSER_SUPPORT\":\"Seems like, Your browser does not support Geolocation.\",\"GEO_LOCATION_PERMISSION_DENIED\":\"Please enable location permission from settings and try again!\",\"GEO_LOCATION_POSITION_UNAVAILABLE\":\"We can't locate your position, please try again!\",\"GEO_LOCATION_TIMEOUT\":\"Request for location has timed out!\",\"GEO_LOCATION_UNKNOWN_ERROR\":\"An unknown error occurred, Please try again!\",\"GEO_LOCATION_DEFAULT_ERROR\":\"An unknown error occurred, Please try again!\",\"PROFILE_LINK_NAME\":\"Profile\",\"REVIEWS_LINK_NAME\":\"Reviews\",\"SETTINGS_LINK_NAME\":\"Settings\",\"LOGOUT_LINK_NAME\":\"Log out\",\"LOGIN_FAILED_TITLE\":\"Login Failed\",\"SIGNUP_FAILED_TITLE\":\"Signup Failed\",\"OTP_VERIFICATION_TITLE\":\"Enter OTP\",\"LOGIN_TITLE\":\"Log in\",\"SIGNUP_TITLE\":\"Sign up\",\"SIGNUP_NAME_ERROR_MESSAGE\":\"Please enter a valid name\",\"SIGNUP_EMPTY_EMAIL_ERROR_MESSAGE\":\"Please enter an email\",\"SIGNUP_INVALID_EMAIL_ERROR_MESSAGE\":\"Invalid Email id\",\"SIGNUP_PHONE_ERROR_MESSAGE\":\"Please enter phone number\",\"SIGNUP_FULL_NAME_LABEL\":\"Full Name\",\"SIGNUP_EMAIL_LABEL\":\"Email\",\"SIGNUP_PHONE_LABEL\":\"Phone number\",\"TERMS_OF_SERVICE_TEXT\":\"Terms of Service\",\"PRIVACY_POLICY_TEXT\":\"Privacy Policy\",\"CONTENT_POLICIES\":\"Content Policies\",\"AGREE_TO_ZOMATO_POLICY_TEXT\":\"I agree to Zomato's {0}, {1} and {2}\",\"CREATE_ACCOUNT_BUTTON_TEXT\":\"Create account\",\"ALREADY_HAVE_AN_ACCOUNT_TEXT\":\"Already have an account? {0}\",\"LOGIN_WITH_PHONE_ERROR\":\"Login with Phone number is not currently available\",\"NEW_TO_ZOMATO_TEXT\":\"New to Zomato?\",\"SEND_OTP_TEXT\":\"Send OTP\",\"ERROR_MESSAAGE_BOX_TRY_OTHER_METHODS_TEXT\":\"Try using other methods\",\"ERROR_MESSAAGE_BOX_SKIP_FOR_NOW_TEXT\":\"Skip for now\",\"NEW_OTP_HAS_BEEN_SENT_TEXT\":\"A new OTP has been sent\",\"NOT_RECEIVED_OTP_TEXT\":\"Didn't receive OTP?\",\"RESEND_NOW_TEXT\":\"Resend Now\",\"TERMINATE_VERIFICATION_TEXT\":\"Are you sure you want to terminate the verification?\",\"YES_BUTTON_TEXT\":\"Yes\",\"NO_BUTTON_TEXT\":\"No\",\"CONTINUE_WITH_GOOGLE_BUTTON_TEXT\":\"Continue with Google\",\"ERROR_OCCURED_TEXT\":\"Error occurred\",\"OR_TEXT\":\"or\",\"OTP_TEXT_BOX_LABEL\":\"OTP\",\"OTP_TEXT_BOX_PROCEED_BUTTON\":\"Proceed\",\"OTP_NOT_RECEIVED_TEXT\":\"Not received OTP? \",\"COOKIE_BANNER_TEXT\":\"By using this site you agree to Zomato&apos;s use of cookies to give you a personalised experience. Please read the \\u003ca href='/cookiepolicy' target='_blank'> cookie policy \\u003c/a> for more information or to delete/block them.\"},\"deviceSpecificInfo\":{\"browser\":{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\",\"name\":\"Chrome\",\"version\":\"134.0.0.0\",\"platform\":\"windows\"}},\"pageBlockerInfo\":{},\"fullPageAds\":{\"pageViews\":[],\"adVisible\":false},\"networkState\":{\"isOnline\":-1},\"fetchConfigs\":{\"headers\":{}},\"hrefLangInfo\":[{\"link\":\"https://www.zomato.com\",\"hreflang\":\"en-in\",\"isSelected\":true},{\"link\":\"https://www.zomato.com/hi\",\"hreflang\":\"hi-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/bn\",\"hreflang\":\"bn-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/te\",\"hreflang\":\"te-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/ta\",\"hreflang\":\"ta-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/kn\",\"hreflang\":\"kn-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/mr\",\"hreflang\":\"mr-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/gu\",\"hreflang\":\"gu-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/pa\",\"hreflang\":\"pa-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/ml\",\"hreflang\":\"ml-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/or\",\"hreflang\":\"or-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com/hi-en\",\"hreflang\":\"hi-en-in\",\"isSelected\":false},{\"link\":\"https://www.zomato.com\",\"hreflang\":\"x-default\",\"isSelected\":false}],\"pageConfig\":{\"showLocationBannerAutoPopup\":false,\"hideCookieBanner\":true,\"showRatingV2\":true},\"partnershipLoginModal\":{\"isVisible\":false},\"partnershipLoginOptionModal\":{\"isVisible\":false},\"doesNotDeliverModal\":{\"isVisible\":false},\"backButton\":{\"showLoadingState\":false},\"renderingStrategy\":{\"name\":\"ssr\"}}");
-        </script>
-        
-        
-        <script defer src="https://www.zomato.com/zpaykit/js/v4/hook.js"> </script>
-        <script>
-        
-        
-        window.zomato = {};
-        window.zomato.fbAppId = 288523881080;
-        window.zomato.googleAppId = "442739719837.apps.googleusercontent.com";
-        window.zomato.googleMapAPIKey = "AIzaSyA5sLVzE14pbsnzkkCNQxq8Z2gzRUhf6tY";
-        </script>
-        <script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">[2322,7472,5357,5993,999,7791,2200,8794,1347,7284,7602,5367,6559,5865,7817,9247,359,7721,1301,7578,3703,5519,6464]</script><script id="__LOADABLE_REQUIRED_CHUNKS___ext" type="application/json">{"namedChunks":["StructuredData","pages-common-Navbar","pages-City","layoutEntries-resNavDesktopIndex","common-components-UniversalSearch","layoutEntries-uniSearchDesContainer","Footers","ZomatoFooter","zwebmolecules-dist-Login","PageBlocker"]}</script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/runtime-416422890508c13cd965.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/lodash-es-ba050cda34c07c3aea62.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/babel-7ed87a8ce4c9c5221057.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/zomato-b6016a3bca70d7bc6cdc.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/recompose-c61168b126fe51751d95.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/react-redux-a921074e565d73d9de05.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/styled-system-0c14aa2ccf921fbe4aab.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/redux-saga-8cc24e71bf1147cf16d0.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/react-dom-7f3d1b6eb977c736eab2.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/styled-components-2c9b7bf6545e1865318a.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/redux-626552d9bf258284ba5d.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/1543-bd4c5c2c37dad7b5bf5a.js"></script>
-<script async data-chunk="main" src="https://zwstatic.zomato.com/main-ecfd22211c739d2e72e8.js"></script>
-<script async data-chunk="StructuredData" src="https://zwstatic.zomato.com/StructuredData-e36f863fca7968881be7.js"></script>
-<script async data-chunk="pages-common-Navbar" src="https://zwstatic.zomato.com/pages-common-Navbar-f4f360efbcafe1bc2e20.js"></script>
-<script async data-chunk="pages-City" src="https://zwstatic.zomato.com/999-9ded7225a69dde7e9ce5.js"></script>
-<script async data-chunk="pages-City" src="https://zwstatic.zomato.com/7791-4ad09d449875116f1d06.js"></script>
-<script async data-chunk="pages-City" src="https://zwstatic.zomato.com/2200-05842a409fc6492535da.js"></script>
-<script async data-chunk="pages-City" src="https://zwstatic.zomato.com/8794-4a03c64ca4efd2782437.js"></script>
-<script async data-chunk="pages-City" src="https://zwstatic.zomato.com/pages-City-86a51d502ce2a4115bfc.js"></script>
-<script async data-chunk="layoutEntries-resNavDesktopIndex" src="https://zwstatic.zomato.com/rxjs-bc066c25b399df986382.js"></script>
-<script async data-chunk="layoutEntries-resNavDesktopIndex" src="https://zwstatic.zomato.com/7602-32f95e117605d064f797.js"></script>
-<script async data-chunk="layoutEntries-resNavDesktopIndex" src="https://zwstatic.zomato.com/5367-f9ca828f63cba03ab28f.js"></script>
-<script async data-chunk="layoutEntries-resNavDesktopIndex" src="https://zwstatic.zomato.com/6559-b5de86f0bf99981a5e63.js"></script>
-<script async data-chunk="layoutEntries-resNavDesktopIndex" src="https://zwstatic.zomato.com/layoutEntries-resNavDesktopIndex-bfe892ae337b85e83bb6.js"></script>
-<script async data-chunk="common-components-UniversalSearch" src="https://zwstatic.zomato.com/common-components-UniversalSearch-dffc820a95a307484b49.js"></script>
-<script async data-chunk="layoutEntries-uniSearchDesContainer" src="https://zwstatic.zomato.com/9247-cf4ac77b2f0a8cb11cc2.js"></script>
-<script async data-chunk="layoutEntries-uniSearchDesContainer" src="https://zwstatic.zomato.com/layoutEntries-uniSearchDesContainer-01c3abca383e8f204ba5.js"></script>
-<script async data-chunk="Footers" src="https://zwstatic.zomato.com/Footers-43193b30888ea62e33e4.js"></script>
-<script async data-chunk="ZomatoFooter" src="https://zwstatic.zomato.com/1301-9c2386cc9fca8813f019.js"></script>
-<script async data-chunk="ZomatoFooter" src="https://zwstatic.zomato.com/ZomatoFooter-c44ba2c06a1533bbcb2a.js"></script>
-<script async data-chunk="zwebmolecules-dist-Login" src="https://zwstatic.zomato.com/3703-4c43e98a3963dd5520a4.js"></script>
-<script async data-chunk="zwebmolecules-dist-Login" src="https://zwstatic.zomato.com/zwebmolecules-dist-Login-f87e85a7320bd5fc35f8.js"></script>
-<script async data-chunk="PageBlocker" src="https://zwstatic.zomato.com/PageBlocker-6ac69fa094ffed9d2562.js"></script>
-        
-        <script src="https://accounts.google.com/gsi/client" defer></script>
-        
-    <script>
-      window.dataLayer = [{}];
-      var stdeviceProperties = {
-        'user_agent': navigator.userAgent,
-        'user_device_acronym': 'd'
-      };
-      window.dataLayer.push(stdeviceProperties);
-      function gtag() {
-        dataLayer.push(arguments);
+Jenkins is preparing to participate in its ninth (9th) year in Google Summer of Code (GSoC). We are seeking volunteers to be Jenkins mentors in the program:
+
+
+
+
+Mentoring takes about 5 to 8 hours of work per week for a 10-22 weeks program.
+
+
+Mentors provide guidance, coaching, review proposals, pull-requests, and contributor presentations.
+
+
+Sign up to mentor one of these project ideas or...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Alyssa Tong" href="/blog/authors/alyssat/"><div class="app-avatar"><img alt="Alyssa Tong" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/alyssat.jpg"></div><span>Alyssa Tong</span></a>
+December 16, 2024
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2024/12/05/jenkins-csp-project-update/'>
+<div class='app-card__preview'>
+<img alt='November Update: Momentum in Jenkins Content Security Policy Project' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2024/11/01/2024-11-01-jenkins-csp-project-update/opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+November Update: Momentum in Jenkins Content Security Policy Project
+</h5>
+<p class='app-card__teaser'>
+The Jenkins Content Security Policy (CSP) project has been bustling with activity.
+November saw many initiatives aimed at refining and enhancing the security framework for the vast spectrum of Jenkins plugins, extending upon the notable advancements achieved in October.
+
+
+October in Review
+
+
+October laid the foundation with a lot of enhancement in CSP plugin capabilities, theorizing for eventual widespread deployment without friction.
+The month...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Bruno Verachten" href="/blog/authors/gounthar/"><div class="app-avatar"><img alt="Bruno Verachten" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/gounthar.png"></div><span>Bruno Verachten</span></a>
+December 5, 2024
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2024/12/03/election-results/'>
+<div class='app-card__preview'>
+<img alt='2024 Jenkins Board and Officer Election Results' loading='lazy' onload='this.style.opacity = 1' src='/images/governance/elections/2024/opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+2024 Jenkins Board and Officer Election Results
+</h5>
+<p class='app-card__teaser'>
+The Jenkins community has completed the 2024 elections.
+On behalf of the Jenkins community and the elections committee,
+we congratulate all newly elected board members and officers!
+We also thank all candidates and voters who participated this year.
+
+
+Election results:
+
+
+
+
+Alexander Brandes, Valentin Delaye, and Alex Earl join Basil Crow and Mark Waite on the Jenkins Governance Board
+
+
+Tim Jacomb will continue as Release Officer
+
+
+Alyssa Tong...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Mark Waite" href="/blog/authors/markewaite/"><div class="app-avatar"><img alt="Mark Waite" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/markewaite.jpg"></div><span>Mark Waite</span></a><a class="app-author-link" data-user-name="Basil Crow" href="/blog/authors/basil/"><div class="app-avatar"></div><span>Basil Crow</span></a>
+December 3, 2024
+</div>
+</div>
+</li>
+<li class='app-card'>
+<a href='/blog/2024/12/02/pr-titles/'>
+<div class='app-card__preview'>
+<img alt='Pull request titles now show directly in Jenkins' loading='lazy' onload='this.style.opacity = 1' src='/images/post-images/2024/12/02/2024-12-02-pr-titles/opengraph.png'>
+</div>
+<h5 class='app-card__title'>
+Pull request titles now show directly in Jenkins
+</h5>
+<p class='app-card__teaser'>
+We are happy to share that with the latest version of Branch API, you can now view pull request titles directly in Jenkins.
+
+
+This feature was one of the most requested improvements from our community, and it&#8217;s great to see it live.
+We recently ran a poll on what users want to see on the Jenkins dashboard and this was the number...
+</p>
+</a>
+<div class='app-card__details'>
+<div class='app-card__details__authors'>
+<a class="app-author-link" data-user-name="Jan Faracik" href="/blog/authors/janfaracik/"><div class="app-avatar"><img alt="Jan Faracik" class="app-avatar__image" loading="lazy" onload="this.style.opacity = 1" src="/images/avatars/janfaracik.jpg"></div><span>Jan Faracik</span></a>
+December 2, 2024
+</div>
+</div>
+</li>
+<script>
+  $(document).ready(function() {
+      document.querySelectorAll(".app-card__details__authors").forEach(authors => {
+        if (authors.offsetHeight > 30) {
+          authors.classList.add("app-card__details__authors--compact")
+        }
+      })
+      document.querySelector(".app-cards").style.opacity = 1;
+  });
+</script>
+</ul>
+
+
+</div>
+</div>
+<div class='sponsorblock-wrapper'>
+<div class='container'>
+<div class='section' id='sponsorsblock'>
+<div class='sponsors'>
+<p>
+We thank the following organizations for their major commitments to
+support the Jenkins project.
+</p>
+<ul>
+<li>
+<a href='https://cloudbees.com' rel='noreferrer noopener' target='_blank'>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1235.39023 195">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a1a1a;
+        stroke-width: 0px;
       }
-      gtag('js', new Date());
-      gtag('config', 'AW-958674130');
-      gtag('config', 'G-2XVFHLPTVP');
-    </script>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-MKPZQ6');</script>
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=AW-958674130"></script>
-  
-        <script>
-  (function(h,o,u,n,d) {
-    h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
-    d=o.createElement(u);d.async=1;d.src=n
-    n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
-  })(window,document,'script','https://b.zmtcdn.com/data/file_assets/133088f1818bf78ca2b5d49c094e43631727442706.javascript','DD_RUM')
-  window.DD_RUM.onReady(function() {
-    window.DD_RUM.init({
-      clientToken: 'pub7eacc57cb92aabcbe2489ce0ec7b52e9',
-      applicationId: '873c8cc8-3ad2-4bdf-80a2-4e37b288e927',
-      site: 'datadoghq.com',
-      service: 'webfrontend-ui',
-      env: 'production',
-      // Specify a version number to identify the deployed version of your application in Datadog
-      version: 'v33.2.42',
-      sessionSampleRate: 0,
-      sessionReplaySampleRate: 0,
-      trackUserInteractions: true,
-      trackResources: true,
-      trackLongTasks: true,
-      defaultPrivacyLevel: 'mask',
-    });
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-1" d="M109.09003,45c-1.52002-8.2998-4.91003-15.9502-9.72003-22.5C89.37,8.85986,73.21997,0,55,0,24.62,0,0,24.62012,0,55c0,18.21973,8.85999,34.37012,22.5,44.37012,9.09998,6.67969,20.34003,10.62988,32.5,10.62988h20v-25h-20c-16.57001,0-30-13.43018-30-30s13.42999-30,30-30c13.06,0,24.16998,8.33984,28.28003,20h25.81Z"/>
+        <path class="cls-1" d="M172.5,95.62988c-9.09998-6.67969-20.34003-10.62988-32.5-10.62988h-20v25h20c16.57001,0,30,13.43018,30,30s-13.42999,30-30,30-30-13.43018-30-30v-46.1001h0v-38.8999h-25v46.1001h0v38.8999c0,12.16016,3.95001,23.3999,10.63,32.5,10,13.64014,26.15002,22.5,44.37,22.5,30.38,0,55-24.62012,55-55,0-18.22021-8.85999-34.37012-22.5-44.37012Z"/>
+      </g>
+      <g>
+        <path class="cls-1" d="M1022.11072,117.31738c0-11.09277-2.11719-20.91309-6.34961-29.45215-4.23633-8.54102-10.25781-15.21973-18.06641-20.03711-7.81152-4.81738-16.89844-7.22656-27.2627-7.22656-10.51172,0-19.78418,2.375-27.81152,7.11719-8.03027,4.74609-14.30859,11.42383-18.83203,20.03711-4.52588,8.61523-6.7876,18.6123-6.7876,30,0,11.38672,2.26172,21.42578,6.7876,30.10938,4.52344,8.6875,10.91113,15.40332,19.16113,20.14551,8.24609,4.74316,17.7002,7.11719,28.3584,7.11719,7.73633,0,14.89062-1.31348,21.45996-3.94238,6.56934-2.62695,12.15332-6.34961,16.75195-11.16797,4.59863-4.81641,7.97559-11.0918,9.72754-17.51758l-21.86523.00049c-1.96875,3.30664-4.6748,6.22705-8.11816,8.75928-4.96484,3.65039-10.94824,5.47363-17.95605,5.47363-9.49121,0-17.04688-2.95605-22.66504-8.86816-4.76819-5.01514-8.17126-11.45801-8.94812-22.86523h82.15015c.08984-1.50293.26575-5.72412.26575-7.68262ZM948.97107,87.75586c5.54688-5.54688,12.62695-8.32227,21.24219-8.32227,8.46484,0,15.32812,2.70312,20.58398,8.10254,4.50586,4.6333,7.82385,12.46387,8.56946,19.96387h-59.42432c.96936-7.5,4.29236-15.0083,9.02869-19.74414Z"/>
+        <path class="cls-1" d="M1134.66145,117.31738c0-11.09277-2.11719-20.91309-6.34961-29.45215-4.23633-8.54102-10.25781-15.21973-18.06641-20.03711-7.81152-4.81738-16.89844-7.22656-27.2627-7.22656-10.51172,0-19.78418,2.375-27.81152,7.11719-8.03027,4.74609-14.30859,11.42383-18.83203,20.03711-4.52588,8.61523-6.7876,18.6123-6.7876,30,0,11.38672,2.26172,21.42578,6.7876,30.10938,4.52344,8.6875,10.91113,15.40332,19.16113,20.14551,8.24609,4.74316,17.7002,7.11719,28.3584,7.11719,7.73633,0,14.89062-1.31348,21.45996-3.94238,6.56934-2.62695,12.15332-6.34961,16.75195-11.16797,4.59863-4.81641,7.97559-11.0918,9.72754-17.51758l-21.86523.00049c-1.96875,3.30664-4.6748,6.22705-8.11816,8.75928-4.96484,3.65039-10.94824,5.47363-17.95605,5.47363-9.49121,0-17.04688-2.95605-22.66504-8.86816-4.76819-5.01514-8.17126-11.45801-8.94812-22.86523h82.15015c.08984-1.50293.26575-5.72412.26575-7.68262ZM1061.52181,87.75586c5.54688-5.54688,12.62695-8.32227,21.24219-8.32227,8.46484,0,15.32812,2.70312,20.58398,8.10254,4.50586,4.6333,7.82385,12.46387,8.56946,19.96387h-59.42432c.96936-7.5,4.29236-15.0083,9.02869-19.74414Z"/>
+        <path class="cls-1" d="M900.94512,105.35999c-5.47998-6.42999-12.37012-10.46002-20.69995-12.09003v-1.53998c7.59009-2.58002,13.51001-6.71997,17.73999-12.40002,4.22998-5.67999,6.3501-12.32996,6.3501-19.94995,0-7.04004-1.86011-13.33002-5.58008-18.87-3.71997-5.53003-8.97998-9.89001-15.77002-13.05005-6.79004-3.15997-14.70996-4.81995-23.76001-4.95996h-64.1001v80h60.82007c8.8999,0,15.94995,2.19,21.12988,6.56,5.18018,4.38,7.77002,10.48999,7.77002,18.33002,0,7.68994-2.58984,13.79999-7.77002,18.31995-5.17993,4.53003-12.80981,6.79004-22.87988,6.79004h-36.57007v-40h-22.5v60h65.42017c9.48999,0,17.91992-1.85004,25.29004-5.54999,7.36987-3.70001,13.09985-8.76001,17.18994-15.20001,4.07983-6.44,6.12988-13.79999,6.12988-22.08002,0-9.77002-2.73999-17.87-8.20996-24.31ZM873.24517,76.87c-4.82007,3.75-11.54004,5.63-20.15015,5.63h-35.46997v-40h35.03003c8.91016,0,15.77002,1.67999,20.59009,5.02997,4.82007,3.35004,7.21997,8.17004,7.21997,14.47003,0,6.15997-2.3999,11.12-7.21997,14.87Z"/>
+        <path class="cls-1" d="M1211.34284,92.49991c-1.67107-4.54584-4.45673-8.09796-8.36081-10.65714-4.23633-2.77148-9.41699-4.16113-15.54785-4.16113-6.13184,0-11.38672,1.31445-15.7666,3.94238s-6.56934,6.4248-6.56934,11.38672c0,4.08887,1.45801,7.19238,4.37988,9.30664,2.91797,2.11816,6.49414,3.46973,10.72949,4.05078l24.30664,3.50391h.43848c4.81738.73242,9.37793,1.93652,13.68555,3.61328,4.30469,1.67969,8.1748,4.56348,11.60645,8.64941,3.42773,4.08887,5.14551,9.71094,5.14551,16.86133,0,7.30176-2.0459,13.76172-6.13086,19.37988-4.08887,5.62207-9.71094,9.92871-16.86133,12.91895-7.15527,2.99121-15.18555,4.49023-24.08789,4.49023-9.34473,0-17.40918-1.49902-24.19727-4.49023-6.78809-2.99023-12.15332-6.89648-16.09473-11.71484-3.94141-4.81738-6.64206-11.36016-7.42817-17.07933l21.8652-.00051c1.36943,4.06958,4.07665,7.57212,8.11765,10.5105,4.81738,3.50391,11.02051,5.25586,18.61328,5.25586,7.29785,0,13.17285-1.67676,17.62793-5.03613,4.45117-3.35742,6.67871-7.58984,6.67871-12.70117,0-4.08594-1.31445-6.96973-3.94141-8.65039-2.62793-1.67578-6.35059-2.88086-11.16797-3.61328-.14746-.14258-.43848-.21875-.87598-.21875l-25.83984-3.72266c-8.90625-1.31348-15.8418-4.66992-20.80273-10.07227-4.96484-5.39941-7.44531-12.04395-7.44531-19.92773,0-6.85938,1.86133-12.88184,5.58398-18.06543,3.72266-5.18066,8.97754-9.19727,15.7666-12.04395,6.78809-2.84668,14.56152-4.26953,23.32129-4.26953,7.44531,0,14.26758,1.13281,20.47461,3.39355,6.20312,2.26465,11.38672,5.58398,15.54688,9.96387,4.16113,4.37891,8.11733,12.4126,9.09515,19.19666l-21.8652.00051Z"/>
+        <path class="cls-1" d="M393.63545,22.5h22.5v150h-22.5V22.5Z"/>
+        <path class="cls-1" d="M456.8918,167.68262c-8.39648-4.81738-14.96582-11.53027-19.70801-20.14551-4.74609-8.61328-7.11719-18.53906-7.11719-29.78125,0-11.09375,2.37109-20.98438,7.11719-29.67188,4.74219-8.68359,11.31152-15.43848,19.70801-20.25586,8.39307-4.81738,17.99023-7.22656,28.7959-7.22656,10.6543,0,20.14551,2.40918,28.4668,7.22656s14.85303,11.57227,19.59863,20.25586c4.74219,8.6875,7.11719,18.57812,7.11719,29.67188,0,11.0957-2.375,20.9873-7.11719,29.6709-4.74561,8.6875-11.27734,15.43848-19.59863,20.25586s-17.8125,7.22559-28.4668,7.22559c-10.80566,0-20.40283-2.4082-28.7959-7.22559ZM502.6584,151.04004c5.03613-3.06543,8.97803-7.44531,11.82471-13.13867s4.27002-12.33496,4.27002-19.92676c0-7.73633-1.42334-14.4873-4.27002-20.25586-2.84668-5.76562-6.78857-10.18262-11.82471-13.24805-5.03662-3.06641-10.76758-4.59863-17.18994-4.59863-6.27881,0-11.93408,1.53223-16.97119,4.59863-5.03613,3.06543-8.97754,7.48242-11.82422,13.24805-2.84717,5.76855-4.27051,12.51953-4.27051,20.25586,0,7.5918,1.42334,14.2334,4.27051,19.92676,2.84668,5.69336,6.78809,10.07324,11.82422,13.13867,5.03711,3.06543,10.69238,4.59863,16.97119,4.59863,6.42236,0,12.15332-1.5332,17.18994-4.59863Z"/>
+        <path class="cls-1" d="M564.62862,163.95996c-7.22607-7.44531-10.83936-17.51855-10.83936-30.21973V62.5h22.33594v65.98535c0,7.88379,1.9707,14.41895,5.91211,19.59863,3.94189,5.18359,10.2168,7.77344,18.83203,7.77344,8.75977,0,15.72949-3.1748,20.91309-9.52539,5.17969-6.35059,7.77344-14.63379,7.77344-24.85352v-58.97852h22.5v110h-22.5v-18.17578h-1.09473c-2.92188,6.42578-7.26416,11.49707-13.0293,15.21973-5.76855,3.72266-12.95752,5.58398-21.56934,5.58398-12.2627,0-22.00781-3.72266-29.23389-11.16797Z"/>
+        <path class="cls-1" d="M690.54219,167.46289c-7.52051-4.81641-13.43311-11.56836-17.7373-20.25488-4.30762-8.68457-6.45996-18.50391-6.45996-29.45215,0-10.94922,2.11426-20.69336,6.35059-29.23438,4.23242-8.54004,10.10693-15.21875,17.62744-20.03711,7.51709-4.81641,16.02002-7.22559,25.51123-7.22559,8.75879,0,16.2041,1.93652,22.33594,5.80273,6.13086,3.87012,10.58301,8.57812,13.35742,14.12402h1.09473V22.5h22.5v150h-22.5v-17.51758h-1.09473c-2.62793,5.54883-7.08252,10.21875-13.35742,14.01367-6.27881,3.79492-13.65234,5.69336-22.11719,5.69336-9.49121,0-17.99365-2.4082-25.51074-7.22656ZM736.96553,151.25977c4.88916-3.06641,8.79346-7.44531,11.71533-13.13965,2.91895-5.69336,4.37988-12.33496,4.37988-19.92676,0-7.58887-1.42383-14.26758-4.27051-20.03711-2.84668-5.76465-6.75391-10.18164-11.71484-13.24805-4.96484-3.06543-10.51123-4.59766-16.64258-4.59766-9.34473,0-16.9707,3.43164-22.88379,10.29102-5.91211,6.86328-8.86816,15.91406-8.86816,27.1543,0,7.73828,1.38574,14.45215,4.16016,20.14551,2.77148,5.69336,6.56934,10.11035,11.38721,13.24805,4.81787,3.1416,10.2168,4.70801,16.20459,4.70801,6.13135,0,11.63965-1.5332,16.53271-4.59766Z"/>
+        <path class="cls-1" d="M357.59473,122.4707c-3.23047,9.08398-8.44434,16.53418-15.66406,22.32715-7.37354,5.91211-16.75195,8.86816-28.13916,8.86816-9.19678,0-17.62744-2.11719-25.29199-6.34961-7.66406-4.23633-13.79541-10.54883-18.39404-18.94141-4.59814-8.39648-6.89795-18.90771-6.89795-30.87646s2.2998-22.47998,6.89795-30.87646c4.59863-8.39258,10.72998-14.70508,18.39404-18.94141,7.66455-4.23242,16.09521-6.34961,25.29199-6.34961,11.38721,0,20.76562,2.95605,28.13916,8.86816,7.21265,5.78711,12.42285,13.22949,15.6543,22.30078h23.44336s-.18506-2.06201-1.10498-5.3291c-2.33691-8.61328-6.42578-16.49609-12.2627-23.65039-5.84082-7.15039-13.32324-12.84473-22.44531-17.08008-9.125-4.23242-19.45508-6.35059-30.98535-6.35059-14.30908,0-27.08203,3.25098-38.32129,9.74512-11.24316,6.49707-20.03711,15.62207-26.38721,27.37109-6.3042,11.66943-9.47607,25.1001-9.52148,40.29248.04541,15.19238,3.21729,28.62305,9.52148,40.29248,6.3501,11.74902,15.14404,20.87402,26.38721,27.37109,11.23926,6.49414,24.01221,9.74512,38.32129,9.74512,11.53027,0,21.86035-2.11816,30.98535-6.35059,9.12207-4.23535,16.60449-9.92969,22.44531-17.08008,5.83691-7.1543,9.92578-15.03711,12.2627-23.65039.91992-3.26709,1.10498-5.3291,1.10498-5.3291h-23.42578l-.00781-.02637Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
+</a>
+</li>
+<li>
+<a href='https://osuosl.org' rel='noreferrer noopener' target='_blank'>
+<svg width="249" height="70" viewBox="0 0 249 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 0C6.71573 0 0 6.71573 0 15V55C0 63.2843 6.71573 70 15 70H65C73.2843 70 80 63.2843 80 55V15C80 6.71573 73.2843 0 65 0H15ZM17 14C15.3431 14 14 15.3431 14 17V53C14 54.6569 15.3431 56 17 56H63C64.6569 56 66 54.6569 66 53V17C66 15.3431 64.6569 14 63 14H17Z" fill="#aa321e"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M193 0H179V55C179 63.2843 185.716 70 194 70H249V56H209C201.458 56 197.686 56 195.343 53.6569C193 51.3137 193 47.5425 193 40V0Z" fill="#aa321e"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M88 15C88 6.71573 94.7157 0 103 0H166V14H107C104.239 14 102 16.2386 102 19V23C102 25.7614 104.239 28 107 28H152V28.0328C159.818 28.5474 166 35.0518 166 43V55C166 63.2843 159.284 70 151 70H88V56H147C149.761 56 152 53.7614 152 51V47C152 44.2386 149.761 42 147 42H102V41.9672C94.182 41.4526 88 34.9482 88 27V15Z" fill="#aa321e"/>
+</svg>
+
+</a>
+</li>
+<li>
+<a href='https://cd.foundation/' rel='noreferrer noopener' target='_blank'>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1"
+     viewBox="0 0 388.9 293.71">
+    <defs>
+        <style>
+            .cls-1{fill: currentColor;}.cls-2{fill:#c49a6c;}.cls-3{fill:url(#linear-gradient);}.cls-4{fill:url(#linear-gradient-2);}.cls-5{fill:url(#linear-gradient-3);}.cls-6{fill:url(#linear-gradient-4);}.cls-7{fill:url(#linear-gradient-5);}
+        </style>
+        <linearGradient id="linear-gradient" x1="208.87" y1="137.52" x2="62.58" y2="143.07"
+                        gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ed1c24"></stop>
+            <stop offset="1" stop-color="#f7941d"></stop>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="210.54" y1="181.6" x2="64.26" y2="187.16"
+                        xlink:href="#linear-gradient"></linearGradient>
+        <linearGradient id="linear-gradient-3" x1="207.93" y1="112.86" x2="61.65" y2="118.42"
+                        xlink:href="#linear-gradient"></linearGradient>
+        <linearGradient id="linear-gradient-4" x1="207.2" y1="93.5" x2="60.91" y2="99.05"
+                        xlink:href="#linear-gradient"></linearGradient>
+        <linearGradient id="linear-gradient-5" x1="363.55" y1="105.98" x2="187.01" y2="112.92"
+                        xlink:href="#linear-gradient"></linearGradient>
+    </defs>
+    <title>CD.Foundation_LogoMaster</title>
+    <path class="cls-1"
+          d="M16.74,287c-6,0-9.06-5.15-9.06-11.32s3.05-11.33,9.06-11.33A8.87,8.87,0,0,1,24,267.83l3-2.58a12.58,12.58,0,0,0-10.31-4.84c-8.71,0-13.47,7.22-13.47,15.19s4.65,15.3,13.55,15.3A12.48,12.48,0,0,0,27.05,286l-3-2.77A8.8,8.8,0,0,1,16.74,287Z"></path>
+    <path class="cls-1"
+          d="M46.3,260.41a40.82,40.82,0,0,0-8.78.93v28.43a35.92,35.92,0,0,0,8.75,1.13c8.9,0,13.86-7.3,13.86-15.46S55.05,260.41,46.3,260.41Zm-.11,26.43a14.21,14.21,0,0,1-4.61-.74V264.86a21,21,0,0,1,4.61-.51c6.09,0,9.53,5,9.53,11.09C55.72,281.77,52.51,286.84,46.19,286.84Z"></path>
+    <path class="cls-1" d="M71.92,285.52a2.58,2.58,0,1,0,2.5,2.53A2.52,2.52,0,0,0,71.92,285.52Z"></path>
+    <polygon class="cls-1"
+             points="85.36 290.67 89.42 290.67 89.42 277.36 102.97 277.36 103.28 273.57 89.42 273.57 89.42 264.39 104.1 264.39 104.41 260.6 85.36 260.6 85.36 290.67"></polygon>
+    <path class="cls-1"
+          d="M126.87,260.41c-8.94,0-13.59,7.26-13.59,15.19s4.65,15.3,13.59,15.3c8.75,0,13.51-7.34,13.51-15.3S135.62,260.41,126.87,260.41Zm0,26.55c-6,0-9.1-5.15-9.1-11.32s3-11.33,9.1-11.33,9.1,5.12,9.1,11.33S132.88,287,126.83,287Z"></path>
+    <path class="cls-1"
+          d="M167.79,280.67c0,3.17-2.61,6.21-6.87,6.21-4.8,0-7-3-7-6.21V260.6l-4.06.31V281c0,6.75,5.66,9.87,11.09,9.87,5.12,0,10.94-3.27,10.94-9.87V260.6l-4.07.31Z"></path>
+    <path class="cls-1"
+          d="M202.24,285.71c-5.12-6.56-11.48-23.15-15.62-25.11h-4v30.07h4.06l0-24.33c4.8,7.42,10.5,22.49,15.62,24.33h4.06V260.6l-4.06.31Z"></path>
+    <path class="cls-1"
+          d="M226.41,260.41a40.75,40.75,0,0,0-8.78.93v28.43a35.9,35.9,0,0,0,8.74,1.13c8.91,0,13.86-7.3,13.86-15.46S235.16,260.41,226.41,260.41Zm-.12,26.43a14.2,14.2,0,0,1-4.6-.74V264.86a20.93,20.93,0,0,1,4.6-.51c6.1,0,9.53,5,9.53,11.09C235.82,281.77,232.62,286.84,226.29,286.84Z"></path>
+    <path class="cls-1"
+          d="M258.4,260.6c-4.69,9.14-9.46,20-10.86,30.07h4.06a62.59,62.59,0,0,1,1.8-8.16h14.17a62.59,62.59,0,0,1,1.8,8.16h4.06c-1.41-10-6.17-20.93-10.86-30.07Zm-3.79,18.12a123.62,123.62,0,0,1,5.89-13.94,129.23,129.23,0,0,1,5.86,13.94Z"></path>
+    <polygon class="cls-1"
+             points="279.29 264.04 287.57 264.04 287.57 290.67 291.63 290.67 291.63 264.04 299.48 264.04 299.79 260.6 279.6 260.6 279.29 264.04"></polygon>
+    <polygon class="cls-1" points="310.53 290.67 314.59 290.67 314.59 260.6 310.53 260.92 310.53 290.67"></polygon>
+    <path class="cls-1"
+          d="M338.8,260.41c-8.94,0-13.59,7.26-13.59,15.19s4.65,15.3,13.59,15.3c8.75,0,13.51-7.34,13.51-15.3S347.55,260.41,338.8,260.41Zm0,26.55c-6.05,0-9.1-5.15-9.1-11.32s3-11.33,9.1-11.33,9.1,5.12,9.1,11.33S344.82,287,338.76,287Z"></path>
+    <path class="cls-1"
+          d="M381.6,260.91v24.8c-5.11-6.56-11.48-23.15-15.62-25.11h-4v30.07H366l0-24.33c4.81,7.42,10.51,22.49,15.62,24.33h4.06V260.6Z"></path>
+    <path class="cls-2"
+          d="M137.17,184.19c1.42-.19,2.8-.44,4.15-.76s2.66-.69,4-1.12c7.72-2.62,14.41-7.41,20.81-14.07l-.08-.1C157.5,177,148.49,182.64,137.17,184.19Z"></path>
+    <path class="cls-3"
+          d="M177,154.85a127.34,127.34,0,0,1-10.95,13.39c-6.4,6.66-13.09,11.45-20.81,14.07-1.29.43-2.61.81-4,1.12s-2.73.57-4.15.76c-.47.07-.94.13-1.42.18l-.77.07c-.61.05-1.22.1-1.84.13h-.37c-.73,0-1.47,0-2.22,0a35.73,35.73,0,0,1-7.76-.88A42.19,42.19,0,0,1,117,182c-1.29-.49-2.56-1-3.82-1.65s-2.5-1.28-3.72-2a50.23,50.23,0,0,1-14.44-13c-.87-1.17-1.69-2.39-2.46-3.64-.38-.63-.74-1.26-1.09-1.91a43.89,43.89,0,0,1-1.91-4,39.44,39.44,0,0,1,0-30.75,43.89,43.89,0,0,1,1.91-4c.35-.65.71-1.28,1.09-1.91.77-1.25,1.59-2.47,2.46-3.64a50.41,50.41,0,0,1,14.44-13c1.22-.72,2.46-1.39,3.72-2A41.13,41.13,0,0,1,117,99a42.19,42.19,0,0,1,5.83-1.75,35.73,35.73,0,0,1,7.76-.88c.73,0,1.46,0,2.18,0h.46c.61,0,1.22.08,1.82.13l.88.09.86.1c1.52.2,3,.47,4.45.81.72.17,1.43.36,2.13.56a43.21,43.21,0,0,1,10,4.37c1.26.75,2.49,1.56,3.71,2.44a62.88,62.88,0,0,1,7.08,6q1.72,1.68,3.43,3.54l.07-.11A134.56,134.56,0,0,1,177,126.07c4.59-7.24,11.53-18.12,14-21.73,1-1.45,2-2.92,3.09-4.4C182.66,86,168.91,74.42,150.54,69.48l-.13,0c-.89-.24-1.78-.46-2.69-.67l-.38-.09c-.88-.19-1.77-.37-2.66-.53l-.53-.1c-1-.18-2.09-.34-3.16-.48l-.12,0c-.58-.08-1.16-.14-1.75-.2l-.33,0-1.58-.14-.48,0-1.48-.1-.57,0-1.5-.06-.56,0-2.07,0C91.34,66.9,57,101.28,57,140.48s34.38,73.59,73.59,73.59l2.06,0,.59,0,1.46-.06.62,0,1.41-.08.57,0,1.44-.13.48,0,1.53-.18.35-.05,1.66-.23.18,0c1-.16,2-.34,3-.53l.55-.12c.81-.17,1.61-.35,2.41-.54l.49-.12c.85-.22,1.7-.44,2.54-.69l.2-.06c17.5-5.13,30.75-16.37,41.83-29.78-1.72-2.59-2.87-4.53-3.41-5.47Z"></path>
+    <path class="cls-4" d="M133,184.58h.19c.62,0,1.23-.08,1.84-.13-.61.05-1.22.1-1.85.13Z"></path>
+    <polygon class="cls-5" points="167.59 114.34 167.52 114.45 167.52 114.45 167.59 114.34"></polygon>
+    <path class="cls-6" d="M133,96.39h-.23c-.72,0-1.45,0-2.18,0,.73,0,1.46,0,2.18,0Z"></path>
+    <path class="cls-7"
+          d="M322.12,2.8V82.71a72.19,72.19,0,0,0-44.4-15.81l-2.07,0-.56,0-1.5.06L273,67l-1.48.1-.48,0-1.58.14-.33,0c-.59.06-1.17.12-1.75.2l-.13,0c-1.06.13-2.11.3-3.15.48l-.53.1c-.9.16-1.78.34-2.66.53l-.38.09c-25.62,5.79-42.49,24.32-56.41,44.59h0c-.59.86-1.14,1.73-1.72,2.59-1.9,2.89-4.61,7.11-7.29,11.31-3.52,5.51-7,11-8.39,13.22l17.41,27.13h0s18.57,34.16,52.07,43.46l.2.06c.84.25,1.69.47,2.54.69l.49.12c.79.2,1.6.37,2.41.54l.55.12c1,.19,2,.37,3,.53l.18,0,1.66.23.35.05,1.53.18.48,0,1.44.13.57,0,1.41.08.62,0,1.46.06.59,0,2.06,0c46.18,0,72.9-26.14,73.57-71.81h0V2.8Zm-44.4,181.84c-.75,0-1.49,0-2.22,0l-.37,0c-.62,0-1.23-.08-1.84-.13l-.77-.07c-.48-.05-.95-.11-1.42-.18a41.43,41.43,0,0,1-8.08-1.92,41.88,41.88,0,0,1-5.6-2.39,47.1,47.1,0,0,1-5.28-3.18c-.85-.59-1.7-1.21-2.54-1.87a69.56,69.56,0,0,1-7.33-6.69l-.08.1h0c-1.06-1.1-2.1-2.27-3.15-3.47-.13-.14-.25-.3-.38-.45-.53-.61-1.06-1.22-1.59-1.87s-.95-1.18-1.42-1.77-.75-.93-1.13-1.42c-1.7-2.19-3.39-4.51-5.11-7-.59-.84-1.18-1.71-1.78-2.58-.32-.48-.65-1-1-1.46-.57-.86-1.15-1.7-1.73-2.58l-.3-.46c-1-1.53-2-3.11-3.08-4.73q2.49-3.89,4.91-7.48c1.61-2.39,3.2-4.69,4.78-6.87s3.14-4.26,4.72-6.23,3.14-3.82,4.73-5.56q1.71-1.86,3.43-3.54c1.16-1.13,2.32-2.19,3.51-3.19s2.37-1.93,3.59-2.81a48.62,48.62,0,0,1,6.54-3.9c.28-.14.56-.31.85-.45l.19-.1c1.19-.55,2.4-1,3.63-1.46l.41-.17c.23-.07.47-.12.7-.2.92-.3,1.87-.57,2.82-.8l1.16-.29c1.31-.28,2.64-.53,4-.71l.86-.1.88-.09c.6,0,1.21-.1,1.82-.13l.46,0c.72,0,1.45,0,2.18,0a35.82,35.82,0,0,1,3.86.22,40.53,40.53,0,0,1,5.85,1.14c1.3.36,2.6.78,3.88,1.27a41.13,41.13,0,0,1,3.82,1.65c1.26.61,2.5,1.28,3.72,2s2.42,1.52,3.58,2.35,2.3,1.73,3.4,2.68a49.35,49.35,0,0,1,7.46,8c.87,1.17,1.69,2.39,2.46,3.64a43.11,43.11,0,0,1,4.49,10.06,40,40,0,0,1,1,4.36,38.47,38.47,0,0,1,.6,6.83C321.87,171,308.25,184.64,277.72,184.64Z"></path>
+</svg>
+</a>
+</li>
+<li>
+<a href='https://aws.amazon.com/' rel='noreferrer noopener' target='_blank'>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 304 182" style="enable-background:new 0 0 304 182;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill: var(--color);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FF9900;}
+</style>
+    <g>
+	<path class="st0" d="M86.4,66.4c0,3.7,0.4,6.7,1.1,8.9c0.8,2.2,1.8,4.6,3.2,7.2c0.5,0.8,0.7,1.6,0.7,2.3c0,1-0.6,2-1.9,3l-6.3,4.2
+		c-0.9,0.6-1.8,0.9-2.6,0.9c-1,0-2-0.5-3-1.4C76.2,90,75,88.4,74,86.8c-1-1.7-2-3.6-3.1-5.9c-7.8,9.2-17.6,13.8-29.4,13.8
+		c-8.4,0-15.1-2.4-20-7.2c-4.9-4.8-7.4-11.2-7.4-19.2c0-8.5,3-15.4,9.1-20.6c6.1-5.2,14.2-7.8,24.5-7.8c3.4,0,6.9,0.3,10.6,0.8
+		c3.7,0.5,7.5,1.3,11.5,2.2v-7.3c0-7.6-1.6-12.9-4.7-16c-3.2-3.1-8.6-4.6-16.3-4.6c-3.5,0-7.1,0.4-10.8,1.3c-3.7,0.9-7.3,2-10.8,3.4
+		c-1.6,0.7-2.8,1.1-3.5,1.3c-0.7,0.2-1.2,0.3-1.6,0.3c-1.4,0-2.1-1-2.1-3.1v-4.9c0-1.6,0.2-2.8,0.7-3.5c0.5-0.7,1.4-1.4,2.8-2.1
+		c3.5-1.8,7.7-3.3,12.6-4.5c4.9-1.3,10.1-1.9,15.6-1.9c11.9,0,20.6,2.7,26.2,8.1c5.5,5.4,8.3,13.6,8.3,24.6V66.4z M45.8,81.6
+		c3.3,0,6.7-0.6,10.3-1.8c3.6-1.2,6.8-3.4,9.5-6.4c1.6-1.9,2.8-4,3.4-6.4c0.6-2.4,1-5.3,1-8.7v-4.2c-2.9-0.7-6-1.3-9.2-1.7
+		c-3.2-0.4-6.3-0.6-9.4-0.6c-6.7,0-11.6,1.3-14.9,4c-3.3,2.7-4.9,6.5-4.9,11.5c0,4.7,1.2,8.2,3.7,10.6
+		C37.7,80.4,41.2,81.6,45.8,81.6z M126.1,92.4c-1.8,0-3-0.3-3.8-1c-0.8-0.6-1.5-2-2.1-3.9L96.7,10.2c-0.6-2-0.9-3.3-0.9-4
+		c0-1.6,0.8-2.5,2.4-2.5h9.8c1.9,0,3.2,0.3,3.9,1c0.8,0.6,1.4,2,2,3.9l16.8,66.2l15.6-66.2c0.5-2,1.1-3.3,1.9-3.9c0.8-0.6,2.2-1,4-1
+		h8c1.9,0,3.2,0.3,4,1c0.8,0.6,1.5,2,1.9,3.9l15.8,67l17.3-67c0.6-2,1.3-3.3,2-3.9c0.8-0.6,2.1-1,3.9-1h9.3c1.6,0,2.5,0.8,2.5,2.5
+		c0,0.5-0.1,1-0.2,1.6c-0.1,0.6-0.3,1.4-0.7,2.5l-24.1,77.3c-0.6,2-1.3,3.3-2.1,3.9c-0.8,0.6-2.1,1-3.8,1h-8.6c-1.9,0-3.2-0.3-4-1
+		c-0.8-0.7-1.5-2-1.9-4L156,23l-15.4,64.4c-0.5,2-1.1,3.3-1.9,4c-0.8,0.7-2.2,1-4,1H126.1z M254.6,95.1c-5.2,0-10.4-0.6-15.4-1.8
+		c-5-1.2-8.9-2.5-11.5-4c-1.6-0.9-2.7-1.9-3.1-2.8c-0.4-0.9-0.6-1.9-0.6-2.8v-5.1c0-2.1,0.8-3.1,2.3-3.1c0.6,0,1.2,0.1,1.8,0.3
+		c0.6,0.2,1.5,0.6,2.5,1c3.4,1.5,7.1,2.7,11,3.5c4,0.8,7.9,1.2,11.9,1.2c6.3,0,11.2-1.1,14.6-3.3c3.4-2.2,5.2-5.4,5.2-9.5
+		c0-2.8-0.9-5.1-2.7-7c-1.8-1.9-5.2-3.6-10.1-5.2L246,52c-7.3-2.3-12.7-5.7-16-10.2c-3.3-4.4-5-9.3-5-14.5c0-4.2,0.9-7.9,2.7-11.1
+		c1.8-3.2,4.2-6,7.2-8.2c3-2.3,6.4-4,10.4-5.2c4-1.2,8.2-1.7,12.6-1.7c2.2,0,4.5,0.1,6.7,0.4c2.3,0.3,4.4,0.7,6.5,1.1
+		c2,0.5,3.9,1,5.7,1.6c1.8,0.6,3.2,1.2,4.2,1.8c1.4,0.8,2.4,1.6,3,2.5c0.6,0.8,0.9,1.9,0.9,3.3v4.7c0,2.1-0.8,3.2-2.3,3.2
+		c-0.8,0-2.1-0.4-3.8-1.2c-5.7-2.6-12.1-3.9-19.2-3.9c-5.7,0-10.2,0.9-13.3,2.8c-3.1,1.9-4.7,4.8-4.7,8.9c0,2.8,1,5.2,3,7.1
+		c2,1.9,5.7,3.8,11,5.5l14.2,4.5c7.2,2.3,12.4,5.5,15.5,9.6c3.1,4.1,4.6,8.8,4.6,14c0,4.3-0.9,8.2-2.6,11.6
+		c-1.8,3.4-4.2,6.4-7.3,8.8c-3.1,2.5-6.8,4.3-11.1,5.6C264.4,94.4,259.7,95.1,254.6,95.1z"/>
+        <g>
+		<path class="st1" d="M273.5,143.7c-32.9,24.3-80.7,37.2-121.8,37.2c-57.6,0-109.5-21.3-148.7-56.7c-3.1-2.8-0.3-6.6,3.4-4.4
+			c42.4,24.6,94.7,39.5,148.8,39.5c36.5,0,76.6-7.6,113.5-23.2C274.2,133.6,278.9,139.7,273.5,143.7z"/>
+            <path class="st1" d="M287.2,128.1c-4.2-5.4-27.8-2.6-38.5-1.3c-3.2,0.4-3.7-2.4-0.8-4.5c18.8-13.2,49.7-9.4,53.3-5
+			c3.6,4.5-1,35.4-18.6,50.2c-2.7,2.3-5.3,1.1-4.1-1.9C282.5,155.7,291.4,133.4,287.2,128.1z"/>
+	</g>
+</g>
+</svg>
+
+</a>
+</li>
+<li>
+<a href='https://github.com' rel='noreferrer noopener' target='_blank'>
+<svg height="30" aria-hidden="true" viewBox="0 0 45 16" version="1.1" width="84">
+    <path fill="currentColor" d="M8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17Zm35.85 2.33c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88ZM27.68 2.43c.09 0 .17.08.17.17v11.11c0 .09-.08.17-.17.17h-2.13c-.09 0-.17-.08-.17-.17l.02-4.75h-3.31v4.75c0 .09-.08.17-.17.17h-2.13c-.08 0-.17-.08-.17-.17V2.6c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v4.09h3.31V2.6c0-.09.08-.17.17-.17Zm8.26 3.64c.11 0 .19.08.19.17l-.02 7.47c0 .09-.06.17-.17.17H34.6c-.07 0-.14-.04-.16-.09-.03-.06-.08-.45-.08-.45s-1.13.77-2.52.77c-1.69 0-2.92-.55-2.92-2.75V6.25c0-.09.08-.17.17-.17h2.14c.09 0 .17.08.17.17V11c0 .75.22 1.09.97 1.09s1.3-.39 1.3-.39V6.26c0-.11.06-.19.17-.19Zm-17.406 5.971h.005a.177.177 0 0 1 .141.179v1.5c0 .07-.03.14-.09.16-.1.05-.74.22-1.27.22-1.16 0-2.86-.25-2.86-2.69V8.13h-1.11c-.09 0-.17-.08-.17-.19V6.58c0-.08.05-.15.13-.17.07-.01 1.16-.28 1.16-.28V3.96c0-.08.05-.13.14-.13h2.16c.09 0 .14.05.14.13v2.11h1.59c.08 0 .16.08.16.17v1.7c0 .11-.07.19-.16.19h-1.59v3.131c0 .47.27.83 1.05.83.247 0 .481-.049.574-.05ZM12.24 6.06c.09 0 .17.08.17.17v7.37c0 .18-.05.27-.25.27h-1.92c-.17 0-.3-.07-.3-.27V6.26c0-.11.08-.2.17-.2Zm29.99 3.78c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25ZM11.19 2.68c.75 0 1.36.61 1.36 1.38 0 .77-.61 1.38-1.36 1.38-.77 0-1.38-.61-1.38-1.38 0-.77.61-1.38 1.38-1.38Zm7.34 9.35v.001l.01.01h-.001l-.005-.001v.001c-.009-.001-.015-.011-.024-.011Z"></path>
+</svg>
+
+</a>
+</li>
+<li>
+<a href='https://jfrog.com' rel='noreferrer noopener' target='_blank'>
+<svg width="68" height="66" viewBox="0 0 68 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M65.0396 45.1702L63.4026 42.5543C62.4955 43.4158 61.3852 43.908 60.3026 43.908C59.8055 43.908 59.5433 43.8471 58.4607 43.5702C57.3793 43.2615 56.6182 43.1692 55.7711 43.1692C51.9398 43.1692 49.4548 45.2625 49.4548 48.4944C49.4548 50.833 50.5078 52.28 52.6718 52.8647C51.7944 53.0804 50.8291 53.5422 50.3907 54.0659C50.069 54.4351 49.9232 54.9266 49.9232 55.5111C49.9232 56.0049 50.0403 56.4353 50.2151 56.8045C50.4194 57.1431 50.712 57.4202 51.0634 57.5736C51.7642 57.8507 52.9051 58.0352 54.6594 58.0666C55.5664 58.0666 56.1219 58.0974 56.3266 58.0974C57.4088 58.1591 57.9638 58.3428 58.3737 58.5589C58.7826 58.8054 59.0751 59.3595 59.0751 59.9744C59.0751 60.5903 58.695 61.2058 58.1396 61.5754C57.6134 61.9446 56.7649 62.0989 55.6539 62.0989C53.8406 62.0989 52.8466 61.4214 52.8466 60.1591C52.8466 59.605 52.9051 59.4816 53.022 59.1434H49.3963C49.2503 59.4507 49.0461 59.8818 49.0461 60.7442C49.0461 61.8218 49.4548 62.7447 50.2736 63.5451C51.6192 64.8689 53.8121 65.2376 55.9465 65.2376C58.2852 65.2376 60.5375 64.6842 61.8527 63.2059C62.6709 62.2826 63.0512 61.2671 63.0512 59.944C63.0512 58.5282 62.6424 57.4507 61.7653 56.5892C60.7116 55.5727 59.5139 55.2033 57.2332 55.1729L55.1271 55.1425C54.7182 55.1425 54.4848 54.9892 54.4848 54.7733C54.4848 54.342 55.0393 53.9725 56.0337 53.4806C56.3266 53.511 56.4434 53.511 56.6182 53.511C59.8055 53.511 62.1451 51.5414 62.1451 48.8331C62.1451 47.7862 61.8527 46.9866 61.2672 46.248C61.7653 46.3089 61.911 46.3401 62.2913 46.3401C63.3727 46.3401 64.1913 46.0013 65.0396 45.1702ZM67.4509 29.8944C67.4509 28.1244 66.3596 26.4846 64.5038 25.1375C64.6712 25.6784 64.7652 26.2282 64.7652 26.7889C64.7652 31.8573 57.6884 36.1938 47.6557 37.9894C48.7905 38.1173 49.9676 38.1873 51.1781 38.1873C60.1656 38.1873 67.4509 34.4742 67.4509 29.8944ZM61.6676 27.1375C61.6676 32.0016 50.788 35.9442 37.367 35.9442C23.9467 35.9442 13.0678 32.0016 13.0678 27.1375C13.0678 25.6055 14.1473 24.1655 16.0454 22.9114C15.752 23.4492 15.5964 24.0056 15.5964 24.5758C15.5964 29.069 25.1653 32.7114 36.9699 32.7114C48.7748 32.7114 58.3446 29.069 58.3446 24.5758C58.3446 23.7262 57.9998 22.9058 57.3642 22.1348C60.0749 23.5562 61.6676 25.2793 61.6676 27.1375ZM15.7526 19.3518C10.8507 20.5495 7.52099 22.8951 7.52099 25.5925C7.52099 27.2623 8.79814 28.7955 10.9308 30.0068C10.2903 28.9818 9.94158 27.9034 9.94158 26.7889C9.94158 23.9833 12.1145 21.403 15.7526 19.3518ZM63.6878 11.4436C63.237 10.901 62.6194 10.9027 62.1322 11.344C61.6616 11.9677 61.6482 12.4115 61.9822 12.7561C62.3384 13.1245 63.077 13.4419 63.6088 13.0198C64.1408 12.596 64.1388 11.9861 63.6878 11.4436ZM57.5132 13.4658C59.0344 11.3444 61.9445 15.0957 58.6458 15.6178C57.3258 15.8269 55.0969 17.2708 54.1404 19.5499C52.7898 22.9227 53.3743 25.419 51.0524 26.9205C46.1008 30.1198 30.8461 31.327 24.2775 27.2228C19.1285 24.0058 20.8952 18.9055 6.16707 7.66519C4.24102 6.19615 6.52211 4.63644 7.96477 5.63473C9.40726 6.63415 8.08689 6.89949 10.9965 9.81119C16.8734 15.6901 16.8143 10.4048 17.7424 12.4039C19.694 16.6079 23.9992 20.8418 23.9992 20.8418C28.3108 23.6483 31.7539 24.2617 38.1138 19.9584C42.1471 17.2295 40.4972 24.2987 50.3886 19.2039C53.9959 17.3453 53.8459 18.5776 57.5133 13.4658H57.5132ZM14.5958 8.07278C14.3466 7.72198 13.6057 7.56053 13.1101 8.05921C12.6153 8.55786 12.8587 9.05089 13.1448 9.34722C13.5553 9.77165 14.251 9.73677 14.6648 9.50615C15.0805 9.27611 14.9931 8.63228 14.5958 8.07278ZM4.3705 4.17071C4.69355 3.81605 5.10152 3.14508 4.40073 1.86076C3.88928 0.920602 2.19795 0.536494 1.60102 0.895016C1.00602 1.25474 0.278097 2.64296 1.27484 3.25383C2.55919 4.04202 3.40107 5.23316 4.3705 4.17071ZM65.3491 2.42646C64.8968 1.7693 63.9421 1.88828 62.9971 2.57415C62.0515 3.25924 62.2304 4.56181 62.543 4.8651C63.0913 5.39845 64.5528 5.03838 64.8933 4.65638C65.7704 3.67534 65.8011 3.08347 65.3491 2.42646ZM59.9083 6.59813C61.2618 5.95991 63.3903 8.03439 60.3098 9.59162C55.9072 11.8184 55.4405 14.5811 52.659 16.3378C47.9813 19.2923 49.4126 16.4571 41.8879 15.3841C38.9901 14.9707 38.0579 18.2035 35.7957 17.2692C30.5804 15.115 26.9378 15.5275 23.5598 18.275C22.3371 17.7357 21.0576 15.6534 20.5562 14.8185C21.9257 13.4772 21.3727 11.2355 20.5993 10.0062C19.8269 8.77688 18.8911 9.12572 17.8639 7.99468C16.8358 6.86519 18.2513 3.91702 19.5678 6.18182C24.5002 14.6681 27.7384 11.1382 31.7674 10.632C35.634 10.1465 39.052 12.2526 40.0999 6.28706C40.2722 5.31202 41.222 5.07867 41.3189 6.69114C41.4154 8.30475 42.0209 12.2337 44.1469 12.7408C46.2724 13.2472 47.96 12.2429 48.4577 11.6855C48.9556 11.1281 49.2163 11.2091 49.4347 12.5923C49.654 13.9766 50.193 15.8883 53.1778 13.7588C59.2824 9.40287 57.5357 7.71753 59.9083 6.59813ZM41.7637 2.61176C41.7834 1.91462 41.4668 1.47762 40.7792 1.50221C40.0917 1.52721 39.8452 1.87316 39.8675 2.54605C40.039 3.81973 40.2532 3.78929 40.7092 3.90693C41.1652 4.02477 41.7439 3.30828 41.7637 2.61176ZM17.2899 3.80889C17.5893 3.43136 17.618 2.93443 17.2207 2.37435C16.9718 2.02392 15.8074 1.78362 15.3132 2.2821C14.8175 2.78112 15.2685 3.56487 15.6541 3.68367C16.3683 3.90366 16.6856 4.56918 17.2899 3.80889ZM58.1105 48.5248C58.1105 49.9717 57.262 50.7714 55.7123 50.7714C54.3379 50.7714 53.4022 50.1258 53.4022 48.5248C53.4022 47.0474 54.2505 46.1857 55.7418 46.1857C57.2331 46.1857 58.1105 47.0474 58.1105 48.5248ZM46.8819 57.3586C48.1697 55.819 48.7532 53.9724 48.7532 51.2642C48.7532 48.7095 48.2272 46.9865 47.0288 45.5082C45.7417 43.908 44.0757 43.139 41.9404 43.139C37.9058 43.139 35.2156 46.4313 35.2156 51.3878C35.2156 56.3427 37.8761 59.5439 41.9404 59.5439C44.2504 59.5439 45.7417 58.7131 46.8819 57.3586ZM44.4847 51.2338C44.4847 54.9583 43.7542 56.5578 42.0584 56.5578C41.2974 56.5578 40.421 56.1277 40.0696 55.2661C39.7483 54.4645 39.5717 53.1102 39.5717 51.295C39.5717 49.7252 39.7184 48.6174 39.9816 47.7862C40.3029 46.8015 41.0631 46.1857 41.9989 46.1857C42.7005 46.1857 43.3145 46.4935 43.6949 47.017C44.2213 47.7244 44.4847 49.1093 44.4847 51.2338ZM7.1938 62.0361L9.09309 64.2522C10.9358 63.5136 13.2457 61.8525 13.8303 59.2365C14.0349 58.3741 14.1221 57.8201 14.1221 55.049V37.9243H9.9712V55.5111C9.9712 57.8201 9.88359 58.6815 9.5615 59.4507C9.18163 60.3129 8.24498 61.3591 7.1938 62.0361ZM16.786 37.8756H16.3596V59.2052H20.4529V49.7554H25.6285V46.248H20.4529V41.3531H26.9144L27.1652 39.4908C23.2825 39.1939 19.7539 38.569 16.786 37.8756ZM30.3943 43.0771C30.7455 43.7242 30.9492 44.4316 31.0083 45.3245C31.5643 44.5239 32.5 43.6928 33.2305 43.3227C33.553 43.1692 34.0786 43.0771 34.5173 43.0771C35.1018 43.0771 35.3648 43.139 35.9788 43.4157L34.8972 47.0474C34.5173 46.8325 34.1958 46.7398 33.7572 46.7398C32.8799 46.7398 32.0903 47.1711 31.3591 48.0631V59.2052H27.4413V48.6781C27.4413 46.5544 27.2072 44.9541 26.8857 44.0624L30.3943 43.0771Z" fill="#3fa451"/>
+</svg>
+
+</a>
+</li>
+</ul>
+</div>
+<div class='supporters'>
+<p>
+We thank the following organizations for their support of the Jenkins
+project through free and/or open source licensing programs.
+</p>
+<ul>
+<li>
+<a href='https://atlassian.com' rel='noreferrer noopener' target='_blank'>Atlassian</a>
+</li>
+<li>
+<a href='https://www.datadoghq.com' rel='noreferrer noopener' target='_blank'>Datadog</a>
+</li>
+<li>
+<a href='https://www.digitalocean.com/' rel='noreferrer noopener' target='_blank'>DigitalOcean</a>
+</li>
+<li>
+<a href='https://www.discourse.org/' rel='noreferrer noopener' target='_blank'>Discourse</a>
+</li>
+<li>
+<a href='https://www.fastly.com' rel='noreferrer noopener' target='_blank'>Fastly</a>
+</li>
+<li>
+<a href='https://www.ibm.com' rel='noreferrer noopener' target='_blank'>IBM</a>
+</li>
+<li>
+<a href='https://www.netlify.com/' rel='noreferrer noopener' target='_blank'>Netlify</a>
+</li>
+<li>
+<a href='https://pagerduty.com' rel='noreferrer noopener' target='_blank'>PagerDuty</a>
+</li>
+<li>
+<a href='https://sentry.io' rel='noreferrer noopener' target='_blank'>Sentry</a>
+</li>
+<li>
+<a href='https://www.tsinghua.edu.cn' rel='noreferrer noopener' target='_blank'>Tsinghua University</a>
+</li>
+<li>
+<a href='https://xmission.com' rel='noreferrer noopener' target='_blank'>XMission</a>
+</li>
+<li>
+<a href='https://belnet.be/' rel='noreferrer noopener' target='_blank'>Belnet</a>
+</li>
+<li>
+<a href='https://www.rwth-aachen.de/' rel='noreferrer noopener' target='_blank'>RWTH Aachen University</a>
+</li>
+<li>
+<a href='https://hostico.ro/' rel='noreferrer noopener' target='_blank'>Hostico</a>
+</li>
+<li>
+<a href='http://freedif.org/' rel='noreferrer noopener' target='_blank'>FreeDif</a>
+</li>
+<li>
+<a href='https://servanamanaged.com/' rel='noreferrer noopener' target='_blank'>Servana</a>
+</li>
+<li>
+<a href='https://www.yamagata-u.ac.jp/en/' rel='noreferrer noopener' target='_blank'>Yamagata University</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='thank-you-block'>
+<div class='thank-you-box'>
+<div class='contributor-data'>
+<div class='image-div'>
+<img alt='Avatar' height='50' src='https://avatars.githubusercontent.com/u/300688?v=4' width='50'>
+</div>
+<div class='desc-div'>
+<p>
+Thank you
+<a href='https://github.com/rsandell' target='_blank'>rsandell</a>
+</p>
+<p>
+for making
+3
+pull requests
+</p>
+<p>
+to the
+<a href='https://github.com/jenkinsci/winstone' target='_blank'>winstone</a>,
+<a href='https://github.com/jenkinsci/pipeline-utility-steps-plugin' target='_blank'>pipeline-utility-steps-plugin</a>,
+<a href='https://github.com/jenkinsci/jackson2-api-plugin' target='_blank'>jackson2-api-plugin</a>
+</p>
+<p>
+repos in February 2025!
+</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<script src='/assets/bower/anchor-js/anchor.min.js'></script>
+<script src='/assets/bower/@popperjs/core/umd/popper.min.js'></script>
+<script src='/assets/bower/bootstrap/js/bootstrap.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/lit@3.2.1/polyfill-support.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2.8.0/webcomponents-loader.js'></script>
+<script data='ionicons' defer='' src='https://cdnjs.cloudflare.com/ajax/libs/ionicons/7.4.0/ionicons/ionicons.esm.js' type='module'></script>
+<script data='ionicons' defer='' nomodule='' src='https://cdnjs.cloudflare.com/ajax/libs/ionicons/7.4.0/ionicons/ionicons.js'></script>
+<script defer='' src='https://cdn.jsdelivr.net/npm/@jenkinsci/jenkins-io-components/+esm' type='module'></script>
+<script defer='' nomodule='' src='https://cdn.jsdelivr.net/npm/@jenkinsci/jenkins-io-components/'></script>
+<jio-footer githubBranch='master' githubRepo='jenkins-infra/jenkins.io' property='https://www.jenkins.io' reportAProblemTemplate='4-bug.yml' sourcePath='content/index.html.haml'></jio-footer>
+<script>
+  $(function(){
+    var $body = $(document.body);
+    $body.on("keydown", function(){
+      $body.removeClass("no-outline");
+    })
+    const updateTheme = () => {
+        const dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.dataset.theme = dark ? "dark" : "";
+    }
+    updateTheme();
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTheme);
   })
 </script>
-      </body>
-    </html>
-  
+</body>
+</html>
